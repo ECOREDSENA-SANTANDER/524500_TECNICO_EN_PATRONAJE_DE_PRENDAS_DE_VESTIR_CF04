@@ -32,47 +32,47 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Trazado de patrones (software de patronaje)',
+        titulo: 'Trazado de patrones (<em>software</em> de patronaje)',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Personalizar área de trabajo - Optitex',
+            titulo: 'Personalizar área de trabajo - <em>Optitex</em>',
             hash: 't_1_1',
           },
           {
             numero: '1.2',
-            titulo: 'Trazo de la falda - Optitex',
+            titulo: 'Trazo de la falda - <em>Optitex</em>',
             hash: 't_1_1',
           },
           {
             numero: '1.3',
-            titulo: 'Trazo de la base superior femenina – Optitex',
+            titulo: 'Trazo de la base superior femenina – <em>Optitex</em>',
             hash: 't_1_1',
           },
           {
             numero: '1.4',
-            titulo: 'Traslados de pinza – Optitex',
+            titulo: 'Traslados de pinza – <em>Optitex</em>',
             hash: 't_1_1',
           },
           {
             numero: '1.5',
-            titulo: 'Cortes base superior femenina - Optitex',
+            titulo: 'Cortes base superior femenina - <em>Optitex</em>',
             hash: 't_1_1',
           },
           {
             numero: '1.6',
-            titulo: 'Blusa hasta la cadera – Optitex',
+            titulo: 'Blusa hasta la cadera – <em>Optitex</em>',
             hash: 't_1_1',
           },
           {
             numero: '1.7',
-            titulo: 'Cortes princesa y francés - Optitex',
+            titulo: 'Cortes princesa y francés - <em>Optitex</em>',
             hash: 't_1_1',
           },
           {
             numero: '1.8',
-            titulo: 'Modelos de faldas – Optitex',
+            titulo: 'Modelos de faldas – <em>Optitex</em>',
             hash: 't_1_1',
           },
         ],
@@ -91,7 +91,7 @@ export default {
           },
           {
             numero: '2.2',
-            titulo: 'Introducción a trazo y corte',
+            titulo: 'Concepto de trazo y corte',
             hash: 't_1_1',
           },
           {
@@ -184,70 +184,72 @@ export default {
   },
   complementario: [
     {
-      tema: '',
+      tema: 'Personalizar área de trabajo',
       referencia:
         'Araque, J. (13 de noviembre de 2013). Tiqueteador de tela. [video]. Youtube',
       tipo: 'Video',
       link: 'https://youtu.be/uO2HGq24lkE',
     },
     {
-      tema: '',
+      tema: 'Reconocimiento de las prendas',
       referencia:
-        'Digitalmentes asesorías. (28 de junio de 2020). Manipulando pinzas en Optitex. [video]. Youtube',
+        'Digitalmentes asesorías. (28 de junio de 2020). Manipulando pinzas en <em>Optitex</em>. [video]. Youtube',
       tipo: 'Video',
       link: 'https://youtu.be/7X9G8DTMV9w',
     },
     {
-      tema: '',
+      tema: 'Trazo y corte manual',
       referencia:
         'Duarte, N. (1983). Conocimientos básicos de corte. Unidad instruccional No. 3. Servicio Nacional de Aprendizaje SENA',
       tipo: 'Libro',
-      link: 'https://hdl.handle.net/11404/1432.',
+      link:
+        'https://repositorio.sena.edu.co/sitios/modisteria_conocimientos_basicos/conocimientos_corte/conocimientos_corte.html',
     },
     {
-      tema: '',
+      tema: 'Trazado de patrones',
       referencia:
         'Gutiérrez, L., Moncayo, A., Tanaka, K., Kimura, F., y Moreno, D. (2011). Manual de patronaje básico e interpretación de diseños. Servicio Nacional de Aprendizaje SENA',
       tipo: 'Libro',
       link: 'https://repositorio.sena.edu.co/handle/11404/4725?mode=full',
     },
     {
-      tema: '',
+      tema: 'Trazado de patrones',
       referencia:
         'Herramientas digitales Moda. (13 de junio 2018). AUDACES TIZADA Trazo. [video]. Youtube ',
       tipo: 'Video',
       link: 'https://youtu.be/C0O6derJC2s',
     },
     {
-      tema: '',
+      tema: 'Trazado de patrones',
       referencia:
-        'Herramientas digitales Moda. (15 de marzo 2018). OPTITEX - MARKER Trazo de patrones. [video]. Youtube',
+        'Herramientas digitales Moda. (15 de marzo 2018). <em>OPTITEX</em> - MARKER Trazo de patrones. [video]. Youtube',
       tipo: 'Video',
       link: 'https://youtu.be/fscxWYsenLE',
     },
     {
-      tema: '',
+      tema: 'Trazado de patrones',
       referencia:
-        'Herramientas digitales Moda. (2 de mayo 2018). OPTITEX Falda Básica. [video]. Youtube',
+        'Herramientas digitales Moda. (2 de mayo 2018). <em>OPTITEX</em> Falda Básica. [video]. Youtube',
       tipo: 'Video',
       link: 'https://youtu.be/oBVuhFGidN4',
     },
     {
-      tema: '',
-      referencia: 'Jaramillo, F. (s.f.). Optitex. Soluciones automatizadas',
+      tema: 'Trazado de patrones',
+      referencia:
+        'Jaramillo, F. (s.f.). <em>Optitex</em>. Soluciones automatizadas',
       tipo: 'Libro',
       link:
         'https://drive.google.com/file/d/1_fWNDEoaSGKPfnF-e6EUmI0LofJeJcQc/view?usp=sharing',
     },
     {
-      tema: '',
+      tema: 'Trazado de patrones',
       referencia:
-        'Lisandro, L. (24, de octubre de 2020). Cómo crear pinzas en Optitex. [video]. Youtube',
+        'Lisandro, L. (24, de octubre de 2020). Cómo crear pinzas en <em>Optitex</em>. [video]. Youtube',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=DX9-gvA37e4&feature=youtu.be',
     },
     {
-      tema: '',
+      tema: 'Trazado de patrones',
       referencia:
         'Londoño, A. (31 de marzo de 2020). Corpiño. [video]. Youtube ',
       tipo: 'Video',
@@ -256,12 +258,12 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Marker',
+      termino: '<em>Marker</em>',
       significado:
         'Programa de diseño de corte, que permite la optimización del uso de textiles, a través de anidamiento automatizado o ubicación manual de piezas en la mesa de trazo.',
     },
     {
-      termino: 'Optitex',
+      termino: '<em>Optitex</em>',
       significado:
         'Herramienta de diseño de patrones, muy utilizada en la industria textil, en empresas dedicadas a la confección de prendas de vestir.',
     },
@@ -304,7 +306,7 @@ export default {
     {
       referencia:
         'Duarte, N. (1983). Conocimientos básicos de corte. Unidad instruccional No. 3. Servicio Nacional de Aprendizaje SENA.',
-      link: ' ',
+      link: 'https://repositorio.sena.edu.co/handle/11404/1432?show=full',
     },
     {
       referencia:

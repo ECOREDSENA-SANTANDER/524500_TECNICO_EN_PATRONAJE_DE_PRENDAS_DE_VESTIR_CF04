@@ -9,7 +9,7 @@
       
     .row.justify-content-center.align-items-center.mt-4.mb-4
       .col-7
-        p Para el manejo e implementación del software de patronaje es necesario tener como referente el desarrollo y elaboración de básicos, de acuerdo con la metodología del manual de patronaje SENA y demás teorías estudiadas hasta el momento.
+        p Para el manejo e implementación del <em>software</em> de patronaje es necesario tener como referente el desarrollo y elaboración de básicos, de acuerdo con la metodología del manual de patronaje SENA y demás teorías estudiadas hasta el momento.
         .cajon.color-primario 
           p.p-5 <strong> Para el trazo de patrones se referenciará únicamente la línea femenina; sin embargo, cabe resaltar que las herramientas del programa y manejo de interfaz aplican para cualquier línea; tenga en cuenta que el desarrollo del trabajo manual es la base para la apropiación de un proceso digital. </strong>
       .col-3.p-3
@@ -21,8 +21,7 @@
         h2 1.1  Personalizar área de trabajo - <em>Optitex</em>
 
     .row.mb-4
-      h3 Reconocimiento interfaz de Optitex
-      p Reconocimiento interfaz de Optitex:
+      h3 Reconocimiento interfaz de <em>Optitex</em>
     
     .row.justify-content-center.mb-4
       .col-3.mb-5.mb-sm-0
@@ -394,9 +393,9 @@
             .col-sm-12.col-lg-10
               .row.justify-content-between.align-items-center
                 .col-sm-12.col-lg-8.mb-sm-0
-                  p.mb-0 Para una mejor comprensión revisar el siguiente video de “trazo de falda en Optitex”.
+                  p.mb-0 Para una mejor comprensión revisar el siguiente video de “trazo de falda en <em>Optitex</em>”.
                 .col-sm-12.col-lg-4
-                  a.boton.color-boton(href="https://www.youtube.com/embed/G4IGF6OvFSQ" target="_blank")
+                  a.boton.color-boton(href="https://youtu.be/oBVuhFGidN4" target="_blank")
                     span.text-sistm Ir al sitio
                     i.fas.fa-video.text-sistm
       .col-sm-12.col-lg-6
@@ -409,7 +408,7 @@
                 .col-sm-12.col-lg-8.mb-sm-0
                   p.mb-0 También se recomienda revisar el siguiente “tutorial de patrón básico de falda”.
                 .col-sm-12.col-lg-4
-                  a.boton.color-boton(href="https://www.youtube.com/embed/Ds5CtwVbaag" target="_blank")
+                  a.boton.color-boton(href="https://youtu.be/IqWKE8czhQs" target="_blank")
                     span.text-sistm Ir al sitio
                     i.fas.fa-video.text-sistm
 
@@ -482,7 +481,7 @@
                 .col-sm-12.col-lg-8.mb-sm-0
                   p.mb-0 Para una mejor comprensión revisar el siguiente video de “trazado de corpiño básico”.
                 .col-sm-12.col-lg-4
-                  a.boton.color-boton(href="https://www.youtube.com/embed/G4IGF6OvFSQ" target="_blank")
+                  a.boton.color-boton(href=" https://youtu.be/yUYtfsOZoSg" target="_blank")
                     span.text-sistm Ir al sitio
                     i.fas.fa-video.text-sistm
     
@@ -507,7 +506,7 @@
           .col-md-6
             img.p-3(src="@/assets/curso/temas/tema1/tarjeta6/imagen3.png", alt='La imagen muestra dos diagramas de patrones de costura para el cuerpo de una prenda. El diagrama de la izquierda presenta un patrón básico con líneas punteadas que indican la ubicación de una pinza en la cintura, y el contorno del patrón está delineado con líneas sólidas negras. El diagrama de la derecha muestra el mismo patrón pero con el área sombreada en azul, destacando la pieza completa. Ambas imágenes tienen las mismas líneas punteadas y sólidas para indicar las características del patrón, siendo la principal diferencia el sombreado azul en el diagrama derecho.')
 
-    h3.mb-5.mt-5 Parte delantera talla 10
+    h3.mb-5.mt-5  talla 10
 
     .tarjeta.tarjeta--gris.p-4.borde-redondo(style="background-color: #F8F5FF")
       LineaTiempoC.color-acento-botones(text-small)
@@ -599,7 +598,7 @@
                   p.mb-0 A continuación, le invito a revisar el siguiente video sobre el” trazo de la base superior femenina”.
                   br
                 .col-sm-12.col-lg-4
-                  a.boton.color-boton(href="https://www.youtube.com/embed/G4IGF6OvFSQ" target="_blank")
+                  a.boton.color-boton(href="https://youtu.be/p5r2Sm5N7nw" target="_blank")
                     span.text-sistm Ir al sitio
                     i.fas.fa-video.text-sistm
       .col-sm-12.col-lg-6
@@ -610,9 +609,9 @@
             .col-sm-12.col-lg-10
               .row.justify-content-between.align-items-center
                 .col-sm-12.col-lg-8.mb-sm-0
-                  p.mb-0 También se recomienda revisar el siguiente video para una mejor compresión sobre cómo “crear, modificar y trasladar los diferentes estilos de pinza en Optitex”.
+                  p.mb-0 También se recomienda revisar el siguiente video para una mejor compresión sobre cómo “crear, modificar y trasladar los diferentes estilos de pinza en <em>Optitex</em>”.
                 .col-sm-12.col-lg-4
-                  a.boton.color-boton(href="https://www.youtube.com/embed/Ds5CtwVbaag" target="_blank")
+                  a.boton.color-boton(href="https://youtu.be/DX9-gvA37e4" target="_blank")
                     span.text-sistm Ir al sitio
                     i.fas.fa-video.text-sistm
 
@@ -757,7 +756,7 @@
                 .col-sm-12.col-lg-8.mb-sm-0
                   p.mb-0 Para una mejor comprensión del tema le invito a revisar el siguiente video sobre “traslados de pinzas”.
                 .col-sm-12.col-lg-4
-                  a.boton.color-boton(href="https://www.youtube.com/embed/G4IGF6OvFSQ" target="_blank")
+                  a.boton.color-boton(href="https://youtu.be/gUEDWvGuc2k" target="_blank")
                     span.text-sistm Ir al sitio
                     i.fas.fa-video.text-sistm
       .col-sm-12.col-lg-6
@@ -768,9 +767,9 @@
             .col-sm-12.col-lg-10
               .row.justify-content-between.align-items-center
                 .col-sm-12.col-lg-8.mb-sm-0
-                  p.mb-0 También se recomienda visualizar el siguiente video donde se muestra cómo “aplicar y manipular pinzas en Optitex”.
+                  p.mb-0 También se recomienda visualizar el siguiente video donde se muestra cómo “aplicar y manipular pinzas en <em>Optitex</em>”.
                 .col-sm-12.col-lg-4
-                  a.boton.color-boton(href="https://www.youtube.com/embed/Ds5CtwVbaag" target="_blank")
+                  a.boton.color-boton(href="https://youtu.be/7X9G8DTMV9w" target="_blank")
                     span.text-sistm Ir al sitio
                     i.fas.fa-video.text-sistm
     
@@ -869,7 +868,7 @@
                 .col-sm-12.col-lg-8.mb-sm-0
                   p.mb-0 Para una mejor comprensión del tema revisar el siguiente video sobre “cortes de base superior femenina”.
                 .col-sm-12.col-lg-4
-                  a.boton.color-boton(href="https://www.youtube.com/embed/G4IGF6OvFSQ" target="_blank")
+                  a.boton.color-boton(href="https://youtu.be/ii4H63hkOZQ" target="_blank")
                     span.text-sistm Ir al sitio
                     i.fas.fa-video.text-sistm
 
@@ -1018,7 +1017,7 @@
                 .col-sm-12.col-lg-8.mb-sm-0
                   p.mb-0 Para una mejor comprensión del tema revisar el siguiente video de “blusa hasta cadera delantero”. 
                 .col-sm-12.col-lg-4
-                  a.boton.color-boton(href="https://www.youtube.com/embed/G4IGF6OvFSQ" target="_blank")
+                  a.boton.color-boton(href="https://youtu.be/nK68BdFTM6Y" target="_blank")
                     span.text-sistm Ir al sitio
                     i.fas.fa-video.text-sistm
       .col-sm-12.col-lg-6
@@ -1031,7 +1030,7 @@
                 .col-sm-12.col-lg-8.mb-sm-0
                   p.mb-0 Para una mejor comprensión del tema revisar el siguiente video de “blusa hasta cadera posterior”. 
                 .col-sm-12.col-lg-4
-                  a.boton.color-boton(href="https://www.youtube.com/embed/Ds5CtwVbaag" target="_blank")
+                  a.boton.color-boton(href="https://youtu.be/8-oyqpzDseo" target="_blank")
                     span.text-sistm Ir al sitio
                     i.fas.fa-video.text-sistm
 
@@ -1135,7 +1134,7 @@
                 .col-sm-12.col-lg-8.mb-sm-0
                   p.mb-0 Para una mejor comprensión del tema revisar el siguiente video de “corte princesa y francés”. 
                 .col-sm-12.col-lg-4
-                  a.boton.color-boton(href="https://www.youtube.com/embed/G4IGF6OvFSQ" target="_blank")
+                  a.boton.color-boton(href="https://youtu.be/RMw9IStPYzA" target="_blank")
                     span.text-sistm Ir al sitio
                     i.fas.fa-video.text-sistm
 
@@ -1252,18 +1251,11 @@
             .col-sm-12.col-lg-10
               .row.justify-content-between.align-items-center
                 .col-sm-12.col-lg-8.mb-sm-0
-                  p.mb-0 Para una mejor comprensión del tema le invito a revisar el video “modelos de faldas en Optitex”.
+                  p.mb-0 Para una mejor comprensión del tema le invito a revisar el video “modelos de faldas en <em>Optitex</em>”.
                 .col-sm-12.col-lg-4
-                  a.boton.color-boton(href="https://www.youtube.com/embed/G4IGF6OvFSQ" target="_blank")
+                  a.boton.color-boton(href="https://youtu.be/DwDBOSykx2o" target="_blank")
                     span.text-sistm Ir al sitio
                     i.fas.fa-video.text-sistm
-
-    Separador
-    .row.mb-4
-      .titulo-segundo.color-primario
-        h2 2.2  Introducción a trazo y corte
-
-
 
 
 </template>

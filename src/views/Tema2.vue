@@ -183,7 +183,7 @@
     Separador    
     .row.mb-4
       .titulo-segundo.color-primario
-        h2 2.2  Introducción a trazo y corte
+        h2 2.2  Concepto de trazo y corte
 
     br
     .row.justify-content-center.mb-4.mt-4
@@ -283,7 +283,7 @@
               p.text-small Utiliza maquinaria y equipos electromecánicos, disminuyendo la intervención de operaciones manuales.  
           .row(numero="3" titulo="Automático")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Comprende mesa, unidad de control conformado por el ordenador con software especializado, cabezal de corte y carro extendedor automático, permitiendo optimizar el espacio y tiempos de corte. 
+              p.text-small Comprende mesa, unidad de control conformado por el ordenador con <em>software</em> especializado, cabezal de corte y carro extendedor automático, permitiendo optimizar el espacio y tiempos de corte. 
       .col-4
         img.p-3(src="@/assets/curso/temas/tema2/imagen14.svg", alt='Modista cortando')
 
@@ -563,7 +563,7 @@
 
     .row.mt-4.mb-4
       h3.mb-4.mt-4 Extendido industrial
-      p El proceso de extendido industrial se realiza a través del software especializado (CAD, sistemas de diseño asistido por computador: Optitex, Lectra, Audaces). Este proceso se realiza según las especificaciones de la orden de corte o ficha técnica. Los extendidos utilizados en la industria son:
+      p El proceso de extendido industrial se realiza a través del <em>software</em> especializado (CAD, sistemas de diseño asistido por computador: Optitex, Lectra, Audaces). Este proceso se realiza según las especificaciones de la orden de corte o ficha técnica. Los extendidos utilizados en la industria son:
 
     AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--white")
       .row.borde-redondo-tmorada(titulo="Extendido cara arriba")
@@ -582,7 +582,7 @@
           p.ps-5 Se repite el proceso con la siguiente capa, pero teniendo en cuenta que esta debe quedar con el derecho de tela hacia abajo, quedando cada a cara con la primera capa. Las siguientes capas deben quedar en pares, derecho con derecho de la tela.
         .col-md-8
           img.p-5(src="@/assets/curso/temas/tema2/tarjeta7/imagen3.svg")
-      .row.borde-redondo-tmorada(titulo="Extendido zigzag")
+      .row.borde-redondo-tmorada(titulo="Extendido <em>zigzag</em>")
         .col-md-4.mb-4.mb-md-0
           p.p-5 El proceso es igual al extendido cara a cara, la diferencia es que no se cortan los extremos. Una vez llegado al extremo dobla sobre sí mismo para hacer el recorrido en sentido contrario. De esta forma las capas de tela deben quedar pares cara con cara y revés con revés.
         .col-md-8
@@ -877,8 +877,8 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src="@/assets/curso/temas/tema2/tarjeta11/imagen3.png")
-        p.text-center <strong>Tijeras zigzag</strong>
-        p.text-small Poseen dientes en las hojas, lo que crea un patrón de corte en zig zag. La función principal de este tipo de tijeras es la de evitar que se deshilache el textil después del corte.
+        p.text-center <strong>Tijeras <em>zigzag</em></strong>
+        p.text-small Poseen dientes en las hojas, lo que crea un patrón de corte en <em>zig zag</em>. La función principal de este tipo de tijeras es la de evitar que se deshilache el textil después del corte.
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-8
@@ -934,7 +934,7 @@
           p.text-center <strong>Características del material</strong>
     
     .row.mb-4.mt-4
-      p.mt-4.mb-4 <strong>Tipos de trazo</strong>
+      p.mt-4.mb-4 <strong>¿Para qué?</strong>
       p.mb-0 El reconocimiento de las características del material textil a trabajar es sumamente importante para asegurar una calidad óptima en la prenda al cortar y ensamblar. Antes de cada proceso de tendido, marcación y corte se deben verificar dichas características.
     
     .row.justify-content-center.mb-4-mt-4
@@ -944,7 +944,7 @@
     <br> <br>
     .row.justify-content-center.mb-4-mt-4
       .col-3
-        p <strong>¿Qué es la textura nap (velvet, pelusa, fleece)?</strong>
+        p <strong>¿Qué es la textura <em>nap</em> (<em>velvet</em>, pelusa, <em>fleece</em>)?</strong>
         p Nap es la textura de los textiles que van en una dirección particular. Esta propiedad de la prenda es fundamental para garantizar la calidad de la misma. En algunos textiles se logra evidenciar el nap a simple vista como velvet, fleece, piel sintética, denim cepillado, franela, gamuza sintética, sarga, elástica, tela de felpa, etc.
       .col-3
         img.p-4(src="@/assets/curso/temas/tema2/imagen46.svg")
@@ -956,7 +956,7 @@
             .col-2
               img.mt-4.mb-4.ps-5(src="@/assets/curso/temas/tema2/admiracion.png")
             .col-10
-              p.ps-3.mb-0 <strong>¿Por qué es importante el nap?</strong>
+              p.ps-3.mb-0 <strong>¿Por qué es importante el <em>nap</em>?</strong>
               p.ps-3.mb-0 El nap es muy importante para determinar cómo se establece el patrón en el textil, en este caso se trabaja siempre un trazo direccional. Se debe tener en cuenta lo siguiente:
 
     .row.justify-content-center-aling-items-center
@@ -967,7 +967,7 @@
           .tarjeta.cajonmorado.borde-redondo
             .text-dark.p-4
               p.text-center(style="color: white") <strong>Acabados de la prenda</strong>
-              p.text-center(style="color: white") Si no se tiene en cuenta el nap al momento de cortar la prenda, la prenda terminaría con brillos diferentes en cada pieza, necesitan un color y una textura uniforme en toda la pieza.
+              p.text-center(style="color: white") Si no se tiene en cuenta el <em>nap</em> al momento de cortar la prenda, la prenda terminaría con brillos diferentes en cada pieza, necesitan un color y una textura uniforme en toda la pieza.
       .col-4
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema2/dos.svg' alt='AvatarTop')
@@ -980,15 +980,15 @@
     <br> <br>
     .row.justify-content-center.mb-4-mt-4
       .col-3
-        p <strong>¿Cómo identificar el nap?</strong>
-        p Al pasar las manos suavemente por el textil para sentir el nap/pelusa
+        p <strong>¿Cómo identificar el <em>nap</em>?</strong>
+        p Al pasar las manos suavemente por el textil para sentir el <em>nap</em>/pelusa
         ul.lista-ul--color.fa-ul.color-primario
           li 
             i.fas.fa-plus
-            | La sensación más suave es la dirección con nap/pelusa
+            | La sensación más suave es la dirección con <em>nap</em>/pelusa
           li
             i.fas.fa-plus
-            | La sensación más áspera es la dirección contraria al nap/pelusa
+            | La sensación más áspera es la dirección contraria al <em>nap</em>/pelusa
           li
             i.fas.fa-plus
             | El brillo de la tela es diferente cuando se ve desde diferentes direcciones
@@ -997,7 +997,7 @@
 
     .row.mb-4-mt-4
       p <strong>Trazo o marcado</strong>
-      p Se recomienda que cuando se utilice este tipo de textiles con nap, el proceso de transferir los moldes al textil se trabaje preferiblemente en un tendido abierto, sujetado con alfileres. Para marcar pinzas o elementos clave se recomienda los hilvanes o tailor tacks.
+      p Se recomienda que cuando se utilice este tipo de textiles con <em>nap</em>, el proceso de transferir los moldes al textil se trabaje preferiblemente en un tendido abierto, sujetado con alfileres. Para marcar pinzas o elementos clave se recomienda los hilvanes o <em>tailor tacks</em>.
       .row.justify-content-center
         .col-7
           img(src="@/assets/curso/temas/tema2/imagen49.svg")
@@ -1006,7 +1006,7 @@
     .row.justify-content-center.mb-4-mt-4
       .col-3
         p <strong>Piel sintética</strong>
-        p La piel sintética también cuenta con nap/siesta que es mucho más sencilla para identificar la dirección del vello. En este caso se debe trabajar:
+        p La piel sintética también cuenta con <em>nap</em>/siesta que es mucho más sencilla para identificar la dirección del vello. En este caso se debe trabajar:
         ul.lista-ul--color.fa-ul.color-primario
           li 
             i.fas.fa-plus
@@ -1023,7 +1023,7 @@
 
       .row.mt-4.mb-4
         p <strong>Tips de corte, piel sintética</strong>
-        p Cortar en el sentido del nap/vello. Realice cortadas pequeñas, preferible con la punta de la tijeras. Una vez cortado se sugiere eliminar el exceso de vello/pelo por el margen de costura, teniendo en cuenta la dirección del pelo se recomienda confeccionarlo en esa misma dirección.
+        p Cortar en el sentido del <em>nap</em>/vello. Realice cortadas pequeñas, preferible con la punta de la tijeras. Una vez cortado se sugiere eliminar el exceso de vello/pelo por el margen de costura, teniendo en cuenta la dirección del pelo se recomienda confeccionarlo en esa misma dirección.
         .row.justify-content-center
           .col-6
             img.mt-5(src="@/assets/curso/temas/tema2/imagen51.svg")
@@ -1103,28 +1103,13 @@
         .tarjeta.color-primario.borde-redondo.p-4.mb-5
           .row.justify-content-around.align-items-center
             .col-sm-12.col-lg-2.d-none.d-lg-block
-              img(src="@/assets/template/icono-pdf-2.svg")
-            .col-sm-12.col-lg-10
-              .row.justify-content-between.align-items-center
-                .col-sm-12.col-lg-9.mb-sm-0
-                  p.mb-0 Archivo descargable - Anexos 10.6.1 ARCHIVO DESCARGABLE
-                .col-sm-12.col-lg-3
-                  a.boton.color-boton(href="https://www.youtube.com/embed/G4IGF6OvFSQ" target="_blank")
-                    span.text-sistm Descargar
-                    i.fas.fa-file-download.text-sistm
-
-    .row.justify-content-center.mt-4.mb-4(data-aos="zoom-in-left")
-      .col-8
-        .tarjeta.color-primario.borde-redondo.p-4.mb-5
-          .row.justify-content-around.align-items-center
-            .col-sm-12.col-lg-2.d-none.d-lg-block
               img(src="@/assets/template/icono-video.svg")
             .col-sm-12.col-lg-10
               .row.justify-content-between.align-items-center
                 .col-sm-12.col-lg-9.mb-sm-0
                   p.mb-0 Para una mejor comprensión del tema revisar el siguiente video de “ejemplo sobre tipos de tendido con diferentes características del material”.
                 .col-sm-12.col-lg-3
-                  a.boton.color-boton(href="https://www.youtube.com/embed/G4IGF6OvFSQ" target="_blank")
+                  a.boton.color-boton(href="https://youtu.be/AQuKp0yivEw" target="_blank")
                     span.text-sistm Ir al sitio
                     i.fas.fa-video.text-sistm
 
@@ -1185,29 +1170,9 @@
       .row.borde-redondo-tmorada(titulo="Tecnología en corte")
         .col-md-12.mb-4.mb-md-0
           p.p-5 Consiste en separar por bloques las piezas cortadas, paqueteando la cantidad definida de todas las piezas que conforman la prenda, amarrando y conformando paquetes de 10 a 20 unidaLa tecnología en el área de corte inicia con el trazo asistido por computador a través de programas especializados, los cuales ahorran tiempo y espacio. Para el transporte de telas y paquetes cortados se usan bandas o carros, que son utilizados también para entregar los paquetes al área de ensamble.des; para así facilitar el control de producción y de calidad. Una vez se paquete es importante el almacenamiento, utilizando la técnica de Kanban para entregarlas a ensamble.
-      .row.borde-redondo-tmorada(titulo="Software de corte")
+      .row.borde-redondo-tmorada(titulo="<em>Software</em> de corte")
         .col-md-12.mb-4.mb-md-0
           p.p-5 Los programas empleados en la industria textil como Audaces, Gerber, Optitex o Lectra cuentan con módulos especializados en trazo, que facilitan el corte de las prendas, siendo más precisos, optimizando los tiempos y disminuyendo el desperdicio de materia prima. Además del computador y del programa se requiere el plotter para poder imprimir los trazos. En el caso de que el corte sea automático, el cabezal irá cortando sobre la tela sin previa impresión del trazo.
-
-    .row.justify-content-center.mt-4.mb-4(data-aos="zoom-in-left")
-      .col-8
-        .tarjeta.color-primario.borde-redondo.p-4.mb-5
-          .row.justify-content-around.align-items-center
-            .col-sm-12.col-lg-2.d-none.d-lg-block
-              img(src="@/assets/template/icono-video.svg")
-            .col-sm-12.col-lg-10
-              .row.justify-content-between.align-items-center
-                .col-sm-12.col-lg-9.mb-sm-0
-                  p.mb-0 Para una mejor comprensión del tema revisar el siguiente video.
-                .col-sm-12.col-lg-3
-                  a.boton.color-boton(href="https://www.youtube.com/embed/G4IGF6OvFSQ" target="_blank")
-                    span.text-sistm Ir al sitio
-                    i.fas.fa-video.text-sistm
-                  p 
-                  a.boton.color-boton(href="https://www.youtube.com/embed/G4IGF6OvFSQ" target="_blank")
-                    span.text-sistm Ir al sitio
-                    i.fas.fa-video.text-sistm
-
 
 
 </template>
