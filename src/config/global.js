@@ -3,8 +3,8 @@ export default {
     componenteFormativo: 'Trazado de patrones',
     descripcionCurso:
       'En este componente se aborda el manejo de un programa digital para la elaboración y el desarrollo de planos, moldes o trazos de patronaje; se exponen conceptos relacionados con: el reconocimiento de la interfaz, el trazo de los básicos, prendas de vestir, despiece y análisis de cada una de las partes que componen una prenda; de igual manera se trabajarán las generalidades del proceso de tendido, trazo y corte de prendas de vestir.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/imagen-portada.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/bannerprincipal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/imagen-portada.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/bannerprincipal.png'),
     //imagenesDecorativasBanner: [
     //  {
     //    clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
@@ -43,37 +43,37 @@ export default {
           {
             numero: '1.2',
             titulo: 'Trazo de la falda - <em>Optitex</em>',
-            hash: 't_1_1',
+            hash: 't_1_2',
           },
           {
             numero: '1.3',
             titulo: 'Trazo de la base superior femenina – <em>Optitex</em>',
-            hash: 't_1_1',
+            hash: 't_1_3',
           },
           {
             numero: '1.4',
             titulo: 'Traslados de pinza – <em>Optitex</em>',
-            hash: 't_1_1',
+            hash: 't_1_4',
           },
           {
             numero: '1.5',
             titulo: 'Cortes base superior femenina - <em>Optitex</em>',
-            hash: 't_1_1',
+            hash: 't_1_5',
           },
           {
             numero: '1.6',
             titulo: 'Blusa hasta la cadera – <em>Optitex</em>',
-            hash: 't_1_1',
+            hash: 't_1_6',
           },
           {
             numero: '1.7',
             titulo: 'Cortes princesa y francés - <em>Optitex</em>',
-            hash: 't_1_1',
+            hash: 't_1_7',
           },
           {
             numero: '1.8',
             titulo: 'Modelos de faldas – <em>Optitex</em>',
-            hash: 't_1_1',
+            hash: 't_1_8',
           },
         ],
       },
@@ -87,46 +87,46 @@ export default {
           {
             numero: '2.1',
             titulo: 'Reconocimiento de las prendas',
-            hash: 't_1_1',
+            hash: 't_2_1',
           },
           {
             numero: '2.2',
             titulo: 'Concepto de trazo y corte',
-            hash: 't_1_1',
+            hash: 't_2_2',
           },
           {
             numero: '2.3',
             titulo: 'Proceso de extendido',
-            hash: 't_1_1',
+            hash: 't_2_3',
           },
           {
             numero: '2.4',
             titulo: 'Tipos de trazo',
-            hash: 't_1_1',
+            hash: 't_2_4',
           },
           {
             numero: '2.5',
             titulo: 'Tendido, marcación y corte',
-            hash: 't_1_1',
+            hash: 't_2_5',
           },
           {
             numero: '2.6',
             titulo: 'Características del material',
-            hash: 't_1_1',
+            hash: 't_2_6',
             desarrolloContenidos: true,
             subMenu: [
               {
                 numero: '2.6.1',
                 titulo:
                   'Ejemplo de tipos de tendido con diferentes características del material',
-                hash: 't_1_1_1',
+                hash: 't_2_6_1',
               },
             ],
           },
           {
             numero: '2.7',
             titulo: 'Terminología industrial de trazo y corte',
-            hash: 't_1_1',
+            hash: 't_2_7',
           },
         ],
       },

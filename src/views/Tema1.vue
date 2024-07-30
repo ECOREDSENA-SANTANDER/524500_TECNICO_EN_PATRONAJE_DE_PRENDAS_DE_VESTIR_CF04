@@ -17,11 +17,14 @@
 
     Separador
     .row.mb-4
-      .titulo-segundo.color-primario
-        h2 1.1  Personalizar área de trabajo - <em>Optitex</em>
+      #t_1_1.titulo-segundo.color-primario
+        h2 1.1  Personalizar área de trabajo - Optitex
 
-    .row.mb-4
-      h3 Reconocimiento interfaz de <em>Optitex</em>
+    .subt.mb-4(data-aos="fade-right")
+      .d-flex.align-items-center.mb-1
+        img(src='@/assets/curso/temas/subt.svg', alt='')
+        h3.mb-0.ms-2 Reconocimiento interfaz de Optitex
+    p.mb-5.mt-5 Reconocimiento interfaz de Optitex:
     
     .row.justify-content-center.mb-4
       .col-3.mb-5.mb-sm-0
@@ -29,32 +32,34 @@
           li 
             .lista-ol--cuadro__vineta
               span 1
-            | Barra de título
+            | #[b Barra de título]
           li 
             .lista-ol--cuadro__vineta
               span 2
-            | Barra de menú
+            | #[b Barra de menú]
           li 
             .lista-ol--cuadro__vineta
               span 3
-            | Barra de herramientas
+            | #[b Barra de herramientas]
           li 
             .lista-ol--cuadro__vineta
               span 4
-            | Ventana de piezas
+            | #[b Ventana de piezas]
           li 
             .lista-ol--cuadro__vineta
               span 5
-            | Ventana de herramientas
+            | #[b Ventana de herramientas]
           li 
             .lista-ol--cuadro__vineta
               span 6
-            | Área de trabajo
+            | #[b Área de trabajo]
       .col-7
-        img(src="@/assets/curso/temas/tema1/imagen1.svg", alt="La imagen hace una descripción del paso a paso de la herramienta Optitex para poder hacer los trazos de cada prenda, allí se enumeran las barras y ventanas que se necesitan en cada fase.")
+        img(src="@/assets/curso/temas/tema1/imagen1.svg", alt="La imagen hace una descripción del paso a paso de la herramienta  para poder hacer los trazos de cada prenda, allí se enumeran las barras y ventanas que se necesitan en cada fase.")
 
-    .row.mb-4
-      h3 Despejar el área de trabajo y activar herramientas
+    .subt.mb-4(data-aos="fade-right")
+      .d-flex.align-items-center.mb-1
+        img(src='@/assets/curso/temas/subt.svg', alt='')
+        h3.mb-0.ms-2 Despejar el área de trabajo y activar herramientas
 
     .tarjeta.tarjeta--azul.p-4.mb-4.borde-redondo(style="background-color: #F8F5FF")
       SlyderA(tipo="b")
@@ -73,9 +78,10 @@
           .col-md-8
             img(src="@/assets/curso/temas/tema1/tarjeta1/imagen2.svg", alt='La imagen muestra la interfaz de un programa de diseño de patrones con un menú desplegable abierto. El menú está resaltado con un óvalo negro y ofrece varias opciones como “General”, “Modelo”, “Almacenamiento”, “Bibliotecas”, “Reglas de piezas”, “Vista 3D”, y “Simulación 3D”, entre otras. A la izquierda, se encuentra el panel de herramientas con categorías como “Herramientas de Piezas”, “Herramientas Generales”, “Puntos y Piquetes”, y “Capturar Puntos y Piquetes”. El área central muestra una regla horizontal en la parte superior del área de trabajo.')
 
-    br
-    .row.mt-4.mb-4
-      h3 Configurar área de trabajo
+    .subt.mb-4(data-aos="fade-right")
+      .d-flex.align-items-center.mb-1
+        img(src='@/assets/curso/temas/subt.svg', alt='')
+        h3.mb-0.ms-2 Configurar área de trabajo
 
     .tarjeta.tarjeta--gris.p-4.borde-redondo(style="background-color: #F8F5FF")
       LineaTiempoC.color-acento-botones(text-small)
@@ -169,10 +175,12 @@
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta2/imagen5.svg", alt='La imagen muestra la ventana de “Preferencias” del programa de diseño de patrones, enfocada en la configuración de colores. En la categoría “Configuración” bajo “General”, se puede ajustar el color de diferentes elementos del área de trabajo y las piezas. Un menú desplegable permite seleccionar colores para el fondo, líneas guía, rejilla, rayas, y reglas del área de trabajo, así como colores específicos para el relleno de piezas, bordes y otros detalles. La sección “General” está resaltada con un círculo amarillo.')
     
     br
-    .row.mt-4.mb-4
-      h3 ¿Qué habilitar en la barra de menú vista?
-       
-    AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--white")
+    .subt.mb-4(data-aos="fade-right")
+      .d-flex.align-items-center.mb-1
+        img(src='@/assets/curso/temas/subt.svg', alt='')
+        h3.mb-0.ms-2 ¿Qué habilitar en la barra de menú vista?
+
+    AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--purple")
       .row.borde-redondo-tmorada(titulo="Opción ventana de piezas")
         .col-md-4.mb-4.mb-md-0
           p.p-5 En la barra de <strong>menú vista</strong> seleccione la opción <strong>ventana de piezas</strong>. En esta ventana se permite visualizar las piezas que se han creado en el archivo.
@@ -227,12 +235,16 @@
 
     <br> <br>
     Separador
-    .row.mb-4
-      .titulo-segundo.color-primario
-        h2 1.2  Trazo de la falda - <em>Optitex</em>
-    
-    .row.mb-4.mt-4
-      h3 ¿Cómo trazar la base de falda femenina?
+    .row
+      #t_1_2.titulo-segundo.color-primario
+        h2 1.2  Trazo de la falda - Optitex
+
+    .subt.mb-4(data-aos="fade-right")
+      .d-flex.align-items-center.mb-1
+        img(src='@/assets/curso/temas/subt.svg', alt='')
+        h3.mb-0.ms-2 ¿Cómo trazar la base de falda femenina?
+    br
+
 
     .tarjeta.tarjeta--gris.p-4.borde-redondo(style="background-color: #F8F5FF")
       LineaTiempoC.color-acento-botones(text-small)
@@ -393,7 +405,7 @@
             .col-sm-12.col-lg-10
               .row.justify-content-between.align-items-center
                 .col-sm-12.col-lg-8.mb-sm-0
-                  p.mb-0 Para una mejor comprensión revisar el siguiente video de “trazo de falda en <em>Optitex</em>”.
+                  p.mb-0 Para una mejor comprensión revisar el siguiente video de “trazo de falda en Optitex”.
                 .col-sm-12.col-lg-4
                   a.boton.color-boton(href="https://youtu.be/oBVuhFGidN4" target="_blank")
                     span.text-sistm Ir al sitio
@@ -413,11 +425,15 @@
                     i.fas.fa-video.text-sistm
 
     Separador
-    .row.mb-4.mt-4
-      .titulo-segundo.color-primario
-        h2 1.3 Trazo de la base superior femenina -<em>Optitex</em>
-    h3.mb-4.mt-4 ¿Cómo trazar la base superior femenina?
-    p <strong>Parte posterior talla 10</strong>
+    .row
+      #t_1_3.titulo-segundo.color-primario
+        h2 1.3 Trazo de la base superior femenina -Optitex
+
+    .subt(data-aos="fade-right")
+      .d-flex.align-items-center.mb-1
+        img(src='@/assets/curso/temas/subt.svg', alt='')
+        h3.mb-0.ms-2 ¿Cómo trazar la base superior femenina?
+    p.mb-4.mt-4 <strong>Parte posterior talla 10</strong>
 
     AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--white")
       .row.borde-redondo-tmorada(titulo="Paso 1")
@@ -485,8 +501,11 @@
                     span.text-sistm Ir al sitio
                     i.fas.fa-video.text-sistm
     
-    .row.mt-4.mb-4
-      h3 ¿Cómo trazar la pinza?
+    .subt.mb-5(data-aos="fade-right")
+      .d-flex.align-items-center.mb-1
+        img(src='@/assets/curso/temas/subt.svg', alt='')
+        h3.mb-0.ms-2 ¿Cómo trazar la pinza?
+
 
     .tarjeta.tarjeta--azul.p-4.mb-4.borde-redondo(style="background-color: #F8F5FF")
       SlyderA(tipo="b")
@@ -506,7 +525,10 @@
           .col-md-6
             img.p-3(src="@/assets/curso/temas/tema1/tarjeta6/imagen3.png", alt='La imagen muestra dos diagramas de patrones de costura para el cuerpo de una prenda. El diagrama de la izquierda presenta un patrón básico con líneas punteadas que indican la ubicación de una pinza en la cintura, y el contorno del patrón está delineado con líneas sólidas negras. El diagrama de la derecha muestra el mismo patrón pero con el área sombreada en azul, destacando la pieza completa. Ambas imágenes tienen las mismas líneas punteadas y sólidas para indicar las características del patrón, siendo la principal diferencia el sombreado azul en el diagrama derecho.')
 
-    h3.mb-5.mt-5  talla 10
+    .subt.mb-5.mt-5(data-aos="fade-right")
+      .d-flex.align-items-center.mb-1
+        img(src='@/assets/curso/temas/subt.svg', alt='')
+        h3.mb-0.ms-2 Parte delantera talla 10
 
     .tarjeta.tarjeta--gris.p-4.borde-redondo(style="background-color: #F8F5FF")
       LineaTiempoC.color-acento-botones(text-small)
@@ -609,7 +631,7 @@
             .col-sm-12.col-lg-10
               .row.justify-content-between.align-items-center
                 .col-sm-12.col-lg-8.mb-sm-0
-                  p.mb-0 También se recomienda revisar el siguiente video para una mejor compresión sobre cómo “crear, modificar y trasladar los diferentes estilos de pinza en <em>Optitex</em>”.
+                  p.mb-0 También se recomienda revisar el siguiente video para una mejor compresión sobre cómo “crear, modificar y trasladar los diferentes estilos de pinza en Optitex”.
                 .col-sm-12.col-lg-4
                   a.boton.color-boton(href="https://youtu.be/DX9-gvA37e4" target="_blank")
                     span.text-sistm Ir al sitio
@@ -618,8 +640,8 @@
     <br>
     Separador
     .row.mb-4
-      .titulo-segundo.color-primario
-        h2 1.4  Traslados de pinza - <em>Optitex</em>
+      #t_1_4.titulo-segundo.color-primario
+        h2 1.4  Traslados de pinza - Optitex
 
     .tarjeta.tarjeta--azul.p-4.mb-4.borde-redondo(style="background-color: #F8F5FF")
       SlyderA(tipo="b")
@@ -767,7 +789,7 @@
             .col-sm-12.col-lg-10
               .row.justify-content-between.align-items-center
                 .col-sm-12.col-lg-8.mb-sm-0
-                  p.mb-0 También se recomienda visualizar el siguiente video donde se muestra cómo “aplicar y manipular pinzas en <em>Optitex</em>”.
+                  p.mb-0 También se recomienda visualizar el siguiente video donde se muestra cómo “aplicar y manipular pinzas en Optitex”.
                 .col-sm-12.col-lg-4
                   a.boton.color-boton(href="https://youtu.be/7X9G8DTMV9w" target="_blank")
                     span.text-sistm Ir al sitio
@@ -775,8 +797,13 @@
     
     Separador    
     .row.mb-4
-      .titulo-segundo.color-primario
-        h2 1.5  Cortes base superior femenina - <em>Optitex</em>
+      #t_1_5.titulo-segundo.color-primario
+        h2 1.5  Cortes base superior femenina - Optitex
+
+    .subt.mb-5(data-aos="fade-right")
+      .d-flex.align-items-center.mb-1
+        img(src='@/assets/curso/temas/subt.svg', alt='')
+        h3.mb-0.ms-2 ¿Cómo convertir los traslados de pinza a cortes?
 
     .tarjeta.tarjeta--gris.p-4.borde-redondo(style="background-color: #F8F5FF")
       LineaTiempoC.color-acento-botones(text-small)
@@ -847,7 +874,7 @@
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta9/imagen13.svg", alt='La imagen muestra dos partes de una interfaz de software de diseño de patrones de costura. La parte izquierda muestra la interfaz completa con dos piezas de patrón, una recta y otra curva (coloreada en azul), y un panel de propiedades con opciones como “Principal”, “Escalado”, “Curva”, entre otras. La parte derecha muestra una ampliación de la pieza curva en azul, detallando los puntos y líneas de ajuste.')
         .row(titulo="14")
           .col-md-4.mb-4.mb-md-0
-            p.ps-5 <strong>14.</strong> 
+            p.ps-5 <strong>14.</strong> Para modificar o actualizar el nombre de la pieza, seleccionar la pieza en la ventana propiedades, pestaña cambiar nombre, haga doble clic y escribir el nombre deseado.
           .col-md-8
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta9/imagen14.svg", alt='La imagen muestra dos partes de una interfaz de software de diseño de patrones de costura. La parte izquierda muestra la interfaz completa con dos piezas de patrón, una recta y otra curva (coloreada en azul), y un panel de propiedades con opciones como “Principal”, “Escalado”, “Curva”, entre otras. La parte derecha muestra una ampliación de la pieza curva en azul, detallando los puntos y líneas de ajuste.')
         .row(titulo="15")
@@ -874,8 +901,8 @@
 
     Separador    
     .row.mb-4
-      .titulo-segundo.color-primario
-        h2 1.6  Blusa hasta la cadera - <em>Optitex</em>
+      #t_1_6.titulo-segundo.color-primario
+        h2 1.6  Blusa hasta la cadera - Optitex
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-9
@@ -1036,8 +1063,8 @@
 
     Separador    
     .row.mb-4
-      .titulo-segundo.color-primario
-        h2 1.7  Corte princesa y francés - <em>Optitex</em>
+      #t_1_7.titulo-segundo.color-primario
+        h2 1.7  Corte princesa y francés - Optitex
 
     .tarjeta.tarjeta--gris.p-4.borde-redondo(style="background-color: #F8F5FF")
       LineaTiempoC.color-acento-botones(text-small)
@@ -1140,8 +1167,8 @@
 
     Separador    
     .row.mb-4
-      .titulo-segundo.color-primario
-        h2 1.8  Modelos de faldas - <em>Optitex</em>
+      #t_1_8.titulo-segundo.color-primario
+        h2 1.8  Modelos de faldas - Optitex
 
     .tarjeta.tarjeta--azul.p-4.mb-4.borde-redondo(style="background-color: #F8F5FF")
       SlyderA(tipo="b")
@@ -1182,7 +1209,7 @@
             img.p-3(src="@/assets/curso/temas/tema1/tarjeta12/imagen7.svg", alt='La imagen muestra tres paneles de propiedades del software de diseño de patrones, todos titulados “Propiedades”. Cada panel tiene varias opciones ajustables como “Escalado”, “Curva”, “Conectado”, “Nombre”, “Ángulo”, “Costura” y “Punto alternativo de partida”. Las casillas de verificación permiten al usuario seleccionar o deseleccionar estas opciones para ajustar las características del patrón.')
         .row.justify-content-center.my-lg-4
           .col-md-4.mb-4.mb-md-0
-            p.p-5 <strong>8.</strong> En la pestaña propiedades se identifica que los puntos tienen atributo de <strong>escalado</strong>, desmárquelo y señale de <strong>curva.</strong>
+            p.p-5 <strong>8.</strong> En la pestaña <strong>propiedades</strong> se identifica que los puntos tienen atributo de <strong>escalado</strong>, desmárquelo y señale de <strong>curva.</strong>
           .col-md-8
             img.p-3(src="@/assets/curso/temas/tema1/tarjeta12/imagen8.svg", alt='La imagen muestra cuatro patrones de costura, todos coloreados en azul claro y con líneas y puntos que indican detalles de ensamblaje. Tres de los patrones parecen ser secciones ampliadas, mostrando más detalles en los puntos de ajuste o costura. Uno de los patrones (izquierda) tiene una línea que podría representar una dirección del grano o una pinza. Los otros patrones muestran curvas y puntos de referencia para el ensamblaje.')
         .row.justify-content-center.my-lg-4
@@ -1239,7 +1266,7 @@
           .col-md-4.mb-4.mb-md-0
             p.p-5 <strong>19.</strong> Para dividir la parte superior de la falda y hacer que coincida con el corte o con el vuelo marque la línea guía a la altura de la separación.
           .col-md-8
-            img.p-3(src="@/assets/curso/temas/tema1/tarjeta12/imagen18.svg", alt='La imagen muestra una interfaz de software de diseño de patrones de costura. En ella, se presentan tres patrones de falda, cada uno en una etapa diferente de edición, con áreas sombreadas en verde y azul para resaltar secciones específicas. En la esquina inferior izquierda, hay un menú desplegable con varias opciones, como “Delinear tramos”, “Delinear pieza” y “Construir zonas piezas”, entre otras.')
+            img.p-3(src="@/assets/curso/temas/tema1/tarjeta12/imagen19.svg", alt='La imagen muestra una interfaz de software de diseño de patrones de costura. En ella, se presentan tres patrones de falda, cada uno en una etapa diferente de edición, con áreas sombreadas en verde y azul para resaltar secciones específicas. En la esquina inferior izquierda, hay un menú desplegable con varias opciones, como “Delinear tramos”, “Delinear pieza” y “Construir zonas piezas”, entre otras.')
 
     <br> <br>
     .row.justify-content-center(data-aos="zoom-in-left")
@@ -1251,7 +1278,7 @@
             .col-sm-12.col-lg-10
               .row.justify-content-between.align-items-center
                 .col-sm-12.col-lg-8.mb-sm-0
-                  p.mb-0 Para una mejor comprensión del tema le invito a revisar el video “modelos de faldas en <em>Optitex</em>”.
+                  p.mb-0 Para una mejor comprensión del tema le invito a revisar el video “modelos de faldas en Optitex”.
                 .col-sm-12.col-lg-4
                   a.boton.color-boton(href="https://youtu.be/DwDBOSykx2o" target="_blank")
                     span.text-sistm Ir al sitio
