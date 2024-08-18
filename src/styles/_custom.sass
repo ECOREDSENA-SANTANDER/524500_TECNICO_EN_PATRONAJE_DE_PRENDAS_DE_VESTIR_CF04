@@ -20,6 +20,9 @@
   
   // propios
 
+.banner-principal
+    border-radius: 20px !important
+
 .cajon.color-primario
   background-color: #D1BCFF
 
@@ -38,10 +41,6 @@
 
 .linea-tiempo-c__header__btn--right
   background-color: #FFD54F !important
-
-.tarjeta
-  border-bottom: 2px solid #E8E8E8
-  border-radius: 0px 
 
 .lista-ul--color.color-primario li > i:first-of-type 
   color: #895cd8 !important
@@ -66,15 +65,15 @@
 
 /// slyder F boton
 
+.slyder-f 
+    display: flex
+    align-items: center !important
+
 .slyder-f__btn
     width: 50px;
     height: 50px;
     background-color: $color-acento-botones;
     border-radius: 50%;
-    top: 50%;
-    justify-content: center !important; 
-    align-items: center !important;
-    position: sticky;
 
 .slyder-f__btn i 
     font-size: 2rem !important
@@ -86,6 +85,8 @@
 .slyder-f__btn.ps-3
   margin-left: 1rem;
   padding-left: 0 !important;
+
+
 
 /// -- Tabs -----
 
@@ -112,6 +113,9 @@
 
 .linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
     background-color: #D1BCFF !important
+
+.linea-tiempo-d__item__dots:after
+  border-left: 5px dotted  #673AB7;
 
 .tarjeta-avatar 
     height: 100%
@@ -147,6 +151,12 @@
 
 //acordeon
 
+.tarjeta--grisos 
+  background-color: #DADDDF !important
+
+.tarjeta--grisos.acordion__activo
+  background-color: #E8E4FF !important
+
 .tarjeta--purple
   border-bottom: 1px solid  #F8F5FF !important
   border-radius: 0 !important
@@ -157,9 +167,9 @@
 
 .acordion__activo .acordion__accion__btn--b
   background-color: #F8F5FF
-  border-color: #F8F5FF
+  border: 1px solid #12263F
   i
-    color: #FFF
+    color: black
 
 .fondoespecial
   background-image: url("../assets/curso/temas/tema2/fondo1.svg") !important
@@ -178,6 +188,9 @@
 
 .bgamarilloclaro
   background-color: #FFF5D3 !important
+
+.bgamarilloclaro2
+  background-color: #F4EDD4 !important
 
 .bgmoradoclaro
   background-color: #F3EEFF !important
@@ -214,5 +227,30 @@
   border-radius: 25px
 
 .estilo2
-  border: 20px solid #673AB7
- 
+  border: 20px solid #673AB7 
+
+//viñetas
+
+// sangría viñeta
+
+.fa-ul
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem
+
+.fa-ol
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem
+
+.texto-negro
+  font-color: black !important
+

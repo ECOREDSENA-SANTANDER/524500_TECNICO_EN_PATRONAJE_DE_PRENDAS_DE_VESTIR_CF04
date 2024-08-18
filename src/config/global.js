@@ -4,7 +4,7 @@ export default {
     descripcionCurso:
       'En este componente se aborda el manejo de un programa digital para la elaboración y el desarrollo de planos, moldes o trazos de patronaje; se exponen conceptos relacionados con: el reconocimiento de la interfaz, el trazo de los básicos, prendas de vestir, despiece y análisis de cada una de las partes que componen una prenda; de igual manera se trabajarán las generalidades del proceso de tendido, trazo y corte de prendas de vestir.',
     imagenBannerPrincipal: require('@/assets/curso/portada/imagen-portada.png'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/bannerprincipal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/bannerprincipal1.png'),
     //imagenesDecorativasBanner: [
     //  {
     //    clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
@@ -32,47 +32,47 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Trazado de patrones (<em>software</em> de patronaje)',
+        titulo: 'Trazado de patrones ( <em> software </em> de patronaje)',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Personalizar área de trabajo - <em>Optitex</em>',
+            titulo: 'Personalizar área de trabajo - Optitex',
             hash: 't_1_1',
           },
           {
             numero: '1.2',
-            titulo: 'Trazo de la falda - <em>Optitex</em>',
+            titulo: 'Trazo de la falda - Optitex',
             hash: 't_1_2',
           },
           {
             numero: '1.3',
-            titulo: 'Trazo de la base superior femenina – <em>Optitex</em>',
+            titulo: 'Trazo de la base superior femenina – Optitex',
             hash: 't_1_3',
           },
           {
             numero: '1.4',
-            titulo: 'Traslados de pinza – <em>Optitex</em>',
+            titulo: 'Traslados de pinza – Optitex',
             hash: 't_1_4',
           },
           {
             numero: '1.5',
-            titulo: 'Cortes base superior femenina - <em>Optitex</em>',
+            titulo: 'Cortes base superior femenina - Optitex',
             hash: 't_1_5',
           },
           {
             numero: '1.6',
-            titulo: 'Blusa hasta la cadera – <em>Optitex</em>',
+            titulo: 'Blusa hasta la cadera – Optitex',
             hash: 't_1_6',
           },
           {
             numero: '1.7',
-            titulo: 'Cortes princesa y francés - <em>Optitex</em>',
+            titulo: 'Cortes princesa y francés - Optitex',
             hash: 't_1_7',
           },
           {
             numero: '1.8',
-            titulo: 'Modelos de faldas – <em>Optitex</em>',
+            titulo: 'Modelos de faldas – Optitex',
             hash: 't_1_8',
           },
         ],
@@ -184,86 +184,78 @@ export default {
   },
   complementario: [
     {
-      tema: 'Personalizar área de trabajo',
+      tema: 'Personalizar área de trabajo.',
       referencia:
-        'Araque, J. (13 de noviembre de 2013). Tiqueteador de tela. [video]. Youtube',
+        'Araque, J. (13 de noviembre de 2013). Tiqueteador de tela. [video]. Youtube.',
       tipo: 'Video',
       link: 'https://youtu.be/uO2HGq24lkE',
     },
     {
-      tema: 'Reconocimiento de las prendas',
+      tema: 'Reconocimiento de las prendas.',
       referencia:
-        'Digitalmentes asesorías. (28 de junio de 2020). Manipulando pinzas en <em>Optitex</em>. [video]. Youtube',
+        'Digitalmentes asesorías. (28 de junio de 2020). Manipulando pinzas en  Optitex. [video]. Youtube.',
       tipo: 'Video',
       link: 'https://youtu.be/7X9G8DTMV9w',
     },
     {
-      tema: 'Trazo y corte manual',
+      tema: 'Trazo y corte manual.',
       referencia:
-        'Duarte, N. (1983). Conocimientos básicos de corte. Unidad instruccional No. 3. Servicio Nacional de Aprendizaje SENA',
+        'Duarte, N. (1983). Conocimientos básicos de corte. Unidad instruccional No. 3. Servicio Nacional de Aprendizaje SENA.',
       tipo: 'Libro',
       link:
         'https://repositorio.sena.edu.co/sitios/modisteria_conocimientos_basicos/conocimientos_corte/conocimientos_corte.html',
     },
     {
-      tema: 'Trazado de patrones',
+      tema: 'Trazado de patrones.',
       referencia:
-        'Gutiérrez, L., Moncayo, A., Tanaka, K., Kimura, F., y Moreno, D. (2011). Manual de patronaje básico e interpretación de diseños. Servicio Nacional de Aprendizaje SENA',
+        'Gutiérrez, L., Moncayo, A., Tanaka, K., Kimura, F., y Moreno, D. (2011). Manual de patronaje básico e interpretación de diseños. Servicio Nacional de Aprendizaje SENA.',
       tipo: 'Libro',
       link: 'https://repositorio.sena.edu.co/handle/11404/4725?mode=full',
     },
     {
-      tema: 'Trazado de patrones',
+      tema: 'Trazado de patrones.',
       referencia:
-        'Herramientas digitales Moda. (13 de junio 2018). AUDACES TIZADA Trazo. [video]. Youtube ',
+        'Herramientas digitales Moda. (13 de junio 2018). AUDACES TIZADA Trazo. [video]. Youtube. ',
       tipo: 'Video',
       link: 'https://youtu.be/C0O6derJC2s',
     },
     {
-      tema: 'Trazado de patrones',
+      tema: 'Trazado de patrones.',
       referencia:
-        'Herramientas digitales Moda. (15 de marzo 2018). <em>OPTITEX</em> - MARKER Trazo de patrones. [video]. Youtube',
+        'Herramientas digitales Moda. (15 de marzo 2018). OPTITEX - MARKER Trazo de patrones. [video]. Youtube.',
       tipo: 'Video',
       link: 'https://youtu.be/fscxWYsenLE',
     },
     {
-      tema: 'Trazado de patrones',
+      tema: 'Trazado de patrones.',
       referencia:
-        'Herramientas digitales Moda. (2 de mayo 2018). <em>OPTITEX</em> Falda Básica. [video]. Youtube',
+        'Herramientas digitales Moda. (2 de mayo 2018). OPTITEX Falda Básica. [video]. Youtube.',
       tipo: 'Video',
       link: 'https://youtu.be/oBVuhFGidN4',
     },
     {
-      tema: 'Trazado de patrones',
+      tema: 'Trazado de patrones.',
       referencia:
-        'Jaramillo, F. (s.f.). <em>Optitex</em>. Soluciones automatizadas',
-      tipo: 'Libro',
-      link:
-        'https://drive.google.com/file/d/1_fWNDEoaSGKPfnF-e6EUmI0LofJeJcQc/view?usp=sharing',
-    },
-    {
-      tema: 'Trazado de patrones',
-      referencia:
-        'Lisandro, L. (24, de octubre de 2020). Cómo crear pinzas en <em>Optitex</em>. [video]. Youtube',
+        'Lisandro, L. (24, de octubre de 2020). Cómo crear pinzas en Optitex. [video]. Youtube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=DX9-gvA37e4&feature=youtu.be',
     },
     {
-      tema: 'Trazado de patrones',
+      tema: 'Trazado de patrones.',
       referencia:
-        'Londoño, A. (31 de marzo de 2020). Corpiño. [video]. Youtube ',
+        'Londoño, A. (31 de marzo de 2020). Corpiño. [video]. Youtube.',
       tipo: 'Video',
       link: 'https://youtu.be/yUYtfsOZoSg',
     },
   ],
   glosario: [
     {
-      termino: '<em>Marker</em>',
+      termino: ' #[em Marker ]',
       significado:
         'Programa de diseño de corte, que permite la optimización del uso de textiles, a través de anidamiento automatizado o ubicación manual de piezas en la mesa de trazo.',
     },
     {
-      termino: '<em>Optitex</em>',
+      termino: 'Optitex',
       significado:
         'Herramienta de diseño de patrones, muy utilizada en la industria textil, en empresas dedicadas a la confección de prendas de vestir.',
     },
@@ -295,12 +287,12 @@ export default {
   referencias: [
     {
       referencia:
-        'Araque, J. (13 de noviembre de 2013). <em> Tiqueteador de tela. </em> [video]. Youtube.',
+        'Araque, J. (13 de noviembre de 2013). Tiqueteador de tela. [video]. Youtube.',
       link: 'https://youtu.be/uO2HGq24lkE',
     },
     {
       referencia:
-        'Digitalmentes asesorías. (28 de junio de 2020). <em>Manipulando pinzas en Optitex.</em> [video]. Youtube.',
+        'Digitalmentes asesorías. (28 de junio de 2020). Manipulando pinzas en Optitex. [video]. Youtube.',
       link: 'https://youtu.be/7X9G8DTMV9w',
     },
     {
@@ -310,43 +302,43 @@ export default {
     },
     {
       referencia:
-        'Evalds, P. (13 de Julio 2019). <em>Máquina fusionadora.</em> [video]. Youtube.',
+        'Evalds, P. (13 de Julio 2019). Máquina fusionadora. [video]. Youtube.',
       link: 'https://youtu.be/56wpJlyR_v4',
     },
     {
       referencia:
-        'Gutiérrez, L., Moncayo, A., Tanaka, K., Kimura, F., Moreno, D. (2011). <em>Manual de patronaje básico e interpretación de diseños.</em> Servicio Nacional de Aprendizaje SENA.',
+        'Gutiérrez, L., Moncayo, A., Tanaka, K., Kimura, F., Moreno, D. (2011).  Manual de patronaje básico e interpretación de diseños. Servicio Nacional de Aprendizaje SENA.',
       link:
         'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000025496',
     },
     {
       referencia:
-        'Herramientas digitales Moda. (13 de junio 2018). <em>AUDACES TIZADA Trazo.</em> [video]. Youtube.',
+        'Herramientas digitales Moda. (13 de junio 2018). AUDACES TIZADA Trazo. [video]. Youtube.',
       link: 'https://youtu.be/C0O6derJC2s',
     },
     {
       referencia:
-        'Herramientas digitales Moda. (15 de marzo 2018). <em>OPTITEX - MARKER Trazo de patrones.</em> [video]. Youtube.',
+        'Herramientas digitales Moda. (15 de marzo 2018). OPTITEX - MARKER Trazo de patrones. [video]. Youtube.',
       link: 'https://youtu.be/fscxWYsenLE',
     },
     {
       referencia:
-        'Herramientas digitales Moda. (2 de mayo 2018). <em>OPTITEX Falda Basica.</em> [video]. Youtube.',
+        'Herramientas digitales Moda. (2 de mayo 2018). Falda Basica. [video]. Youtube.',
       link: 'https://youtu.be/oBVuhFGidN4',
     },
     {
       referencia:
-        'Lisandro, L. (24, de octubre de 2020). <em>Cómo crear pinzas en Optitex.</em> [video]. Youtube.',
+        'Lisandro, L. (24, de octubre de 2020). Cómo crear pinzas en Optitex. [video]. Youtube.',
       link: 'https://www.youtube.com/watch?v=DX9-gvA37e4&feature=youtu.be',
     },
     {
       referencia:
-        'Londoño, A. (31 de marzo de 2020). <em>Corpiño.</em> [video]. Youtube',
+        'Londoño, A. (31 de marzo de 2020). Corpiño. [video]. Youtube',
       link: 'https://youtu.be/yUYtfsOZoSg',
     },
     {
       referencia:
-        'Vélez, M., García M., Hincapié L. (1996). <em>Patronaje y escalado línea interior y deportiva.</em> Servicio Nacional de Aprendizaje SENA.',
+        'Vélez, M., García M., Hincapié L. (1996).  Patronaje y escalado línea interior y deportiva.  Servicio Nacional de Aprendizaje SENA.',
       link: 'https://repositorio.sena.edu.co/handle/11404/4811',
     },
   ],

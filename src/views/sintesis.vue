@@ -2,14 +2,14 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 Se expone en un diagrama los principales temas que se abordan en el componente de trazado de patrones en la confección: el uso de #[em software] de patronaje, específicamente Optitex, y el método manual de trazo y corte. Encontrará dentro del componente los pasos clave involucrados en cada enfoque, destacando las etapas principales del proceso de diseño y producción de prendas.
 
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.png", alt="La Síntesis esta expuesta como un diagrama de flujo detallado dividido en dos secciones principales: “Trazado de patrones” y “Trazado y corte manual”, cada una con varios pasos organizados jerárquicamente para el proceso de diseño y confección de prendas. En “Trazado de patrones”, se detallan los procedimientos desde la preparación del área de trabajo hasta el modelado de faldas, todos enfocados en la optimización del proceso. En contraste, “Trazado y corte manual” abarca desde el reconocimiento de las prendas hasta la terminología industrial, incluyendo pasos como el extendido del material, diferentes tipos de trazo y el corte final, resaltando aspectos prácticos del manejo de materiales y técnicas de corte.")
+          img(src="@/assets/curso/temas/sintesis.png", alt="La imagen describe un diagrama comparativo que presenta dos enfoques para el trazado de patrones: uno mediante el uso de <i>software</i> de patronaje, como Optitex, y otro mediante el trazo y corte manual. En el lado izquierdo, se detallan las etapas del proceso con el software, desde la personalización del área de trabajo hasta la creación de diferentes modelos de prendas. En el lado derecho, se describen los pasos del proceso manual, desde el reconocimiento de las prendas hasta la terminología industrial relacionada con el trazo y corte.")
       .col-auto
-        a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
+        a.anexo.mb-5(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
