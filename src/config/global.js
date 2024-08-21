@@ -347,13 +347,13 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Johanna Gómez Pérez',
+          nombre: 'Milady Tatiana Villamil Castellanos',
           cargo: 'Responsable del Ecosistema',
-          centro: 'Regional Santander Centro Agroturístico',
+          centro: 'Dirección General',
         },
         {
-          nombre: 'Sandra Paola Morales Paez',
-          cargo: 'Evaluador Instruccional',
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo: 'Responsable de Línea de Producción',
           centro: 'Regional Santander Centro Agroturístico',
         },
       ],
@@ -363,9 +363,26 @@ export default {
       autores: [
         {
           nombre: 'Lizeth Maritza Rodríguez Beltrán',
-          cargo: 'Instructora Técnica',
+          cargo: 'Experta temática',
           centro:
             'Centro de Manufactura en Textil y Cuero - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Natalia Andrea Bueno Pizarro',
+          cargo: 'Diseñadora instruccional y evaluadora instruccional',
+          centro:
+            'Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+        },
+        {
+          nombre: 'Julia Isabel Roberto',
+          cargo: 'Diseñadora instruccional y evaluadora instruccional',
+          centro:
+            'Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+        },
+        {
+          nombre: 'Sandra Paola Morales Páez',
+          cargo: 'Evaluador instruccional',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -373,31 +390,24 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Natalia Andrea Bueno Pizarro',
-          cargo: 'Diseñadora y evaluadora instruccional',
-          centro:
-            'Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+          nombre: 'Carla Liliana Sequera Vargas',
+          cargo: 'Diseñador web',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Julia Isabel Roberto',
-          cargo: 'Diseñadora y evaluadora instruccional',
-          centro:
-            'Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+          nombre: 'Marcos Yamid Rubiana Avellaneda ',
+          cargo: 'Diseñador web',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Lucenith Pinilla Moreno',
+          cargo: 'Desarrollador Fullstack Junior',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'María Alejandra Vera Briceño',
+          cargo: 'Animadora y Productora Multimedia',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -405,24 +415,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Yineth Ibette González Quintero',
+          cargo: 'Validadora de Recursos Educativos Digitales',
+          centro: '	Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Jaime Hernan Tejada',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Margarita Marcela Medrano',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora para Contenidos Inclusivos y Accesibles',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },

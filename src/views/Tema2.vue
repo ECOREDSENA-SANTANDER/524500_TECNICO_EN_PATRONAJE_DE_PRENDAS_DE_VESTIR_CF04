@@ -7,7 +7,7 @@
         span 2
       h1 Trazo y corte manual
     
-    .row.align-items-center.align-items-center.mt-4(data-aos="zoom-in-left")
+    .row.justify-content-center.align-items-center.mt-4(data-aos="zoom-in-left")
       .col-sm-12.col-md-9.col-lg-9
         p La industria textil se destaca por tener diferentes procesos productivos para elaborar prendas de vestir; cuando se habla de trazo y corte a nivel general, consiste en toda la optimización o acomodación de moldes sobre el material textil.
         .cajon.color-primario 
@@ -21,18 +21,18 @@
         h2 2.1  Reconocimiento de las prendas
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
-      .col-sm-12.col-lg-10
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
-          .bloque-texto-g__img(
-            :style="{'background-image':`url(${require('@/assets/curso/temas/tema2/imagen2.svg')})`}"
-          )
-          .bloque-texto-g__texto.p-5
-            h3.mt-4.mb-4 ¿Para qué?
-            <br> <br> 
+      .col-sm-12.col-md-4.col-lg-4
+        h3 ¿Para qué?
+        p El reconocimiento de las partes que componen una prenda de vestir es sumamente importante para el proceso de trazo y corte, de esto depende una adecuada interpretación de los requerimientos de corte.
+      .col-sm-12.col-md-8.col-lg-8
+        .row.justify-content-center
+          .col-10.col-md-4.col-lg-4
+            img(src="@/assets/curso/temas/tema2/imagen2a.svg", alt="La imagen detalla varios bocetos de prendas de vestir diseñadas para mujeres. Las prendas incluyen una camiseta de manga larga, una camisa de botones, un top sin mangas, un conjunto de pijama, un pantalón, un vestido de tirantes, una bata corta y una bata larga con cinturón. Cada prenda está detalladamente ilustrada, indicando diferentes estilos y diseños para ropa femenina.")
+          .col-10.col-md-4.col-lg-4
+            img(src="@/assets/curso/temas/tema2/imagen2b.svg", alt="La imagen detalla varios bocetos de prendas de vestir diseñadas para mujeres. Las prendas incluyen una camiseta de manga larga, una camisa de botones, un top sin mangas, un conjunto de pijama, un pantalón, un vestido de tirantes, una bata corta y una bata larga con cinturón. Cada prenda está detalladamente ilustrada, indicando diferentes estilos y diseños para ropa femenina.")
+          .col-10.col-md-4.col-lg-4
+            img(src="@/assets/curso/temas/tema2/imagen2c.svg", alt="La imagen detalla varios bocetos de prendas de vestir diseñadas para mujeres. Las prendas incluyen una camiseta de manga larga, una camisa de botones, un top sin mangas, un conjunto de pijama, un pantalón, un vestido de tirantes, una bata corta y una bata larga con cinturón. Cada prenda está detalladamente ilustrada, indicando diferentes estilos y diseños para ropa femenina.")
 
-            // intente colocar mt o mb y no lo toma 
-
-            p El reconocimiento de las partes que componen una prenda de vestir es sumamente importante para el proceso de trazo y corte, de esto depende una adecuada interpretación de los requerimientos de corte.
 
     .row.justify-content-center.mt-4.fondoespecial.mb-5(data-aos="zoom-in-left")
       .col-7.col-md-5.col-lg-5.mb-5.mt-5

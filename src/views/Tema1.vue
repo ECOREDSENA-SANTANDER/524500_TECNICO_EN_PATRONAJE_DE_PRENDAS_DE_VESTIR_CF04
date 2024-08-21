@@ -405,7 +405,7 @@
                   a.boton.color-boton(href="https://www.youtube.com/watch?v=Bm8tEpqKDtI" target="_blank")
                     span.texto-negro Ir al sitio
                     i.fas.fa-video
-      // confirmar link video             
+      // confirmar link video: SE CONFIRMA VIDEO CON DI X PARTE DE DW - NO ESTA EN EL LISTADO             
       .col-sm-12.col-lg-6
         .tarjeta.borde-redondo.p-4.mb-5(style='background-color: #673AB7')
           .row.justify-content-around.align-items-center
@@ -416,7 +416,7 @@
                 .col-sm-12.col-lg-8.mb-sm-0
                   p.mb-0.text-white También se recomienda revisar el siguiente “tutorial de patrón básico de falda”.
                 .col-sm-12.col-lg-4
-                  a.boton.color-boton(href="https://youtu.be/IqWKE8czhQs" target="_blank")
+                  a.boton.color-boton(href="https://www.youtube.com/watch?v=oBVuhFGidN4" target="_blank")
                     span.texto-negro Ir al sitio
                     i.fas.fa-video
 
