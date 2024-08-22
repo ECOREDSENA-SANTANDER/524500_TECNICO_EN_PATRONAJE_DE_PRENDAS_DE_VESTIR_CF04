@@ -8,11 +8,11 @@
       h1 Trazo y corte manual
     
     .row.justify-content-center.align-items-center.mt-4(data-aos="zoom-in-left")
-      .col-sm-12.col-md-9.col-lg-9
+      .col-sm-12.col-md-8.col-lg-9
         p La industria textil se destaca por tener diferentes procesos productivos para elaborar prendas de vestir; cuando se habla de trazo y corte a nivel general, consiste en toda la optimización o acomodación de moldes sobre el material textil.
         .cajon.color-primario 
           p.p-5 #[b  Para abordar este tema, y de acuerdo con la necesidad de la industria textil frente al perfil de un patronista, se brindarán los conocimientos y se entregarán las herramientas técnicas requeridas en el área de prototipado o muestreo de producto.  ]
-      .col-7.col-md-3.col-lg-3.p-3
+      .col-7.col-md-4.col-lg-3.p-3
         img(src="@/assets/curso/temas/tema2/imagen1.svg", alt="Imagen recortando molde")
     
     Separador 
@@ -21,10 +21,10 @@
         h2 2.1  Reconocimiento de las prendas
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
-      .col-sm-12.col-md-4.col-lg-4
+      .col-sm-12.col-md-12.col-lg-4
         h3 ¿Para qué?
         p El reconocimiento de las partes que componen una prenda de vestir es sumamente importante para el proceso de trazo y corte, de esto depende una adecuada interpretación de los requerimientos de corte.
-      .col-sm-12.col-md-8.col-lg-8
+      .col-sm-12.col-md-12.col-lg-8
         .row.justify-content-center
           .col-10.col-md-4.col-lg-4
             img(src="@/assets/curso/temas/tema2/imagen2a.svg", alt="La imagen detalla varios bocetos de prendas de vestir diseñadas para mujeres. Las prendas incluyen una camiseta de manga larga, una camisa de botones, un top sin mangas, un conjunto de pijama, un pantalón, un vestido de tirantes, una bata corta y una bata larga con cinturón. Cada prenda está detalladamente ilustrada, indicando diferentes estilos y diseños para ropa femenina.")
@@ -141,17 +141,17 @@
             img(src="@/assets/curso/temas/tema2/imagen7.png", alt="La imagen destaca el uso de hilos en la confección de prendas, indicando que son esenciales para unir las diferentes partes. Se exponen ejemplos de pespuntes, puntadas decorativas, bastas y puntadas manuales, que son los tipos principales de costuras utilizados en la creación de ropa. ")
 
     .row.justify-content-center.mt-4(data-aos="zoom-in-left")
-      .col-sm-12.col-md-3.col-lg-3.mt-5
+      .col-sm-12.col-md-12.col-lg-3.mt-5
         h3.mb-4 Fornituras y complementos
         p Las fornituras son el conjunto de accesorios y adornos que puede llevar una prenda de vestir. Dentro de ellos se identifican: los botones, las cremalleras, corchetes, broches de presión, hebillas, ojetes, vivos, puntillas, cintas, apliques, gomas, cordones, etc.
-      .col-12.col-md-9.col-lg-9.mb-5.mt-5
+      .col-12.col-md-12.col-lg-9.mb-5.mt-5
         img(src="@/assets/curso/temas/tema2/imagen8.png", alt="La imagen exponen tres prendas de vestir modernas y detalladas. A la izquierda, hay una chaqueta verde con múltiples bolsillos y detalles en negro, incluyendo correas y cremalleras. En el centro, se presenta un conjunto rojo ajustado con un diseño de cremallera frontal y recortes decorativos. A la derecha, se ve una chaqueta negra con pespuntes contrastantes en color marrón y botones grandes, destacando un estilo estructurado y moderno. ")
 
 
     .row.justify-content-center.mt-4.mb-4(style="background-color: #E8DDFF")(data-aos="zoom-in-left")
       .col-7.col-md-5.col-lg-5
         img.mt-5.mb-5(src="@/assets/curso/temas/tema2/imagen9.svg", alt="La imagen expone los patrones de tela recortados para ensamblar una chaqueta. Los patrones incluyen piezas para las mangas, el cuello, los puños y otras partes esenciales del diseño. En una esquina, se presenta una imagen pequeña de la chaqueta completa, indicando cómo se ensamblan las piezas para formar la prenda final.")
-      .col-sm-12.col-md-3.col-lg-3
+      .col-sm-12.col-md-12.col-lg-3
         h3.mt-5 Identificación de piezas
         p Cada prenda está compuesta por piezas que tienen un nombre específico de acuerdo con la ubicación. Cada pieza tiene especificaciones técnicas de acuerdo con el proceso de extendido y corte del textil.
         
@@ -197,9 +197,9 @@
       .col-sm-12.col-md-10.col-lg-10
         .tarjeta.color-acento-botones.borde-redondo
           .row.justify-content-around.align-items-center
-            .col-5.col-md-2.col-lg-2
+            .col-5.col-md-4.col-lg-2
               img.mt-4.mb-4.ps-5(src="@/assets/curso/temas/tema2/admiracion.png")
-            .col-sm-12.col-md-10.col-lg-10
+            .col-sm-12.col-md-8.col-lg-10
               p.p-3.mb-0 #[b Trazo y corte ]
               p.ps-3 En el proceso de trazo y corte se revisa y analiza el mejor aprovechamiento de los tejidos mediante técnicas de marcadas, dependiendo en gran parte, de la calidad de la confección de la prenda; por tal motivo, constituye una tarea determinante en el costo total del producto.
 
@@ -211,7 +211,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-md-12.col-lg-12
         .row.align-items-center.justify-content-center
-          .col-sm-12.col-md-9.col-lg-9
+          .col-sm-12.col-md-12.col-lg-9
             p.mb-4 Procedimiento que se realiza sobre el material textil con jaboncillo o tiza, teniendo en cuenta las características dimensionales del tejido a cortar.
             .row.justify-content-center.p-4
               .col-5.col-md.col-lg
@@ -235,7 +235,7 @@
               .col-5.col-md.col-lg
                 img(src="@/assets/curso/temas/tema2/iconosv/icono7.svg", alt='Diseñadora')
                 p.text-center Mesa
-          .col-7.col-md-3.col-lg-3
+          .col-7.col-md-5.col-lg-3
             img(src="@/assets/curso/temas/tema2/imagen10.svg", alt='Diseñadora')
 
   
@@ -276,8 +276,8 @@
         h3.mb-0.ms-2 ¿Qué es el corte?
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
-      .col-sm-12.col-md-6.col-lg-6
-        p El corte se define como el proceso de transformación de la materia prima textil (tejido o tela) en piezas útiles para confeccionar prendas de vestir, este proceso de transformación se realiza utilizando máquinas especializadas de corte o con tijeras convencionales.
+      .col-sm-12.col-md-7.col-lg-6
+        p.mt-2 El corte se define como el proceso de transformación de la materia prima textil (tejido o tela) en piezas útiles para confeccionar prendas de vestir, este proceso de transformación se realiza utilizando máquinas especializadas de corte o con tijeras convencionales.
         p Para obtener excelentes resultados en el proceso de corte se requiere de:
         ul.lista-ul--color.fa-ul.color-primario.ps-1
           li 
@@ -286,7 +286,7 @@
           li
             i.fas.fa-plus
             | Otras herramientas.
-      .col-8.col-md-4.col-lg-4
+      .col-8.col-md-5.col-lg-4
         img(src="@/assets/curso/temas/tema2/imagen13.svg", alt='Diseño')
 
     .subt(data-aos="fade-right")
@@ -358,28 +358,28 @@
       .col-sm-12.col-md-10.col-lg-10
         .row.p-2
           p Cortadoras automáticas - cortadora sin fin – cortadora vertical – cortadora circular – cortadora de mano – guante de malla.
-          .col-sm-12.col-md-4.col-lg-4
+          .col-sm-12.col-md-6.col-lg-4
             .tajeta.bgamarilloclaro.borde-redondo.p-2
               img.mb-0(src='@/assets/curso/temas/tema2/tar15/imagen1.png', alt='La imagen presenta varias cortadoras utilizadas en la confección textil, incluyendo una cortadora automática, una cortadora sin fin, una cortadora vertical, una cortadora circular y una cortadora de mano. Además, expone un guante de malla que se utiliza como equipo de seguridad al manejar estas herramientas de corte. ')
               p.text-center #[b Cortadora automática ] 
-          .col-sm-12.col-md-4.col-lg-4
+          .col-sm-12.col-md-6.col-lg-4
             .tajeta.bgamarilloclaro.borde-redondo.p-2
               img.mb-0(src='@/assets/curso/temas/tema2/tar15/imagen2.png', alt='La imagen presenta varias cortadoras utilizadas en la confección textil, incluyendo una cortadora automática, una cortadora sin fin, una cortadora vertical, una cortadora circular y una cortadora de mano. Además, muestra un guante de malla que se utiliza como equipo de seguridad al manejar estas herramientas de corte.')
               p.text-center #[b Cortadora sin fin ]
-          .col-sm-12.col-md-4.col-lg-4
+          .col-sm-12.col-md-6.col-lg-4
             .tajeta.bgamarilloclaro.borde-redondo.p-2
               img.mb-0(src='@/assets/curso/temas/tema2/tar15/imagen3.png', alt='La imagen presenta varias cortadoras utilizadas en la confección textil, incluyendo una cortadora automática, una cortadora sin fin, una cortadora vertical, una cortadora circular y una cortadora de mano. Además, muestra un guante de malla que se utiliza como equipo de seguridad al manejar estas herramientas de corte.')
               p.text-center #[b Cortadora vertical ]
         .row.p-2
-          .col-sm-12.col-md-4.col-lg-4
+          .col-sm-12.col-md-6.col-lg-4
             .tajeta.bgamarilloclaro.borde-redondo.p-2
               img.mb-0(src='@/assets/curso/temas/tema2/tar15/imagen4.png', alt='La imagen presenta varias cortadoras utilizadas en la confección textil, incluyendo una cortadora automática, una cortadora sin fin, una cortadora vertical, una cortadora circular y una cortadora de mano. Además, muestra un guante de malla que se utiliza como equipo de seguridad al manejar estas herramientas de corte.')
               p.text-center #[b Cortadora circular ]
-          .col-sm-12.col-md-4.col-lg-4
+          .col-sm-12.col-md-6.col-lg-4
             .tajeta.bgamarilloclaro.borde-redondo.p-2
               img.mb-0(src='@/assets/curso/temas/tema2/tar15/imagen5.png', alt='La imagen presenta varias cortadoras utilizadas en la confección textil, incluyendo una cortadora automática, una cortadora sin fin, una cortadora vertical, una cortadora circular y una cortadora de mano. Además, muestra un guante de malla que se utiliza como equipo de seguridad al manejar estas herramientas de corte.')
               p.text-center #[b  Cortadora de mano  ]
-          .col-sm-12.col-md-4.col-lg-4
+          .col-sm-12.col-md-6.col-lg-4
             .tajeta.bgamarilloclaro.borde-redondo.p-2
               img.mb-0(src='@/assets/curso/temas/tema2/tar15/imagen6.png', alt='La imagen presenta varias cortadoras utilizadas en la confección textil, incluyendo una cortadora automática, una cortadora sin fin, una cortadora vertical, una cortadora circular y una cortadora de mano. Además, muestra un guante de malla que se utiliza como equipo de seguridad al manejar estas herramientas de corte.')
               p.text-center #[b  Guante malla  ]
@@ -397,19 +397,19 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-md-8.col-lg-8
         .row
-          .col-sm-12.col-md-3.col-lg-3
+          .col-sm-12.col-md-6.col-lg-3
             .tajeta.bgamarilloclaro.borde-redondo
               img.mb-0(src='@/assets/curso/temas/tema2/tar15/imagen7.png', alt='La imagen describe herramientas esenciales para la confección textil, incluyendo tijeras, un punzón, una máquina perforadora y agujas o alfileres para la sujeción del textil. Cada herramienta está ilustrada con su respectiva etiqueta, indicando su uso específico en el proceso de confección. ')
               p.text-center.p-2 #[b Tijeras ]
-          .col-sm-12.col-md-3.col-lg-3
+          .col-sm-12.col-md-6.col-lg-3
             .tajeta.bgamarilloclaro.borde-redondo
               img.mb-0(src='@/assets/curso/temas/tema2/tar15/imagen8.png', alt='La imagen describe herramientas esenciales para la confección textil, incluyendo tijeras, un punzón, una máquina perforadora y agujas o alfileres para la sujeción del textil. Cada herramienta está ilustrada con su respectiva etiqueta, indicando su uso específico en el proceso de confección.')
               p.text-center.p-2 #[b Punzón ]
-          .col-sm-12.col-md-3.col-lg-3
+          .col-sm-12.col-md-6.col-lg-3
             .tajeta.bgamarilloclaro.borde-redondo
               img.mb-0(src='@/assets/curso/temas/tema2/tar15/imagen9.png', alt='La imagen describe herramientas esenciales para la confección textil, incluyendo tijeras, un punzón, una máquina perforadora y agujas o alfileres para la sujeción del textil. Cada herramienta está ilustrada con su respectiva etiqueta, indicando su uso específico en el proceso de confección. ')
               p.text-center.p-2 #[b Máquina perforadora ]
-          .col-sm-12.col-md-3.col-lg-3
+          .col-sm-12.col-md-6.col-lg-3
             .tajeta.bgamarilloclaro.borde-redondo
               img.mb-0(src='@/assets/curso/temas/tema2/tar15/imagen10.png', alt='La imagen describe herramientas esenciales para la confección textil, incluyendo tijeras, un punzón, una máquina perforadora y agujas o alfileres para la sujeción del textil. Cada herramienta está ilustrada con su respectiva etiqueta, indicando su uso específico en el proceso de confección.')
               p.text-center #[b Agujas o alfileres para sujeción del textil ]
@@ -476,7 +476,7 @@
           p.text-center.mb-4.p-1 Están elaborados a partir de 2,80 cm, en este  grupo se encuentran la  tapicería y la decoración.
         
     .row.justify-content-center.mb-4.mt-5(data-aos="zoom-in-left")
-      .col-sm-12.col-md-3.col-lg-3
+      .col-sm-12.col-md-7.col-lg-3
         h3.mb-4 Orillos de tela
         p.mb-2 Son los bordes longitudinales de la tela,    
         p.mb-2 están tejidos con una apariencia
@@ -489,12 +489,12 @@
 
     br
     .row.justify-content-center.mb-4.mt-4(data-aos="zoom-in-left")
-      .col-sm-12.col-md-10.col-lg-10
+      .col-sm-12.col-md-12.col-lg-10
         .tarjeta.color-acento-botones.borde-redondo
           .row.justify-content-around.align-items-center
-            .col-6.col-md-2.col-lg-2
+            .col-6.col-md-3.col-lg-2
               img.mt-4.mb-4.ps-5(src="@/assets/curso/temas/tema2/admiracion.png")
-            .col-sm-12.col-md-10.col-lg-10
+            .col-sm-12.col-md-9.col-lg-10
               p.p-3.mb-0 #[b ¿Cómo surgen? ]
               p.ps-3 Los agujeritos de los orillos son realizados por unas plaquetas de agujas situadas en los laterales de los hornos encargados de secar las telas y que hacen que estas se mantengan sujetas y estiradas en su ancho durante todo el proceso. Suelen perforar el tejido desde el revés hacia el derecho, por lo que, por regla general, las rebabas de las perforaciones en los orillos indican el #[b derecho de la tela. ]
 
@@ -540,7 +540,7 @@
         p El tendido o extendido consiste en ubicar la tela sobre una superficie plana (mesa de corte), ya sea una capa de tela o varias según la orden de producción; se extiende la tela considerando las características del textil, se prepara y selecciona los materiales e instrumentos necesarios para la ejecución de la tarea; el extendido se puede realizar de dos formas: 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-md-5      
+      .col-sm-12.col-md-6.col-lg-5      
         .tarjeta--boton.p-3(style="background-color: #FFF5D3")
           .row.align-items-center.justify-content-center
             .col-3
@@ -548,7 +548,7 @@
             .col-9
               h3.p-2.mb-0 Con carro extendedor
               p.ps-2.mb-0 Extendedora automática, extendedora de codo.
-      .col-md-5      
+      .col-sm-12.col-md-6.col-lg-5      
         .tarjeta--boton.p-3(style="background-color: #FFF5D3")
           .row.align-items-center.justify-content-center
             .col-3
@@ -560,21 +560,21 @@
     .row.justify-content-center.align-items-center.mt-4.mb-4
       h3.mt-4.mb-4.text-center Herramientas
       .row.justify-content-center.align-items-center
-        .col-md-3      
+        .col-sm-12.col-md-6.col-lg-3      
           .tarjeta--boton.p-3(style="background-color: #F4EDD4")
             img.p-3(src="@/assets/curso/temas/tema2/tar16/img1.png" alt="La imagen detalla tres herramientas utilizadas en la confección textil: pesas, pinzas y agujas o alfileres para sujeción textil. Estas herramientas son esenciales para asegurar y manipular las piezas de tela durante el proceso de corte y ensamblaje. ") 
             h3.text-center Pesas
-        .col-md-3      
+        .col-sm-12.col-md-6.col-lg-3      
           .tarjeta--boton.p-3(style="background-color: #F4EDD4")
             img.p-3(src="@/assets/curso/temas/tema2/tar16/img2.png" alt="La imagen detalla tres herramientas utilizadas en la confección textil: pesas, pinzas y agujas o alfileres para sujeción textil. Estas herramientas son esenciales para asegurar y manipular las piezas de tela durante el proceso de corte y ensamblaje. ") 
             h3.text-center Pinzas
-        .col-md-3      
+        .col-sm-12.col-md-6.col-lg-3      
           .tarjeta--boton.p-3(style="background-color: #F4EDD4")
             img.p-3(src="@/assets/curso/temas/tema2/tar16/img3.png" alt="La imagen detalla tres herramientas utilizadas en la confección textil: pesas, pinzas y agujas o alfileres para sujeción textil. Estas herramientas son esenciales para asegurar y manipular las piezas de tela durante el proceso de corte y ensamblaje. ") 
             h3.text-center.mb-0 Agujas o alfileres para sujeción textil.
 
     .row.justify-content-center.align-items-center.mt-5.mb-5.fondoespecial2(data-aos="zoom-in-left")
-      .col-6.col-md-3.col-lg-3
+      .col-6.col-md-5.col-lg-3
         img.p-4(src="@/assets/curso/temas/tema2/imagen24.svg") 
       .col-sm-12.col-md-7.col-lg-7
         h3.ps-5.mb-5 Extendido manual
@@ -602,7 +602,7 @@
         img.p-3.mt-4(src="@/assets/curso/temas/tema2/imagen25.svg")
 
     .row.justify-content-center.align-items-center.mt-4.mb-4.borde-redondo.bgmoradoclaro(data-aos="zoom-in-left")
-      .col-sm-6.col-md-3.col-lg-3
+      .col-sm-6.col-md-5.col-lg-3
         img.p-3(src="@/assets/curso/temas/tema2/imagen26.svg") 
       .col-sm-12.col-md-7.col-lg-7
         h3.mt-4.mb-4 Preparación del textil
@@ -681,15 +681,15 @@
     
     .row.justify-content-center.align-items-center.mb-5
       h3.ps-5.mb-5 Tipos de trazo según requerimientos de patronaje:
-      .col-sm-12.col-md-3.col-lg-3
+      .col-sm-12.col-md-6.col-lg-3
         .tarjeta.color-acento-botones.borde-redondo.p-4
           img.p-4(src="@/assets/curso/temas/tema2/tarjeta8/imagen1.png" alt="La imagen describe una sección con tres cuadros, cada uno representando un aspecto del proceso de confección textil. El primer cuadro, con fondo amarillo, está titulado “Requerimientos desde patronaje” y muestra un diagrama de un patrón de costura. El segundo cuadro, con fondo morado, titulado “Tendido y marcación”, muestra manos trabajando sobre una tela con una herramienta de marcación. El tercer cuadro, también con fondo amarillo, titulado “Características del material”, muestra patrones colocados sobre una tela con puntos. Estos elementos indican los pasos importantes en la preparación y corte de la tela para confección. ")
           h4.text-center.mb-0 #[b Requerimientos desde patronaje. ]
-      .col-sm-12.col-md-3.col-lg-3
+      .col-sm-12.col-md-6.col-lg-3
         .tarjeta.color-primario.borde-redondo.p-4
           img.p-4(src="@/assets/curso/temas/tema2/tarjeta8/imagen2.png", alt="La imagen describe una sección con tres cuadros, cada uno representando un aspecto del proceso de confección textil. El primer cuadro, con fondo amarillo, está titulado “Requerimientos desde patronaje” y muestra un diagrama de un patrón de costura. El segundo cuadro, con fondo morado, titulado “Tendido y marcación”, muestra manos trabajando sobre una tela con una herramienta de marcación. El tercer cuadro, también con fondo amarillo, titulado “Características del material”, muestra patrones colocados sobre una tela con puntos. Estos elementos indican los pasos importantes en la preparación y corte de la tela para confección. ")
           h4.mb-4.text-center.color-white #[b Tendido y marcación. ]
-      .col-sm-12.col-md-3.col-lg-3
+      .col-sm-12.col-md-6.col-lg-3
         .tarjeta.color-acento-botones.borde-redondo.p-4
           img.p-4(src="@/assets/curso/temas/tema2/tarjeta8/imagen3.png", alt="La imagen describe una sección con tres cuadros, cada uno representando un aspecto del proceso de confección textil. El primer cuadro, con fondo amarillo, está titulado “Requerimientos desde patronaje” y muestra un diagrama de un patrón de costura. El segundo cuadro, con fondo morado, titulado “Tendido y marcación”, muestra manos trabajando sobre una tela con una herramienta de marcación. El tercer cuadro, también con fondo amarillo, titulado “Características del material”, muestra patrones colocados sobre una tela con puntos. Estos elementos indican los pasos importantes en la preparación y corte de la tela para confección. ")
           h4.text-center.mb-4 #[b Características del material. ]
@@ -727,7 +727,7 @@
               li
                 i.fas.fa-plus
                 | Plantilla.
-      .col-8.col-md-3.col-lg-3
+      .col-8.col-md-5.col-lg-3
         img.p-3(src="@/assets/curso/temas/tema2/imagen27.svg")
 
     br
@@ -736,15 +736,15 @@
       p.text-center Para tener claro los requerimientos desde el área de patronaje es importante identificar y conocer la respectiva señalización de patrones:
 
     .row.justify-content-center.mt-4.mb-4(data-aos="zoom-in-left")
-      .col-sm-12.col-md-3.col-lg-3
+      .col-sm-12.col-md-6.col-lg-3
         .tarjeta.color-primario.borde-redondo.p-4
           img.p-4(src="@/assets/curso/temas/tema2/tarjeta9/imagen1.png", alt="La imagen describe tres cuadros explicativos sobre el tejido textil. El primero, titulado “Urdimbre”, ilustra los hilos longitudinales de la tela; el segundo, “Trama”, muestra los hilos transversales; y el tercero, “Sesgo o bies”, indica una tela cortada en un ángulo de 45 grados para mayor elasticidad. Debajo, una frase mnemotécnica ayuda a recordar la correcta orientación de los hilos: “Hilo de tela una cabeza hacia arriba, hilo de tela una cabeza hacia abajo, hilo de tela una cabeza doble”.")
           p.text-center #[b Urdimbre ]
-      .col-sm-12.col-md-3.col-lg-3
+      .col-sm-12.col-md-6.col-lg-3
         .tarjeta.color-acento-botones.borde-redondo.p-4
           img.p-4(src="@/assets/curso/temas/tema2/tarjeta9/imagen2.png", alt="La imagen describe tres cuadros explicativos sobre el tejido textil. El primero, titulado “Urdimbre”, ilustra los hilos longitudinales de la tela; el segundo, “Trama”, muestra los hilos transversales; y el tercero, “Sesgo o bies”, indica una tela cortada en un ángulo de 45 grados para mayor elasticidad. Debajo, una frase mnemotécnica ayuda a recordar la correcta orientación de los hilos: “Hilo de tela una cabeza hacia arriba, hilo de tela una cabeza hacia abajo, hilo de tela una cabeza doble”.")
           p.text-center.color-white #[b Trama ]
-      .col-sm-12.col-md-3.col-lg-3
+      .col-sm-12.col-md-6.col-lg-3
         .tarjeta.color-primario.borde-redondo.p-4
           img.p-4(src="@/assets/curso/temas/tema2/tarjeta9/imagen3.png", alt="La imagen describe tres cuadros explicativos sobre el tejido textil. El primero, titulado “Urdimbre”, ilustra los hilos longitudinales de la tela; el segundo, “Trama”, muestra los hilos transversales; y el tercero, “Sesgo o bies”, indica una tela cortada en un ángulo de 45 grados para mayor elasticidad. Debajo, una frase mnemotécnica ayuda a recordar la correcta orientación de los hilos: “Hilo de tela una cabeza hacia arriba, hilo de tela una cabeza hacia abajo, hilo de tela una cabeza doble”.")
           p.text-center #[b Sesgo o bies ]
@@ -942,9 +942,9 @@
         p.text-center #[b Papel onix o calco ]
     
     .row.justify-content-center.align-items-center.mb-4.mt-4.fondoespecial4
-      .col-sm-12.col-md-6.col-lg-6
+      .col-sm-12.col-md-7.col-lg-6
         p.p-5 Es el método más utilizado por los sastres para marcaciones especiales sobre el textil; este método tiene puntos con hebras de hilo que sirven de guía, sin llegar a manchar el textil. Esta es una puntada suelta en bucle como una indicación de dónde coser finalmente.
-      .col-7.col-md-3.col-lg-3
+      .col-7.col-md-5.col-lg-3
         img.mt-5.mb-4(src="@/assets/curso/temas/tema2/imagen40.png")
     
     .row.align-items-center.justify-content-center.mt-4.mb-4
@@ -957,14 +957,14 @@
         img.p-3(src="@/assets/curso/temas/tema2/imagen41.svg")
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
-      .col-6.col-md-3.col-lg-3
+      .col-sm-12.col-md-5.col-lg-3
         img.align-items-center.mb-2(src="@/assets/curso/temas/tema2/imagen42.svg")
       .col-sm-12.col-md-7.col-lg-7
         .tarjeta.color-acento-botones.borde-redondo
           .row.justify-content-around.align-items-center
-            .col-5.col-md-3.col-lg-3
+            .col-6.col-md-4.col-lg-3
               img.p-4.ps-5(src="@/assets/curso/temas/tema2/admiracion.png")
-            .col-sm-12.col-md-9.col-lg-9
+            .col-sm-12.col-md-8.col-lg-9
               p.ps-3.mb-0 #[b Pinar ]
               p.ps-3 Insertar alfileres en el textil para asegurar el molde.
         .row
@@ -1051,7 +1051,7 @@
           li
             i.fas.fa-plus
             | En cada piquete, hacer un pequeño corte de máximo 3 mm de profundidad.
-      .col-10.col-md-3.col-lg-3
+      .col-10.col-md-5.col-lg-3
         img.p-5(src="@/assets/curso/temas/tema2/imagen44.svg")
 
     Separador    
@@ -1064,15 +1064,15 @@
       .col-sm-12.col-md-10.col-lg-10
         h3.mb-4 Tipos de trazo
         .row.justify-content-center
-          .col-sm-12.col-md-4.col-lg-4
+          .col-sm-12.col-md-6.col-lg-4
             .tarjeta.color-acento-botones.borde-redondo.p-5
               img.p-4(src="@/assets/curso/temas/tema2/tarjeta12/imagen1.png" alt="La imagen ilustra tres tipos de trazos utilizados en la confección de textiles, cada uno representado en un recuadro con diferentes colores de fondo. El primer recuadro, con fondo morado, se titula “Requerimientos desde patronaje” y muestra un esquema de patrones de costura. El segundo recuadro, con fondo amarillo, se titula “Tendido y marcación” y muestra a una persona marcando una tela con tiza. El tercer recuadro, nuevamente con fondo morado, se titula “Características del material” y muestra un patrón de corte superpuesto sobre un diseño de tela. En la parte superior de la imagen, se encuentra el título “Tipos de trazo”.")
               h4.text-center.mb-0 #[b Requerimientos desde patronaje ]
-          .col-sm-12.col-md-4.col-lg-4
+          .col-sm-12.col-md-6.col-lg-4
             .tarjeta.color-primario.borde-redondo.p-5
               img.p-4(src="@/assets/curso/temas/tema2/tarjeta12/imagen2.png" alt="La imagen ilustra tres tipos de trazos utilizados en la confección de textiles, cada uno representado en un recuadro con diferentes colores de fondo. El primer recuadro, con fondo morado, se titula “Requerimientos desde patronaje” y muestra un esquema de patrones de costura. El segundo recuadro, con fondo amarillo, se titula “Tendido y marcación” y muestra a una persona marcando una tela con tiza. El tercer recuadro, nuevamente con fondo morado, se titula “Características del material” y muestra un patrón de corte superpuesto sobre un diseño de tela. En la parte superior de la imagen, se encuentra el título “Tipos de trazo”.")
               h4.mb-4.text-center.color-white #[b Tendido y marcación ]
-          .col-sm-12.col-md-4.col-lg-4
+          .col-sm-12.col-md-6.col-lg-4
             .tarjeta.color-acento-botones.borde-redondo.p-5
               img.p-4(src="@/assets/curso/temas/tema2/tarjeta12/imagen3.png" alt="La imagen ilustra tres tipos de trazos utilizados en la confección de textiles, cada uno representado en un recuadro con diferentes colores de fondo. El primer recuadro, con fondo morado, se titula “Requerimientos desde patronaje” y muestra un esquema de patrones de costura. El segundo recuadro, con fondo amarillo, se titula “Tendido y marcación” y muestra a una persona marcando una tela con tiza. El tercer recuadro, nuevamente con fondo morado, se titula “Características del material” y muestra un patrón de corte superpuesto sobre un diseño de tela. En la parte superior de la imagen, se encuentra el título “Tipos de trazo”.")
               h4.mb-4.text-center #[b Características del material ]
@@ -1086,17 +1086,17 @@
         img.p-4(src="@/assets/curso/temas/tema2/imagen45.png" alt="La imagen detalla dos ilustraciones que explican la dirección del pelo en las telas. A la izquierda, se presentan dos direcciones del pelo en la tela, una hacia arriba y otra hacia abajo, indicadas con flechas. A la derecha, una mano acaricia una tela en la dirección del pelo, demostrando cómo se debe sentir la textura para determinar la orientación correcta. Estas guías son importantes para asegurar que todas las piezas del patrón se corten en la misma dirección del pelo, evitando diferencias de color y textura en la prenda final. ")
 
     .row.justify-content-center.mb-4-mt-4
-      .col-sm-12.col-md-9.col-lg-9
+      .col-sm-12.col-md-8.col-lg-9
         p.mb-3.mt-5 #[b ¿Qué es la textura  #[em nap ] ( #[em velvet ], pelusa,  #[em fleece ])? ]
         p Nap es la textura de los textiles que van en una dirección particular. Esta propiedad de la prenda es fundamental para garantizar la calidad de la misma. En algunos textiles se logra evidenciar el nap a simple vista como #[em velvet, fleece,] piel sintética, denim cepillado, franela, gamuza sintética, sarga, elástica, tela de felpa, etc.
         .tarjeta.color-acento-botones.borde-redondo.mt-4
           .row.justify-content-around.align-items-center
-            .col-6.col-md-2.col-lg-2
+            .col-6.col-md-4.col-lg-2
               img.mt-4.mb-4.ps-5(src="@/assets/curso/temas/tema2/admiracion.png")
-            .col-sm-12.col-md-10.col-lg-10
+            .col-sm-12.col-md-8.col-lg-10
               p.ps-3.mb-0 #[b ¿Por qué es importante el  #[em nap ]? ]
               p.ps-3.mb-0 El nap es muy importante para determinar cómo se establece el patrón en el textil, en este caso se trabaja siempre un trazo direccional. Se debe tener en cuenta lo siguiente:
-      .col-6.col-md-3.col-lg-3
+      .col-6.col-md-4.col-lg-3
         img.p-2(src="@/assets/curso/temas/tema2/imagen46.png")
 
     .row.justify-content-center.align-items-center.mb-5.mt-3
@@ -1116,7 +1116,7 @@
             p.ps-2.mb-4 Se debe determinar el consumo de material que requiere la prenda para garantizar que todo el textil sea suficiente para el corte, lo cual es una clara desventaja, ya que se desperdicia mucha tela al seguir un trazo direccional.
 
     .row.justify-content-center.mb-4-mt-4
-      .col-sm-12.col-md-5.col-lg-5
+      .col-sm-12.col-md-12.col-lg-5
         p #[b ¿Cómo identificar el  #[em nap ]? ]
         p Al pasar las manos suavemente por el textil para sentir el  #[em nap ]/pelusa
         ul.lista-ul--color.fa-ul.color-primario
@@ -1133,7 +1133,7 @@
         img(src="@/assets/curso/temas/tema2/imagen48.svg" alt="La imagen detalla la correcta e incorrecta dirección del pelo al cortar piezas de un patrón. La sección superior, marcada como “Correct”, indica que todas las piezas del patrón están alineadas con el pelo en la misma dirección, lo cual es correcto. La sección inferior, marcada como “Incorrect”, expone piezas del patrón con el pelo en diferentes direcciones, lo cual es incorrecto. Esto asegura que la textura y apariencia de la prenda final sean uniformes. ")
 
     .row.justify-content-center.align-items-center.mb-5.mt-5
-      .col-sm-12.col-md-3.col-lg-3
+      .col-sm-12.col-md-12.col-lg-3
         p #[b Trazo o marcado ]
         p Se recomienda que cuando se utilice este tipo de textiles con  #[em nap ], el proceso de transferir los moldes al textil se trabaje preferiblemente en un tendido abierto, sujetado con alfileres. Para marcar pinzas o elementos clave se recomienda los hilvanes o  #[em tailor tacks ].
       .col-8.col-md-7.col-lg-7
@@ -1154,7 +1154,7 @@
             i.fas.fa-plus
             | Marcación por el revés con tiza.
         p Algunas tienen el vello más largo que otras, por eso es importante realizar un trazo, marcado y corte de forma adecuada.
-      .col-7.col-md-3.col-lg-3
+      .col-7.col-md-5.col-lg-3
         img.mt-3(src="@/assets/curso/temas/tema2/imagen50.svg")
 
     .row.justify-content-center.align-items-center.mb-5.mt-5
@@ -1211,11 +1211,11 @@
       p.text-center #[b Tips de corte para cuadros ]
 
     .row.justify-content-center.mt-4.mb-4(data-aos="zoom-in-left")
-      .col-sm-12.col-md-3.col-lg-3
+      .col-sm-12.col-md-6.col-lg-3
         .tarjeta.color-acento-botones.borde-redondo.p-4
           img.p-4(src="@/assets/curso/temas/tema2/tarjeta13/imagen1.png" alt="La imagen proporciona tips para cortar telas con cuadros. Primero, se deben ubicar los patrones en el textil y alinear las líneas para que coincidan. Luego, se traza en los patrones las líneas correspondientes. Este proceso debe repetirse para cada una de las piezas de la prenda. Finalmente, una vez ubicados los patrones, se deben pintar y, con la tiza, agregar el margen de costura. Cada tip está ilustrado en un recuadro con diferentes colores de fondo: amarillo para los primeros y tercer tip, y morado para el segundo y cuarto tip. En la parte superior de la imagen se encuentra el título “Tips de corte para cuadros”.")
           p.text-center #[b Ubicar los patrones en el textil y alinear para que coincidan las líneas. ]
-      .col-sm-12.col-md-3.col-lg-3
+      .col-sm-12.col-md-6.col-lg-3
         .tarjeta.color-primario.borde-redondo.p-4
           img.p-4(src="@/assets/curso/temas/tema2/tarjeta13/imagen2.png" alt="La imagen proporciona tips para cortar telas con cuadros. Primero, se deben ubicar los patrones en el textil y alinear las líneas para que coincidan. Luego, se traza en los patrones las líneas correspondientes. Este proceso debe repetirse para cada una de las piezas de la prenda. Finalmente, una vez ubicados los patrones, se deben pintar y, con la tiza, agregar el margen de costura. Cada tip está ilustrado en un recuadro con diferentes colores de fondo: amarillo para los primeros y tercer tip, y morado para el segundo y cuarto tip. En la parte superior de la imagen se encuentra el título “Tips de corte para cuadros”.")
           p.text-center.color-white #[b Trazar en los patrones las líneas. ]
@@ -1223,12 +1223,12 @@
 
         // intento colocar mt o mb y no lo toma
 
-      .col-sm-12.col-md-3.col-lg-3
+      .col-sm-12.col-md-6.col-lg-3
         .tarjeta.color-acento-botones.borde-redondo.p-4
           img.p-4(src="@/assets/curso/temas/tema2/tarjeta13/imagen3.png" alt="La imagen proporciona tips para cortar telas con cuadros. Primero, se deben ubicar los patrones en el textil y alinear las líneas para que coincidan. Luego, se traza en los patrones las líneas correspondientes. Este proceso debe repetirse para cada una de las piezas de la prenda. Finalmente, una vez ubicados los patrones, se deben pintar y, con la tiza, agregar el margen de costura. Cada tip está ilustrado en un recuadro con diferentes colores de fondo: amarillo para los primeros y tercer tip, y morado para el segundo y cuarto tip. En la parte superior de la imagen se encuentra el título “Tips de corte para cuadros”.")
           p.text-center #[b Realizar esto con cada una de las piezas de la prenda. ]
           br
-      .col-sm-12.col-md-3.col-lg-3
+      .col-sm-12.col-md-6.col-lg-3
         .tarjeta.color-primario.borde-redondo.p-4
           img.p-4(src="@/assets/curso/temas/tema2/tarjeta13/imagen4.png" alt="La imagen proporciona tips para cortar telas con cuadros. Primero, se deben ubicar los patrones en el textil y alinear las líneas para que coincidan. Luego, se traza en los patrones las líneas correspondientes. Este proceso debe repetirse para cada una de las piezas de la prenda. Finalmente, una vez ubicados los patrones, se deben pintar y, con la tiza, agregar el margen de costura. Cada tip está ilustrado en un recuadro con diferentes colores de fondo: amarillo para los primeros y tercer tip, y morado para el segundo y cuarto tip. En la parte superior de la imagen se encuentra el título “Tips de corte para cuadros”.")
           p.text-center.color-white #[b Una vez ubicados se debe ir pintando y con la tiza ir agregando margen de costura. ]

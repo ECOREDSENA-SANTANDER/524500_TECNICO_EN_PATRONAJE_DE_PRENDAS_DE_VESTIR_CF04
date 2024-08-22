@@ -12,7 +12,7 @@
         p Para el manejo e implementación del  #[em software ] de patronaje es necesario tener como referente el desarrollo y elaboración de básicos, de acuerdo con la metodología del manual de patronaje SENA y demás teorías estudiadas hasta el momento.
         .cajon.color-primario 
           p.p-5 #[b  Para el trazo de patrones se referenciará únicamente la línea femenina; sin embargo, cabe resaltar que las herramientas del programa y manejo de interfaz aplican para cualquier línea; tenga en cuenta que el desarrollo del trabajo manual es la base para la apropiación de un proceso digital.  ]
-      .col-7.col-md-3.col-lg-3
+      .col-7.col-md-5.col-lg-3
         img(src="@/assets/curso/introduccion/imagen2.svg", alt="Interfaz software")
 
     Separador
@@ -416,7 +416,7 @@
                 .col-sm-12.col-lg-8.mb-sm-0
                   p.mb-0.text-white También se recomienda revisar el siguiente “tutorial de patrón básico de falda”.
                 .col-sm-12.col-lg-4
-                  a.boton.color-boton(href="https://www.youtube.com/watch?v=oBVuhFGidN4" target="_blank")
+                  a.boton.color-boton(href="https://youtu.be/IqWKE8czhQs" target="_blank")
                     span.texto-negro Ir al sitio
                     i.fas.fa-video
 
@@ -625,7 +625,7 @@
                 .col-sm-12.col-lg-8.mb-sm-0
                   p.mb-0.text-white También se recomienda revisar el siguiente video para una mejor compresión sobre cómo “crear, modificar y trasladar los diferentes estilos de pinza en Optitex”.
                 .col-sm-12.col-lg-4
-                  a.boton.color-boton(href="https://www.youtube.com/watch?v=5MttEL044vw" target="_blank")
+                  a.boton.color-boton(href="https://youtu.be/DX9-gvA37e4" target="_blank")
                     span Ir al sitio
                     i.fas.fa-video
 
@@ -768,7 +768,7 @@
                 .col-sm-12.col-lg-8.mb-sm-0
                   p.mb-0.text-white Para una mejor comprensión del tema le invito a revisar el siguiente video sobre “traslados de pinzas”.
                 .col-sm-12.col-lg-4
-                  a.boton.color-boton(href="https://youtu.be/gUEDWvGuc2k" target="_blank")
+                  a.boton.color-boton(href="https://www.youtube.com/watch?v=5MttEL044vw" target="_blank")
                     span.texto-negro Ir al sitio
                     i.fas.fa-video
       .col-sm-12.col-lg-6
