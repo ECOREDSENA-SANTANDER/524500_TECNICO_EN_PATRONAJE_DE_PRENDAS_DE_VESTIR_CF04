@@ -181,7 +181,7 @@
     AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--purple")(data-aos="zoom-in-left")
       .row.borde-redondo-tmorada(titulo="Opción ventana de piezas")
         .col-md-4.mb-4.mb-md-0
-          p.p-5 En la barra de #[b menú vista ] seleccione la opción #[b ventana de piezas ].  En esta ventana se detallan visualizar las piezas que se han creado en el archivo.
+          p.p-5 En la barra de #[b menú vista ] seleccione la opción #[b ventana de piezas ].  En esta ventana se detallan las piezas que se han creado en el archivo.
         .col-md-8
           img.p-5(src="@/assets/curso/temas/tema1/tarjeta3/imagen4.svg", alt='La imagen describe la interfaz del programa de diseño de patrones OptiTex PDS 10 Demo, específicamente en el menú “Vista”. Se despliega el menú “Ventana Pieza”, resaltado con un óvalo negro, que permite abrir y configurar diversas ventanas y herramientas del programa, como la ventana de pieza, caja de herramientas, info del set modelo, comparar largo, tabla piezas, vista selección, y ventana 3D. En la parte izquierda, se presenta el panel de “Propiedades” con detalles de una pieza seleccionada.')
       .row.borde-redondo-tmorada(titulo="Opción caja de herramientas")
@@ -779,7 +779,7 @@
             .col-sm-12.col-lg-10
               .row.justify-content-between.align-items-center
                 .col-sm-12.col-lg-8.mb-sm-0
-                  p.mb-0.text-white También se recomienda visualizar el siguiente video donde se muestra cómo “aplicar y manipular pinzas en Optitex”.
+                  p.mb-0.text-white También se recomienda visitar el siguiente video donde se presenta cómo “aplicar y manipular pinzas en #[em Optitex]”.
                 .col-sm-12.col-lg-4
                   a.boton.color-boton(href="https://youtu.be/7X9G8DTMV9w" target="_blank")
                     span Ir al sitio
@@ -1094,7 +1094,7 @@
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta11/imagen8.svg", alt='La imagen describe como una vez fusionadas las piezas, si no se presentan curvas suaves en cada unión, suavice los puntos. Utilice la herramienta de selección, haga clic sobre el punto y asigne el atributo de curva. Luego, con la herramienta de mover puntos, deslice el mouse hasta suavizar la curva. Repita el proceso para suavizar el punto en el hombro y el escote. ')
         .row(titulo="9")
           .col-md-4.mb-4.mb-md-0
-            p.ps-5.mb-4 #[b 9. ] Ya en este punto se identifica la corrección de las uniones en cada uno de los puntos de hombro. Si el hilo de tela que se identifica en la pieza no corresponde al hilo de tela del trazo o corte proceda a modificarlo con la opción #[b mover interno ] (tecla rápida I). Arrastre o mueva el hilo de tela de la pieza delantera, haciendo intersección sobre el hilo de la tela posterior, haga clic sobre este; se observa que el hilo de tela se modifica quedando paralelo al centro atrás.
+            p.ps-5.mb-4 #[b 9. ] Ya en este punto se identifica la corrección de las uniones en cada uno de los puntos de hombro. Si el hilo de tela que se identifica en la pieza no corresponde al hilo de tela del trazo o corte proceda a modificarlo con la opción #[b mover interno ] (tecla rápida I). Arrastre o mueva el hilo de tela de la pieza delantera, haciendo intersección sobre el hilo de la tela posterior, haga clic sobre este; se presenta que el hilo de tela se modifica quedando paralelo al centro atrás.
           .col-md-8
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta11/imagen9.svg", alt='La imagen expone tres vistas de un patrón de costura en color azul, con líneas y puntos de control que delinean su forma. Cada vista parece representar diferentes ángulos o ajustes del mismo patrón, posiblemente relacionados con las modificaciones en la estructura del diseño de una prenda. Las líneas negras y los puntos de control rosa indican las costuras y ajustes precisos en el diseño del patrón, mientras que las flechas y medidas sugieren direcciones y longitudes específicas para el corte y confección. ')
         .row(titulo="10")

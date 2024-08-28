@@ -168,7 +168,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/CF4.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -202,15 +202,14 @@ export default {
       referencia:
         'Duarte, N. (1983). Conocimientos básicos de corte. Unidad instruccional No. 3. Servicio Nacional de Aprendizaje SENA.',
       tipo: 'Libro',
-      link:
-        'https://repositorio.sena.edu.co/sitios/modisteria_conocimientos_basicos/conocimientos_corte/conocimientos_corte.html',
+      link: 'downloads/modisteria-principios-basicos-de-corte.pdf',
     },
     {
       tema: 'Trazado de patrones.',
       referencia:
-        'Gutiérrez, L., Moncayo, A., Tanaka, K., Kimura, F., y Moreno, D. (2011). Manual de patronaje básico e interpretación de diseños. Servicio Nacional de Aprendizaje SENA.',
-      tipo: 'Libro',
-      link: 'https://repositorio.sena.edu.co/handle/11404/4725?mode=full',
+        'Gutiérrez, L (2011). Como graduar los patrones básicos de dama.',
+      tipo: 'Video',
+      link: 'https://youtu.be/amafgzhmMlw',
     },
     {
       tema: 'Trazado de patrones.',
@@ -238,7 +237,7 @@ export default {
       referencia:
         'Lisandro, L. (24, de octubre de 2020). Cómo crear pinzas en Optitex. [video]. Youtube.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=DX9-gvA37e4&feature=youtu.be',
+      link: 'https://youtu.be/DX9-gvA37e4',
     },
     {
       tema: 'Trazado de patrones.',
@@ -390,11 +389,6 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Carla Liliana Sequera Vargas',
-          cargo: 'Diseñador web',
-          centro: 'Regional Santander - Centro Agroturístico',
-        },
-        {
           nombre: 'Marcos Yamid Rubiana Avellaneda ',
           cargo: 'Diseñador web',
           centro: 'Regional Santander - Centro Agroturístico',
@@ -420,7 +414,7 @@ export default {
           centro: '	Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Erika Fernanda Mejía Pinzón',
+          nombre: 'Diana Lizeth Lozada Díaz',
           cargo: 'Evaluadora para Contenidos Inclusivos y Accesibles',
           centro: 'Regional Santander - Centro Agroturístico',
         },
