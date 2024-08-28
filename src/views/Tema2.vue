@@ -1248,7 +1248,7 @@
                 .col-sm-12.col-lg-9.mb-sm-0
                   p.mb-0.text-white Para una mejor comprensión del tema revisar el siguiente video de “ejemplo sobre tipos de tendido con diferentes características del material”.
                 .col-sm-12.col-lg-3
-                  a.boton.color-boton(href="https://youtu.be/AQuKp0yivEw" target="_blank")
+                  a.boton.color-boton(href="https://www.youtube.com/watch?v=-nkWodY_bPE" target="_blank")
                     span.texto-negro Ir al sitio
                     i.fas.fa-video
 
@@ -1285,7 +1285,7 @@
                       .col-sm-12.col-lg-9.mb-sm-0
                         p.mb-0.text-white Para una mejor comprensión del tema revisar el siguiente video.
                       .col-sm-12.col-lg-3
-                        a.boton.color-boton(href="https://www.youtube.com/embed/G4IGF6OvFSQ" target="_blank")
+                        a.boton.color-boton(href="https://youtu.be/2DkN1Ur5Dw0" target="_blank")
                           span.texto- Ir al sitio
                           i.fas.fa-video.
       .row.borde-redondo-tmorada(titulo="Paqueteo")
