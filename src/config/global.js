@@ -395,7 +395,7 @@ export default {
         },
         {
           nombre: 'Lucenith Pinilla Moreno',
-          cargo: 'Desarrollador Fullstack Junior',
+          cargo: 'Desarrollador <i> Fullstack Junior </i>',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
