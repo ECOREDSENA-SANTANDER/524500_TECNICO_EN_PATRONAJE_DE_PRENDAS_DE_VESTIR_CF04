@@ -946,7 +946,7 @@
             img.p-3(src="@/assets/curso/temas/tema1/tarjeta10/imagen8.svg", alt='La imagen detalla dos vistas de una interfaz de software de diseño de patrones de costura, ambas con la pieza de patrón titulada “Base Sup FRENTE” (coloreada en azul). A la izquierda, se presenta una ventana emergente titulada “Atributos de Punto” que permite ajustar las coordenadas X e Y, la distancia, y el ángulo de un punto específico en el patrón, además de opciones para mover el punto sobre el contorno y escalado. A la derecha, se detalla la misma pieza de patrón sin la ventana emergente, mostrando las líneas y puntos de ajuste. ')
         .row.justify-content-center.my-lg-4
           .col-md-4.mb-4.mb-md-0
-            p.p-5 #[b 9. ] En el grupo de herramientas #[b insertar] identifique la herramienta #[b botón], y dé clic en #[b crear botón ]. Para marcar el punto de pinza se debe tener en cuenta el primer y segundo lado de pinza, el análisis se hace tomando como referencia el ancho de pinza y la separación de busto.
+            p.p-5 #[b 9. ] En el grupo de herramientas #[b insertar] identifique la herramienta #[b botón], y dé clic en #[b crear botón]. Para marcar el punto de pinza se debe tener en cuenta el primer y segundo lado de pinza, el análisis se hace tomando como referencia el ancho de pinza y la separación de busto.
           .col-md-8
             img.p-3(src="@/assets/curso/temas/tema1/tarjeta10/imagen9.svg", alt='La imagen detalla una interfaz de software de diseño de patrones de costura. Incluye una barra de herramientas con la opción “Crear Botón”, una ventana emergente para ajustar las coordenadas y la posición del botón, y una pieza de patrón “Base Sup FRENTE” con un botón agregado en el patrón. ')
         .row.justify-content-center.my-lg-4
@@ -1054,7 +1054,7 @@
       LineaTiempoC.color-acento-botones(text-small)
         .row(titulo="1")
           .col-md-4.mb-4.mb-md-0
-            p.ps-5.mb-4 #[b 1. ] Antes de iniciar el corte princesa y el corte francés se hará el corte de almilla, trasladando la parte delantera hacia la parte posterior. A partir del punto cuello hombro y hombro sisa marque el recorrido de la almilla; una los dos puntos con la herramienta #[b dibujar ]. Seleccionar la herramienta #[b cortar], opción #[b cortar a pieza a lo largo de un interno. ]
+            p.ps-5.mb-4 #[b 1. ] Antes de iniciar el corte princesa y el corte francés se hará el corte de almilla, trasladando la parte delantera hacia la parte posterior. A partir del punto cuello hombro y hombro sisa marque el recorrido de la almilla; una los dos puntos con la herramienta #[b dibujar]. Seleccionar la herramienta #[b cortar], opción #[b cortar a pieza a lo largo de un interno. ]
           .col-md-8
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta11/imagen1.svg", alt='La imagen detalla dos piezas de patrón, una delantera y otra trasera, ambas con pinzas marcadas. En la parte superior, se expone una opción del menú del software de diseño de patrones, que permite “Cortar la pieza a lo largo de un interno”. Esta función facilita la modificación del patrón siguiendo líneas internas definidas, como las de las pinzas o las líneas de ajuste.')
         .row(titulo="2")
@@ -1192,7 +1192,7 @@
             img.p-3(src="@/assets/curso/temas/tema1/tarjeta12/imagen7.svg", alt='La imagen presenta tres paneles de propiedades del software de diseño de patrones, todos titulados “Propiedades”. Cada panel tiene varias opciones ajustables como “Escalado”, “Curva”, “Conectado”, “Nombre”, “Ángulo”, “Costura” y “Punto alternativo de partida”. Las casillas de verificación permiten al usuario seleccionar o deseleccionar estas opciones para ajustar las características del patrón. ')
         .row.justify-content-center.my-lg-4
           .col-md-4.mb-4.mb-md-0
-            p.p-5 #[b 8. ] En la pestaña #[b propiedades] se identifica que los puntos tienen atributo de #[b escalado ], desmárquelo y señale de #[b curva. ]
+            p.p-5 #[b 8. ] En la pestaña #[b propiedades] se identifica que los puntos tienen atributo de #[b escalado], desmárquelo y señale de #[b curva.]
           .col-md-8
             img.p-3(src="@/assets/curso/temas/tema1/tarjeta12/imagen8.svg", alt='La imagen detalla cuatro patrones de costura, todos coloreados en azul claro y con líneas y puntos que indican detalles de ensamblaje. Tres de los patrones parecen ser secciones ampliadas, mostrando más detalles en los puntos de ajuste o costura. Uno de los patrones (izquierda) tiene una línea que podría representar una dirección del grano o una pinza. Los otros patrones describen curvas y puntos de referencia para el ensamblaje. ')
         .row.justify-content-center.my-lg-4
@@ -1217,7 +1217,7 @@
             img.p-3(src="@/assets/curso/temas/tema1/tarjeta12/imagen12.svg", alt='La imagen describe una captura de pantalla de un software de diseño de patrones. A la izquierda, hay un menú desplegable con varias opciones relacionadas con la manipulación de líneas y piezas. En la parte superior, una ventana titulada “Ventana piezas” expone diferentes piezas de una falda. Abajo, se presenta parte de un patrón de costura coloreado en azul claro con líneas y flechas que indican instrucciones de ensamblaje. Las opciones del menú permiten al usuario trabajar con las líneas y ajustar detalles del patrón. ')
         .row.justify-content-center.my-lg-4
           .col-md-4.mb-4.mb-md-0
-            p.p-5 #[b 13. ] Haga clic derecho sobre la falda previamente modificada, escoja la opción #[b limpiar pieza ], posteriormente seleccione #[b actualizar original], suprima cada una de las líneas para limpiar la mesa de trabajo. Marque línea guía.
+            p.p-5 #[b 13. ] Haga clic derecho sobre la falda previamente modificada, escoja la opción #[b limpiar pieza], posteriormente seleccione #[b actualizar original], suprima cada una de las líneas para limpiar la mesa de trabajo. Marque línea guía.
           .col-md-8
             img.p-3(src="@/assets/curso/temas/tema1/tarjeta12/imagen13.svg", alt='La imagen detalla dos patrones de costura coloreados en azul claro, con flechas y líneas que indican instrucciones de ensamblaje. Entre los dos patrones, hay una ventana emergente titulada “Atributos de Punto”. Esta ventana permite ajustar diversos parámetros del punto, como el tipo de punto (curva o escalado), la posición (X, Y), distancia, ángulo y los puntos previos y siguientes. La ventana también incluye opciones para mover el punto sobre el contorno y definir si es proporcional o absoluto. ')
         .row.justify-content-center.my-lg-4

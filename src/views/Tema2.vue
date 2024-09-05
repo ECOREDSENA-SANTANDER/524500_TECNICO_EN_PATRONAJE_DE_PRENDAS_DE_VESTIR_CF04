@@ -357,7 +357,6 @@
     .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
       .col-sm-12.col-md-10.col-lg-10
         .row.p-2
-          p Cortadoras automáticas - cortadora sin fin – cortadora vertical – cortadora circular – cortadora de mano – guante de malla.
           .col-sm-12.col-md-6.col-lg-4
             .tajeta.bgamarilloclaro.borde-redondo.p-2
               img.mb-0(src='@/assets/curso/temas/tema2/tar15/imagen1.png', alt='La imagen presenta varias cortadoras utilizadas en la confección textil, incluyendo una cortadora automática, una cortadora sin fin, una cortadora vertical, una cortadora circular y una cortadora de mano. Además, expone un guante de malla que se utiliza como equipo de seguridad al manejar estas herramientas de corte. ')
@@ -392,9 +391,6 @@
         h3.mb-0.ms-2 Otras herramientas
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
-      .col-lg-11
-        p Tijeras – punzón – máquina perforadora – agujas o alfileres para sujeción textil
-    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-md-8.col-lg-8
         .row
           .col-sm-12.col-md-6.col-lg-3
@@ -418,7 +414,7 @@
       .row(titulo="Urdimbre y trama")
         .col-md-7.mb-4.mb-md-0
           p.ps-5.p-3 #[b Urdimbre: ] la serie longitudinal de los hilos recibe el nombre de urdimbre, y cada uno de los elementos que la constituyen se denomina hilo. Los hilos verticales son la urdimbre.
-          p.ps-5.p-3 #[b Trama: ] la serie transversal recibe el nombre de trama, y cada una de sus unidades se denomina pasada. Las pasadas horizontales son la trama
+          p.ps-5.p-3 #[b Trama: ] la serie transversal recibe el nombre de trama, y cada una de sus unidades se denomina pasada. Las pasadas horizontales son la trama.
         .col-md-3
             img(src='@/assets/curso/temas/tema2/imagen17.png', alt='La imagen expone un diagrama de un tejido con indicaciones de los componentes principales. La “Urdimbre” está indicada con una flecha roja y corresponde a los hilos longitudinales que se mantienen tensos en un telar. La “Trama” está indicada con una flecha azul y corresponde a los hilos transversales que se entrelazan con la urdimbre. Debajo del diagrama principal, hay tres ilustraciones que describen diferentes patrones de entrelazado de hilos: a la izquierda se expone el esquema de la urdimbre, en el centro la forma en que se teje la trama, y a la derecha la combinación de ambos elementos en el tejido final.')
       .row(titulo="Hilo de tela")
@@ -477,13 +473,8 @@
         
     .row.justify-content-center.mb-4.mt-5(data-aos="zoom-in-left")
       .col-sm-12.col-md-7.col-lg-3
-        h3.mb-4 Orillos de tela
-        p.mb-2 Son los bordes longitudinales de la tela,    
-        p.mb-2 están tejidos con una apariencia
-        p.mb-2 diferente y densa, como consecuencia
-        p.mb-2 de tratamientos de humectación 
-        p.mb-2 y secado, que sufren una vez han sido 
-        p.mb-2 tejidas para su estabilización.
+        h3.mb-4.mt-4 Orillos de tela
+        p.mb-2 Son los bordes longitudinales de la tela, están tejidos con una apariencia diferente y densa, como consecuencia de tratamientos de humectación y secado, que sufren una vez han sido tejidas para su estabilización.
       .col-10.col-md-5.col-lg-5
         img.p-2(src="@/assets/curso/temas/tema2/imagen21.png" alt="La figura describe dos imágenes de primeros planos de orillos de tela. El orillo es el borde terminado de la tela, que no se deshilacha. En la imagen a la izquierda, se observa un orillo blanco con texto impreso en color oscuro que parece ser parte del nombre de la empresa fabricante. La imagen a la derecha muestra varios orillos de diferentes telas, cada uno con colores y patrones distintos, además de texto impreso que incluye nombres de diseñadores, fabricantes y posiblemente información de copyright. Estos orillos muestran una variedad de colores y diseños, indicando la diversidad en la producción textil." )
 
@@ -703,30 +694,30 @@
             ul.lista-ul--color.fa-ul.color-primario
               li 
                 i.fas.fa-plus
-                | Hilo de tela.
+                span.mb-0 Hilo de tela.
               li
                 i.fas.fa-plus
-                | Referencia o diseño.
+                span.mb-0 Referencia o diseño.
               li
                 i.fas.fa-plus
-                | Nombre de la pieza.
+                span.mb-0 Nombre de la pieza.
               li
                 i.fas.fa-plus
-                | Número de veces a cortar.
+                span.mb-0 Número de veces a cortar.
           .col-sm-12.col-md-6.col-lg-6
             ul.lista-ul--color.fa-ul.color-primario
               li 
                 i.fas.fa-plus
-                | Tipo de material.
+                span.mb-0 Tipo de material.
               li
                 i.fas.fa-plus
-                | Número de pieza en el tendido.
+                span.mb-0 Número de pieza en el tendido.
               li
                 i.fas.fa-plus
-                | Piquetes.
+                span.mb-0 Piquetes.
               li
                 i.fas.fa-plus
-                | Plantilla.
+                span.mb-0 Plantilla.
       .col-8.col-md-5.col-lg-3
         img.p-3(src="@/assets/curso/temas/tema2/imagen27.svg")
 
@@ -777,19 +768,19 @@
           ul.lista-ul--color.fa-ul.color-primario
             li 
               i.fas.fa-plus
-              | #[b Referencia o diseño: ] ref:20201208.
+              span.mb-0 #[b Referencia o diseño:] ref:20201208.
             li
               i.fas.fa-plus
-              | #[b Nombre de la pieza: ] delantero o frente.
+              span.mb-0 #[b Nombre de la pieza:] delantero o frente.
             li
               i.fas.fa-plus
-              | #[b Número de veces a cortar o marcadas: ] x 3 veces.
+              span.mb-0 #[b Número de veces a cortar o marcadas:] x 3 veces.
             li
               i.fas.fa-plus
-              | #[b Tipo de material: ] x 1 v material base   x 1 v material forro  x 1 v material entretela.
+              span.mb-0 #[b Tipo de material:] x 1 v material base   x 1 v material forro  x 1 v material entretela.
             li
               i.fas.fa-plus
-              | #[b Número de pieza en el tendido: ] 1/2.
+              span.mb-0 #[b Número de pieza en el tendido:] 1/2.
         .col-md-3
             img(src='@/assets/curso/temas/tema2/imagen32.png', alt='La imagen detalla una pieza de patrón de una prenda, específicamente una camisa sin mangas, con una flecha roja que indica la dirección del hilo de tela desde arriba hacia abajo. Esto asegura que la pieza del patrón se alinee correctamente con el hilo de la tela durante el corte para mantener la integridad y el ajuste del diseño final de la prenda.')
 
@@ -1087,15 +1078,15 @@
 
     .row.justify-content-center.mb-4-mt-4
       .col-sm-12.col-md-8.col-lg-9
-        p.mb-3.mt-5 #[b ¿Qué es la textura  #[em nap ] ( #[em velvet ], pelusa,  #[em fleece ])? ]
+        p.mb-3.mt-5 #[b ¿Qué es la textura #[em nap] (#[em velvet], pelusa, #[em fleece])?]
         p Nap es la textura de los textiles que van en una dirección particular. Esta propiedad de la prenda es fundamental para garantizar la calidad de la misma. En algunos textiles se logra evidenciar el nap a simple vista como #[em velvet, fleece,] piel sintética, denim cepillado, franela, gamuza sintética, sarga, elástica, tela de felpa, etc.
         .tarjeta.color-acento-botones.borde-redondo.mt-4
           .row.justify-content-around.align-items-center
             .col-6.col-md-4.col-lg-2
               img.mt-4.mb-4.ps-5(src="@/assets/curso/temas/tema2/admiracion.png")
             .col-sm-12.col-md-8.col-lg-10
-              p.ps-3.mb-0 #[b ¿Por qué es importante el  #[em nap ]? ]
-              p.ps-3.mb-0 El nap es muy importante para determinar cómo se establece el patrón en el textil, en este caso se trabaja siempre un trazo direccional. Se debe tener en cuenta lo siguiente:
+              p.ps-3.mb-0 #[b ¿Por qué es importante el #[em nap]? ]
+              p.ps-3.mb-0 El #[em nap] es muy importante para determinar cómo se establece el patrón en el textil, en este caso se trabaja siempre un trazo direccional. Se debe tener en cuenta lo siguiente:
       .col-6.col-md-4.col-lg-3
         img.p-2(src="@/assets/curso/temas/tema2/imagen46.png")
 
@@ -1117,42 +1108,42 @@
 
     .row.justify-content-center.mb-4-mt-4
       .col-sm-12.col-md-12.col-lg-5
-        p #[b ¿Cómo identificar el  #[em nap ]? ]
-        p Al pasar las manos suavemente por el textil para sentir el  #[em nap ]/pelusa
+        p #[b ¿Cómo identificar el #[em nap]?]
+        p Al pasar las manos suavemente por el textil para sentir el  #[em nap]/pelusa
         ul.lista-ul--color.fa-ul.color-primario
           li 
             i.fas.fa-plus
-            | La sensación más suave es la dirección con  #[em nap ]/pelusa.
+            span.mb-0 La sensación más suave es la dirección con  #[em nap]/pelusa.
           li
             i.fas.fa-plus
-            | La sensación más áspera es la dirección contraria al  #[em nap ]/pelusa.
+            span.mb-0 La sensación más áspera es la dirección contraria al  #[em nap]/pelusa.
           li
             i.fas.fa-plus
-            | El brillo de la tela es diferente cuando se ve desde diferentes direcciones.
+            span.mb-0 El brillo de la tela es diferente cuando se ve desde diferentes direcciones.
       .col-10.col-md-7.col-lg-7
         img(src="@/assets/curso/temas/tema2/imagen48.svg" alt="La imagen detalla la correcta e incorrecta dirección del pelo al cortar piezas de un patrón. La sección superior, marcada como “Correct”, indica que todas las piezas del patrón están alineadas con el pelo en la misma dirección, lo cual es correcto. La sección inferior, marcada como “Incorrect”, expone piezas del patrón con el pelo en diferentes direcciones, lo cual es incorrecto. Esto asegura que la textura y apariencia de la prenda final sean uniformes. ")
 
     .row.justify-content-center.align-items-center.mb-5.mt-5
       .col-sm-12.col-md-12.col-lg-3
         p #[b Trazo o marcado ]
-        p Se recomienda que cuando se utilice este tipo de textiles con  #[em nap ], el proceso de transferir los moldes al textil se trabaje preferiblemente en un tendido abierto, sujetado con alfileres. Para marcar pinzas o elementos clave se recomienda los hilvanes o  #[em tailor tacks ].
+        p Se recomienda que cuando se utilice este tipo de textiles con #[em nap], el proceso de transferir los moldes al textil se trabaje preferiblemente en un tendido abierto, sujetado con alfileres. Para marcar pinzas o elementos clave se recomienda los hilvanes o  #[em tailor tacks].
       .col-8.col-md-7.col-lg-7
         img(src="@/assets/curso/temas/tema2/imagen49.png" alt="La imagen expone dos pasos en el proceso de confección. A la izquierda, se ve un patrón colocado sobre la tela con marcas realizadas con hilos para indicar puntos importantes del diseño. A la derecha, una persona utiliza tijeras para cortar la tela siguiendo las marcas del patrón. Estas imágenes destacan la importancia de marcar correctamente la tela antes de cortarla para asegurar precisión en el ensamblaje de la prenda.")
 
     .row.justify-content-center.mb-5-mt-5
       .col-sm-12.col-md-7.col-lg-7
         p #[b Piel sintética ]
-        p La piel sintética también cuenta con  #[em nap ]/siesta que es mucho más sencilla para identificar la dirección del vello. En este caso se debe trabajar:
+        p La piel sintética también cuenta con  #[em nap]/siesta que es mucho más sencilla para identificar la dirección del vello. En este caso se debe trabajar:
         ul.lista-ul--color.fa-ul.color-primario
           li 
             i.fas.fa-plus
-            | Trazo direccional.
+            span.mb-0 Trazo direccional.
           li
             i.fas.fa-plus
-            | Tendido abierto.
+            span.mb-0 Tendido abierto.
           li
             i.fas.fa-plus
-            | Marcación por el revés con tiza.
+            span.mb-0 Marcación por el revés con tiza.
         p Algunas tienen el vello más largo que otras, por eso es importante realizar un trazo, marcado y corte de forma adecuada.
       .col-7.col-md-5.col-lg-3
         img.mt-3(src="@/assets/curso/temas/tema2/imagen50.svg")
@@ -1163,7 +1154,7 @@
           .col-sm-12.col-md-6.col-lg-6
             .row.bgamarillo
               p.mt-5.ps-5 #[b Tips de corte, piel sintética ]
-              p.p-5 Cortar en el sentido del  #[em nap ]/vello. Realice cortadas pequeñas, preferible con la punta de la tijeras. Una vez cortado se sugiere eliminar el exceso de vello/pelo por el margen de costura, teniendo en cuenta la dirección del pelo se recomienda confeccionarlo en esa misma dirección.
+              p.p-5 Cortar en el sentido del  #[em nap]/vello. Realice cortadas pequeñas, preferible con la punta de la tijeras. Una vez cortado se sugiere eliminar el exceso de vello/pelo por el margen de costura, teniendo en cuenta la dirección del pelo se recomienda confeccionarlo en esa misma dirección.
           .col-10.col-md-6.col-lg-6
             .row.align-items-center
               img.mt-5(src="@/assets/curso/temas/tema2/imagen51.svg" alt="La imagen da las  instrucciones para cortar y trabajar con telas de pelaje o velour. Primero, se debe cortar en el sentido del vellón o nap, como se ilustra con una mano alineando el corte. Es recomendable realizar cortes pequeños, preferiblemente con la punta de la tijera, como se observa en una imagen de tijeras cortando tela rosa. Además, se aconseja tener en cuenta la dirección del pelo y confeccionarlo en esa misma dirección, mostrada en una tela gris con el pelo alineado. Finalmente, una vez cortado, se sugiere eliminar el exceso de vellón o pelo por el margen de costura, como se ve en la imagen de la tela rosa después del corte.")

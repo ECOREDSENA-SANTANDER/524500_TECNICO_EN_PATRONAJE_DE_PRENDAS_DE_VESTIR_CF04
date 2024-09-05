@@ -249,7 +249,7 @@ export default {
   ],
   glosario: [
     {
-      termino: ' #[em Marker ]',
+      termino: '<i>Marker</i>',
       significado:
         'Programa de diseño de corte, que permite la optimización del uso de textiles, a través de anidamiento automatizado o ubicación manual de piezas en la mesa de trazo.',
     },
@@ -347,12 +347,12 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de línea de producción',
           centro: 'Regional Santander Centro Agroturístico',
         },
       ],
@@ -395,12 +395,12 @@ export default {
         },
         {
           nombre: 'Lucenith Pinilla Moreno',
-          cargo: 'Desarrollador <i> Fullstack Junior </i>',
+          cargo: 'Desarrollador <i>full-stack</i> Junior',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'María Alejandra Vera Briceño',
-          cargo: 'Animadora y Productora Multimedia',
+          cargo: 'Animadora y productora multimedia',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -410,12 +410,12 @@ export default {
       autores: [
         {
           nombre: 'Yineth Ibette González Quintero',
-          cargo: 'Validadora de Recursos Educativos Digitales',
+          cargo: 'Validadora de recursos educativos digitales',
           centro: '	Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Diana Lizeth Lozada Díaz',
-          cargo: 'Evaluadora para Contenidos Inclusivos y Accesibles',
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
