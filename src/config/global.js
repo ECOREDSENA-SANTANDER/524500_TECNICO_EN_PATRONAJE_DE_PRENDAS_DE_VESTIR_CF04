@@ -32,7 +32,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Trazado de patrones ( <em> software </em> de patronaje)',
+        titulo: 'Trazado de patrones (<i>software</i> de patronaje)',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -168,7 +168,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CF4.pdf',
+        download: 'downloads/CF4_524500_DU.pdf',
       },
       {
         icono: 'fas fa-download',
