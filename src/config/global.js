@@ -47,12 +47,12 @@ export default {
           },
           {
             numero: '1.3',
-            titulo: 'Trazo de la base superior femenina – Optitex',
+            titulo: 'Trazo de la base superior femenina - Optitex',
             hash: 't_1_3',
           },
           {
             numero: '1.4',
-            titulo: 'Traslados de pinza – Optitex',
+            titulo: 'Traslados de pinza - Optitex',
             hash: 't_1_4',
           },
           {
@@ -62,7 +62,7 @@ export default {
           },
           {
             numero: '1.6',
-            titulo: 'Blusa hasta la cadera – Optitex',
+            titulo: 'Blusa hasta la cadera - Optitex',
             hash: 't_1_6',
           },
           {
@@ -72,7 +72,7 @@ export default {
           },
           {
             numero: '1.8',
-            titulo: 'Modelos de faldas – Optitex',
+            titulo: 'Modelos de faldas - Optitex',
             hash: 't_1_8',
           },
         ],
@@ -185,15 +185,14 @@ export default {
   complementario: [
     {
       tema: 'Personalizar área de trabajo.',
-      referencia:
-        'Araque, J. (13 de noviembre de 2013). Tiqueteador de tela. [video]. Youtube.',
+      referencia: 'Araque, J. (13 de noviembre de 2013). Tiqueteador de tela.',
       tipo: 'Video',
       link: 'https://youtu.be/uO2HGq24lkE',
     },
     {
       tema: 'Reconocimiento de las prendas.',
       referencia:
-        'Digitalmentes asesorías. (28 de junio de 2020). Manipulando pinzas en  Optitex. [video]. Youtube.',
+        'Digitalmentes asesorías. (28 de junio de 2020). Manipulando pinzas en  Optitex.',
       tipo: 'Video',
       link: 'https://youtu.be/7X9G8DTMV9w',
     },
@@ -214,35 +213,34 @@ export default {
     {
       tema: 'Trazado de patrones.',
       referencia:
-        'Herramientas digitales Moda. (13 de junio 2018). AUDACES TIZADA Trazo. [video]. Youtube. ',
+        'Herramientas digitales Moda. (13 de junio 2018). AUDACES TIZADA Trazo.',
       tipo: 'Video',
       link: 'https://youtu.be/C0O6derJC2s',
     },
     {
       tema: 'Trazado de patrones.',
       referencia:
-        'Herramientas digitales Moda. (15 de marzo 2018). OPTITEX - MARKER Trazo de patrones. [video]. Youtube.',
+        'Herramientas digitales Moda. (15 de marzo 2018). OPTITEX - MARKER Trazo de patrones.',
       tipo: 'Video',
       link: 'https://youtu.be/fscxWYsenLE',
     },
     {
       tema: 'Trazado de patrones.',
       referencia:
-        'Herramientas digitales Moda. (2 de mayo 2018). OPTITEX Falda Básica. [video]. Youtube.',
+        'Herramientas digitales Moda. (2 de mayo 2018). OPTITEX Falda Básica.',
       tipo: 'Video',
       link: 'https://youtu.be/oBVuhFGidN4',
     },
     {
       tema: 'Trazado de patrones.',
       referencia:
-        'Lisandro, L. (24, de octubre de 2020). Cómo crear pinzas en Optitex. [video]. Youtube.',
+        'Lisandro, L. (24, de octubre de 2020). Cómo crear pinzas en Optitex.',
       tipo: 'Video',
       link: 'https://youtu.be/DX9-gvA37e4',
     },
     {
       tema: 'Trazado de patrones.',
-      referencia:
-        'Londoño, A. (31 de marzo de 2020). Corpiño. [video]. Youtube.',
+      referencia: 'Londoño, A. (31 de marzo de 2020). Corpiño.',
       tipo: 'Video',
       link: 'https://youtu.be/yUYtfsOZoSg',
     },
@@ -353,7 +351,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Responsable de línea de producción',
-          centro: 'Regional Santander Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -370,18 +368,18 @@ export default {
           nombre: 'Natalia Andrea Bueno Pizarro',
           cargo: 'Diseñadora instruccional y evaluadora instruccional',
           centro:
-            'Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+            'Centro para la Industria de la Comunicación Gráfica - Distrito Capital',
         },
         {
           nombre: 'Julia Isabel Roberto',
           cargo: 'Diseñadora instruccional y evaluadora instruccional',
           centro:
-            'Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+            'Centro para la Industria de la Comunicación Gráfica - Distrito Capital',
         },
         {
           nombre: 'Sandra Paola Morales Páez',
           cargo: 'Evaluador instruccional',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -391,17 +389,17 @@ export default {
         {
           nombre: 'Marcos Yamid Rubiana Avellaneda ',
           cargo: 'Diseñador web',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Lucenith Pinilla Moreno',
           cargo: 'Desarrollador <i>full-stack</i> Junior',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'María Alejandra Vera Briceño',
           cargo: 'Animadora y productora multimedia',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -411,12 +409,12 @@ export default {
         {
           nombre: 'Yineth Ibette González Quintero',
           cargo: 'Validadora de recursos educativos digitales',
-          centro: '	Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },

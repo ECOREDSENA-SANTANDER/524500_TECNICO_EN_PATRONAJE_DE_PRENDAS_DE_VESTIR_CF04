@@ -723,7 +723,7 @@
 
     br
     .row.mb-4.mt-4
-      h3.text-center Señalización – Hilos de tela
+      h3.text-center Señalización - Hilos de tela
       p.text-center Para tener claro los requerimientos desde el área de patronaje es importante identificar y conocer la respectiva señalización de patrones:
 
     .row.justify-content-center.mt-4.mb-4(data-aos="zoom-in-left")

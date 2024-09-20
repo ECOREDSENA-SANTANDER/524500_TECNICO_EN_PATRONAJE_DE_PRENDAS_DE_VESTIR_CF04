@@ -9,9 +9,9 @@
       
     .row.justify-content-center.align-items-center.mt-4.mb-4(data-aos="zoom-in-left")
       .col-sm-12.col-md-7.col-lg-7
-        p Para el manejo e implementación del  #[em software ] de patronaje es necesario tener como referente el desarrollo y elaboración de básicos, de acuerdo con la metodología del manual de patronaje SENA y demás teorías estudiadas hasta el momento.
+        p Para el manejo e implementación del #[em software] de patronaje es necesario tener como referente el desarrollo y elaboración de básicos, de acuerdo con la metodología del manual de patronaje SENA y demás teorías estudiadas hasta el momento.
         .cajon.color-primario 
-          p.p-5 #[b  Para el trazo de patrones se referenciará únicamente la línea femenina; sin embargo, cabe resaltar que las herramientas del programa y manejo de interfaz aplican para cualquier línea; tenga en cuenta que el desarrollo del trabajo manual es la base para la apropiación de un proceso digital.  ]
+          p.p-5 #[b  Para el trazo de patrones se referenciará únicamente la línea femenina; sin embargo, cabe resaltar que las herramientas del programa y manejo de interfaz aplican para cualquier línea; tenga en cuenta que el desarrollo del trabajo manual es la base para la apropiación de un proceso digital.]
       .col-7.col-md-5.col-lg-3
         img(src="@/assets/curso/introduccion/imagen2.svg", alt="Interfaz software")
 
@@ -31,27 +31,27 @@
           li 
             .lista-ol--cuadro__vineta
               span 1
-            | #[b Barra de título.]
+            span Barra de #[b título.]
           li 
             .lista-ol--cuadro__vineta
               span 2
-            | #[b Barra de menú.]
+            span Barra de #[b menú.]
           li 
             .lista-ol--cuadro__vineta
               span 3
-            | #[b Barra de herramientas.]
+            span Barra de #[b herramientas.]
           li 
             .lista-ol--cuadro__vineta
               span 4
-            | #[b Ventana de piezas.]
+            span Ventana de #[b piezas.]
           li 
             .lista-ol--cuadro__vineta
               span 5
-            | #[b Ventana de herramientas.]
+            span Ventana de #[b herramientas.]
           li 
             .lista-ol--cuadro__vineta
               span 6
-            | #[b Área de trabajo.]
+            span Área de #[b trabajo.]
       .col-12.col-md-7.col-lg-7
         img(src="@/assets/curso/temas/tema1/imagen1.svg", alt="La imagen hace una descripción del paso a paso de la herramienta  para poder hacer los trazos de cada prenda, allí se enumeran las barras y ventanas que se necesitan en cada fase. La imagen expone la interfaz de un programa de diseño de patrones, probablemente para confección. En la parte superior, se encuentra la barra de menú y debajo de ella la barra de herramientas con varios íconos. A la derecha, están los controles de ventana para minimizar, maximizar y cerrar. Debajo de la barra de herramientas, hay una ventana de piezas que expone en miniatura. En el lado izquierdo, se encuentra el panel de propiedades con varias pestañas relacionadas con las herramientas y opciones del diseño. En el centro, está el área de trabajo que detalla una pieza del patrón con diversas líneas y marcas. Las flechas moradas señalan estas secciones específicas de la interfaz.")
 
@@ -73,7 +73,7 @@
           .col-md-4.mb-4.mb-md-0
             p.p-4 #[b Ubique el cursor en cada herramienta, con un clic se desactivan. ]
             br
-            p.p-4 Como se puede observar en la gráfica las herramientas no están disponibles; de esta manera se puede despejar el área de trabajo y activarlas nuevamente cuando sea necesario.
+            p.p-4 Como se puede observar en la gráfica, las herramientas no están disponibles; de esta manera se puede despejar el área de trabajo y activarlas nuevamente cuando sea necesario.
           .col-md-8
             img(src="@/assets/curso/temas/tema1/tarjeta1/imagen2.svg", alt='La imagen describe la interfaz de un programa de diseño de patrones con un menú desplegable abierto. El menú está resaltado con un óvalo negro y ofrece varias opciones como “General”, “Modelo”, “Almacenamiento”, “Bibliotecas”, “Reglas de piezas”, “Vista 3D”, y “Simulación 3D”, entre otras. A la izquierda, se encuentra el panel de herramientas con categorías como “Herramientas de Piezas”, “Herramientas Generales”, “Puntos y Piquetes”, y “Capturar Puntos y Piquetes”. El área central ilustra una regla horizontal en la parte superior del área de trabajo.')
 
@@ -86,7 +86,7 @@
       LineaTiempoC.color-acento-botones(text-small)
         .row(titulo="1")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 En la barra de menú de herramientas seleccione la opción preferencias, aparece la siguiente ventana.
+            p.ps-5 En la barra de menú de herramientas, seleccione la opción #[b preferencias], aparece la siguiente ventana.
           .col-md-7
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta2/imagen1.svg", alt='La imagen detalla una captura de pantalla de un programa de diseño de patrones con el menú “Herramientas” desplegado. En el menú, se destacan las opciones “Costura”, “Escalado”, “Aflojar”, “Pliegues”, “Editar Segmento”, “Líneas guías”, “Configuración temas…”, “Personalizar…”, “Resetear layout área trabajo…”, y “Preferencias…”. La opción “Herramientas” y “Preferencias…” están resaltadas con círculos naranjas. A la izquierda, se ve el panel de “Propiedades” con detalles de una pieza, como el nombre, cantidad y código.')
         .row(titulo="2")
@@ -117,14 +117,14 @@
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta2/imagen2.svg", alt='La imagen expone la ventana de “Preferencias” de un programa de diseño de patrones. A la izquierda, se encuentran varias categorías como “Principal”, “Interno y Texto”, “Piquete”, “Plot y corta”, “Guardar”, “Fuente”, “Colores” y “Configuración”, con subcategorías como “General”, “Pieza”, “Comando”, “Material”, “Puntada” y “Calidad”. En el panel derecho, bajo “Área de trabajo”, se pueden configurar opciones como el fondo, el color de línea guía, la rejilla, las rayas y el color de las reglas. Bajo “Pieza”, se pueden ajustar el color de relleno, el color de la pieza seleccionada, el color para contorno seleccionado, y varios otros colores específicos relacionados con el diseño de las piezas. La sección “Preferencias” está resaltada con un círculo amarillo.')
         .row(titulo="3")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 Al estar en la opción preferencias, diríjase a la carpeta principal y seleccione unidad. 
+            p.ps-5 Al estar en la opción #[b preferencias], diríjase a la carpeta #[b principal] y seleccione #[b unidad]. 
             p.ps-5.mb-0 Esta ventana permite seleccionar la unidad de medida con la que desea trabajar.
           .col-md-7
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta2/imagen3.svg", alt='La imagen describe la ventana de “Preferencias” del programa de diseño de patrones, específicamente en la sección “Principal” bajo “Unidades de trabajo”. A la izquierda, se ven varias categorías de configuración, incluyendo “Pieza”, “Interno y Texto”, “Piquete”, “Plot y corta”, “Guardar”, “Fuente”, “Colores”, “Configurar importación” y “Configurar exportación”. A la derecha, en el panel principal, se puede seleccionar la unidad de medida entre opciones como milímetros, centímetros, metros, pulgadas, pies y yardas. Ambas secciones están resaltadas con óvalos negros.')
         .row(titulo="4")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 Seleccione la carpeta colores, opción configuración.
-            p.ps-5 Activar o desactivar el relleno de las piezas: 
+            p.ps-5.mb-0 Seleccione la carpeta, #[b colores], opción #[b configuración].
+            p.ps-5 #[b Activar o desactivar] el relleno de las piezas: 
             ol.lista-ol--cuadro.fa-ol.ps-5
               li 
                 .lista-ol--cuadro__vineta
@@ -142,7 +142,7 @@
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta2/imagen4.svg", alt='La imagen expone la configuración de “Rellena pieza” en las “Preferencias” del programa de diseño de patrones. En la sección “Colores”, se puede activar o desactivar el relleno de piezas, aplicándolo a todas las piezas, ninguna, la pieza seleccionada o el set del modelo activo. También se puede elegir el método de relleno por material, pieza o calidad.')
         .row(titulo="5")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 Ahora, seleccione la carpeta colores, opción generales. Ahí se puede modificar el área de trabajo:
+            p.ps-5 Ahora, seleccione la carpeta #[b colores], opción #[b general]. Ahí se puede modificar el #[b área de trabajo]:
             ol.lista-ol--cuadro.fa-ol.ps-5
               li 
                 .lista-ol--cuadro__vineta
@@ -246,7 +246,7 @@
       LineaTiempoC.color-acento-botones(text-small)
         .row(titulo="1")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 #[b 1. ] Base de falda femenina talla 10. Para dar inicio haga clic derecho en el área de trabajo, dibuje un rectángulo, nombre la pieza como falda delantera:
+            p.ps-5 1. Base de falda femenina talla 10. Para dar inicio haga clic derecho en el área de trabajo, dibuje un rectángulo, nombre la pieza como falda delantera:
             ul.lista-ul--color.fa-ul.color-primario.ps-5
               li 
                 i.fas.fa-plus
@@ -258,7 +258,7 @@
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta4/imagen1.svg", alt='La imagen presenta la ventana de creación de un rectángulo en un programa de diseño de patrones. A la izquierda, se ve un cuadro de diálogo titulado “Crear Rectángulo” donde se especifica el nombre de la pieza (“FALDA DEL”), su ancho (24) y su largo (60). A la derecha, se visualiza el rectángulo creado con las dimensiones especificadas, etiquetado como “FALDA DEL” en color azul claro.')
         .row(titulo="2")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 #[b 2. ] Tome #[b herramienta punto ] para asignar sobre el rectángulo los puntos necesarios para darle forma a la falda. Sobre la línea vertical derecha marcar:
+            p.ps-5 2. Tome herramienta punto para asignar sobre el rectángulo los puntos necesarios para darle forma a la falda. Sobre la línea vertical derecha marcar:
             ul.lista-ul--color.fa-ul.color-primario.ps-5
               li 
                 i.fas.fa-plus
@@ -267,7 +267,7 @@
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta4/imagen2.svg", alt='La imagen expone la ventana de creación de un rectángulo en un programa de diseño de patrones. A la izquierda, se ve un cuadro de diálogo titulado “Crear Rectángulo” donde se especifica el nombre de la pieza (“FALDA DELANTERO”), su ancho (24) y su largo (60). A la derecha, se visualiza el rectángulo creado con las dimensiones especificadas, etiquetado como “FALDA DELANTERO” en color azul claro.')
         .row(titulo="3")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 #[b 3. ] Sobre la línea de cintura marque:
+            p.ps-5 3. Sobre la línea de cintura, marque:
             ul.lista-ul--color.fa-ul.color-primario.ps-5
               li 
                 i.fas.fa-plus
@@ -276,62 +276,62 @@
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta4/imagen3.svg", alt='La imagen expone una interfaz de software con una ventana emergente titulada “Atributos de Punto”. En esta ventana se pueden definir varios parámetros de un punto, como su tipo, nombre, posición (X, Y), distancia, ángulo y opciones de movimiento sobre el contorno. También se presentan valores absolutos y proporcionales para la ubicación del punto.')
         .row(titulo="4")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 #[b 4. ] Clic derecho, herramienta #[b selección]; señale punto ángulo superior derecho de rectángulo y cambie atributos, asigne atributo de curva.
+            p.ps-5 4. Clic derecho, herramienta selección; señale punto ángulo superior derecho de rectángulo y cambie atributos, asigne atributo de curva.
           .col-md-7
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta4/imagen4.svg", alt='La imagen describe una captura de pantalla de una interfaz de software de diseño. A la izquierda, se expone un objeto azul etiquetado como “FALDA DELANTERA Base”. En el centro, aparece un menú desplegable titulado “Seleccionar Herramienta” con varias opciones. A la derecha, se encuentra un panel de propiedades con opciones para un punto seleccionado, y al lado, una ventana.')
         .row(titulo="5")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 #[b 5. ] Tome herramienta #[b mover ] punto (tecla rápida M), modele curva de cadera.
+            p.ps-5 5. Tome herramienta mover punto (tecla rápida M), modele curva de cadera.
           .col-md-7
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta4/imagen5.svg", alt='La imagen presenta una ventana de software de diseño con un cuadro de diálogo titulado “Mover Punto.” En este cuadro se presentan opciones para mover un punto en un gráfico mediante coordenadas y ángulos específicos. Los campos de entrada muestran valores numéricos: -1.97, 7.92, -7.67 y -104.4. Hay opciones para aceptar o cancelar la acción. A la derecha, se detalla una parte de un gráfico con una forma azul claro y una curva verde conectada a puntos de control en rosa, junto a una regla en la parte superior.')
         .row(titulo="6")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 #[b 6. ] Tome herramienta #[b mover punto], para modificar el punto de cintura costado, subir 1 cm por costado. Marque en el eje Y 1 cm positivo y en el eje X 0.
+            p.ps-5 6. Tome herramienta mover punto, para modificar el punto de cintura costado, subir 1 cm por costado. Marque en el eje Y 1 cm positivo y en el eje X 0.
           .col-md-7
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta4/imagen6.svg", alt='La imagen describe una ventana de software de diseño, probablemente un programa de CAD o similar. En el cuadro de diálogo titulado “Mover Punto,” se presentan opciones para mover un punto en un gráfico. Se pueden ajustar las coordenadas y ángulos, y hay botones para aceptar o cancelar la acción. A la derecha del cuadro de diálogo, se expone una parte de un gráfico con una forma en azul claro y puntos de control en rosa.')
         .row(titulo="7")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 #[b 7. ] Para marcar la curva de cintura traiga una línea guía, ubique un punto en cintura con atributo de #[b curva]. Tome la herramienta mover punto y modifique la línea de cintura sin sobrepasar la línea guía trazada.
+            p.ps-5 7. Para marcar la curva de cintura traiga una línea guía, ubique un punto en cintura con atributo de curva. Tome la herramienta mover punto y modifique la línea de cintura sin sobrepasar la línea guía trazada.
           .col-md-7
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta4/imagen7.svg", alt='La imagen presenta una ventana de software de diseño con un cuadro de diálogo titulado “Atributos de Punto.” En este cuadro, se detallan varias opciones de configuración para un punto en un gráfico. Los tipos de punto incluyen “Curva” y “Escalado,” con casillas de verificación para cada uno. También hay opciones para mover el punto sobre el contorno, ajustar las coordenadas X e Y, la distancia y el ángulo. Los campos de entrada exponen valores para el punto previo y el punto siguiente, tanto en términos absolutos como proporcionales. En la parte inferior hay botones para “OK” y “Cancelar.” A la izquierda del cuadro de diálogo, se describe una parte del gráfico con una forma azul claro y puntos de control en rosa.')
         .row(titulo="8")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 #[b 8. ] Para marcar la pinza, en el grupo de herramientas de insertar tome la herramienta #[b pinza - añadir y girar pinza. ]
+            p.ps-5 8. Para marcar la pinza, en el grupo de herramientas de insertar, tome la herramienta pinza - añadir y girar pinza.
           .col-md-7
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta4/imagen8.svg", alt='La imagen expone un menú desplegable en un software de diseño, específicamente en la pestaña “Insertar.” Las opciones del menú incluyen “Añadir y girar pinza,” “Agregar Aflojo,” y “Crear pinza por puntos pivotes,” entre otras.')
         .row(titulo="9")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 #[b 9. ] Para macar la pinza en relación con la separación de busto, tenga en cuenta la medida del primer lado de la pinza; marque en absoluto la medida del primer lado de pinza. Marque la medida de la amplitud de la pinza.
+            p.ps-5 9. Para macar la pinza en relación con la separación de busto, tenga en cuenta la medida del primer lado de la pinza; marque en absoluto la medida del primer lado de pinza. Marque la medida de la amplitud de la pinza.
           .col-md-7
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta4/imagen9.svg", alt='La imagen presenta dos cuadros de diálogo de “Atributos de Punto” en un software de diseño. Cada cuadro permite configurar el tipo de punto (Curva o Escalado), las coordenadas X e Y, la distancia y el ángulo. También se pueden detallar los valores absolutos y proporcionales del punto previo y del punto siguiente. Los cuadros tienen botones para “OK” y “Cancelar.” En el fondo se presenta parte de un gráfico con una forma azul claro y puntos de control en rosa.')
         .row(titulo="10")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 #[b 10. ] En la pestaña #[b propiedades ] seleccione la opción #[b profundidad], en este espacio asigne la medida de profundidad o largo de la pinza.
+            p.ps-5 10. En la pestaña propiedades seleccione la opción profundidad, en este espacio asigne la medida de profundidad o largo de la pinza.
           .col-md-7
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta4/imagen10.svg", alt='La imagen presenta una sección de un software de diseño con el panel de “Propiedades” abierto a la izquierda. En este panel, se preentan atributos como “Profundidad” (9.5 cm), “Ancho” (2 cm), “Sobrepuesta” (CCW), entre otros. A la derecha, hay un gráfico con una forma azul claro y un objeto seleccionado, indicado por un contorno punteado y una figura geométrica con líneas guía. ')
         .row(titulo="11")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 #[b 11. ] Para modificar los hilos de tela, en la caja de #[b herramientas líneas de aplome] escoja la herramienta #[b hilo paralelo al tramo]. Seleccione en sentido de las manecillas del reloj la #[b línea de centro frente], para dejar el aplome paralelo al centro.
+            p.ps-5 11. Para modificar los hilos de tela, en la caja de herramientas líneas de aplome escoja la herramienta hilo paralelo al tramo. Seleccione en sentido de las manecillas del reloj la línea de centro frente, para dejar el aplome paralelo al centro.
           .col-md-7
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta4/imagen11.svg", alt='La imagen presenta el panel “Caja herramientas” de un software de diseño de patrones a la izquierda, con varias opciones. A la derecha, hay dos piezas de patrón en azul claro etiquetadas como “FALDA DELANTERO Base” con puntos de control en rosa y líneas guía.')
         .row(titulo="12")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 #[b 12. ] Seleccione herramienta #[b centrar aplome], para centrar el aplome o hilo de tela en relación con la pieza.
+            p.ps-5 12. Seleccione herramienta centrar aplome, para centrar el aplome o hilo de tela en relación con la pieza.
           .col-md-7
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta4/imagen12.svg", alt='La imagen presenta un software de diseño de patrones con el panel “Caja herramientas” a la izquierda y una pieza de patrón en azul claro a la derecha, etiquetada como “FALDA DEL Base.” Las opciones del panel incluyen “Centrar Aplome (Ctrl+I)” y “Girar por línea de hilo (Shift+P).”')
         .row(titulo="13")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 #[b 13. ] Al finalizar la parte delantera, dé clic derecho sobre la pieza y seleccione #[b limpiar piezas]. Reemplace el original, de esta manera se actualiza la pieza en la #[b ventana - ventana de piezas. ]
+            p.ps-5 13. Al finalizar la parte delantera, dé clic derecho sobre la pieza y seleccione limpiar piezas. Reemplace el original, de esta manera se actualiza la pieza en la ventana - ventana de piezas.
           .col-md-7
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta4/imagen13.svg", alt='La imagen expone un menú contextual de un software de diseño de patrones junto a una pieza de patrón en azul claro etiquetada como “FALDA DELANTERO Base.” El menú incluye opciones como “Seleccionar Herramienta,” “Atributos,” “Borrar,” “Limpiar Piezas” con sub opciones “Reemplazar Original” y “Remover Actual,” entre otras.')
         .row(titulo="14")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 #[b 14. ] Para crear la parte posterior, dé #[b clic derecho ] sobre el #[b área de trabajo], seleccione la opción #[b nueva pieza], posteriormente la opción #[b crear un rectángulo]. También puede acceder por la barra de menú.
+            p.ps-5 14. Para crear la parte posterior, dé clic derecho sobre el área de trabajo, seleccione la opción nueva pieza, posteriormente la opción crear un rectángulo. También puede acceder por la barra de menú.
           .col-md-7
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta4/imagen14.svg", alt='La imagen presenta dos menús desplegables en un software de diseño de patrones. El menú de la izquierda tiene la opción “Nueva pieza” con sub opciones para crear diferentes formas: “Crear Rectángulo,” “Crear Polígono,” “Crear Círculo,” “Crear Sector,” y “Crear Espiral.” El menú de la derecha también expone opciones similares bajo la opción “Nueva pieza,” como “Crear Rectángulo,” “Crear Polígono,” “Crear Círculo,” “Crear Sector,” y “Crear Espiral.”')
         .row(titulo="15")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 #[b 15. ] En la ventana emergente asignar el nombre de la pieza como #[b falda posterior].
+            p.ps-5 15. En la ventana emergente asignar el nombre de la pieza como falda posterior.
             ul.lista-ul--color.fa-ul.color-primario.ps-5
               li 
                 i.fas.fa-plus
@@ -343,7 +343,7 @@
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta4/imagen15.svg", alt='La imagen presenta un cuadro de diálogo del software de diseño de patrones titulado “Crear Rectángulo.” En el cuadro, se ingresa el nombre de la pieza como “FALDA POSTERIOR,” y se especifican las dimensiones: ancho de 24 y largo de 60. A la derecha, se expone la representación gráfica de la pieza de patrón en azul claro, etiquetada como “FALDA POSTERIOR Base.” ')
         .row(titulo="16")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 #[b 16. ] Tomar herramienta #[b punto sobre ] (tecla rápida O), para asignar sobre el rectángulo los puntos necesarios para darle forma a la falda.  Sobre la línea vertical derecha, marcar:
+            p.ps-5 16. Tomar herramienta punto sobre (tecla rápida O), para asignar sobre el rectángulo los puntos necesarios para darle forma a la falda.  Sobre la línea vertical derecha, marcar:
             ul.lista-ul--color.fa-ul.color-primario.ps-5
               li 
                 i.fas.fa-plus
@@ -357,37 +357,37 @@
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta4/imagen16.svg", alt='La imagen presenta dos cuadros de diálogo de “Atributos de Punto” en un software de diseño de patrones. Ambos cuadros permiten configurar el tipo de punto (Curva o Escalado), coordenadas X e Y, distancia y ángulo. También se detallan valores para el punto previo y el punto siguiente en términos absolutos y proporcionales. Los cuadros tienen botones para “OK” y “Cancelar.” En el fondo, se presenta parte de las piezas de patrón en azul claro etiquetadas como “FALDA POSTERIOR.”')
         .row(titulo="17")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 #[b 17. ] Haga clic derecho en la herramienta #[b selección]; señale el punto ángulo superior derecho del rectángulo y cambie los atributos, asigne atributo de curva.
+            p.ps-5 17. Haga clic derecho en la herramienta selección; señale el punto ángulo superior derecho del rectángulo y cambie los atributos, asigne atributo de curva.
           .col-md-7
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta4/imagen17.svg", alt='La imagen expone el panel “Propiedades” de un software de diseño de patrones a la izquierda, con opciones como “Escalado,” “Curva,” “Conectado,” “Nombre,” “Ángulo,” “Costura,” y “Punto alternativo de partida.” A la derecha, se presentan dos piezas de patrón: una en negro etiquetada como “FALDA DELANTERO” y otra en azul claro etiquetada como “FALDA POSTERIOR Base.” Ambas piezas tienen puntos de control en rosa y líneas de guía. ')
         .row(titulo="18")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 #[b 18. ] Tome herramienta #[b mover punto ] (tecla rápida M); modele curva de cadera.
+            p.ps-5 18. Tome herramienta mover punto (tecla rápida M); modele curva de cadera.
           .col-md-7
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta4/imagen18.svg", alt='La imagen expone un cuadro de diálogo titulado “Mover Punto” en un software de diseño de patrones. El cuadro permite ajustar la posición de un punto utilizando coordenadas y ángulos específicos. Los campos de entrada detallan los valores: -1.64, 7.74, -7.56 y -102.2. Hay opciones para aceptar o cancelar la acción. A la derecha, se presenta parte de una pieza de patrón en azul claro con puntos de control en rosa y una curva verde.')
         .row(titulo="19")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 #[b 19. ] Tome herramienta mover punto, para modificar el punto de cintura costado, subir 1 cm por costado. Marque en el eje de Y 1 cm positivo y en el eje X 0.
+            p.ps-5 19. Tome herramienta mover punto, para modificar el punto de cintura costado, subir 1 cm por costado. Marque en el eje de Y 1 cm positivo y en el eje X 0.
           .col-md-7
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta4/imagen19.svg", alt='La imagen expone dos cuadros de diálogo titulados “Mover Punto” en un software de diseño de patrones. Ambos cuadros permiten ajustar la posición de un punto utilizando coordenadas y ángulos. Los valores en los campos de entrada del primer cuadro son: 0.13, 1.34, 1.33, y 95.5. En el segundo cuadro, los valores son: 0, 1, 1, y 90.0. Hay opciones para aceptar o cancelar la acción. ')
         .row(titulo="20")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 #[b 20. ] Baje el punto de cintura centro atrás 1 cm. Marque en el eje de Y -1 cm y en el eje X 0. Para marcar la curva de cintura traiga una línea guía y ubique un punto en cintura con atributo de curva. Tome herramienta mover punto y modifique la línea de cintura sin sobrepasar la línea guía trazada.
+            p.ps-5 20. Baje el punto de cintura centro atrás 1 cm. Marque en el eje de Y -1 cm y en el eje X 0. Para marcar la curva de cintura, traiga una línea guía y ubique un punto en cintura con atributo de curva. Tome herramienta mover punto y modifique la línea de cintura sin sobrepasar la línea guía trazada.
           .col-md-7
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta4/imagen20.svg", alt='La imagen presenta un cuadro de diálogo titulado “Mover Punto” en un software de diseño de patrones. El cuadro permite ajustar la posición de un punto utilizando coordenadas y ángulos específicos. Los valores en los campos de entrada son: 0.03, 1, 1, y -88.5. Hay opciones para aceptar o cancelar la acción. A la derecha, se presenta una parte de una pieza de patrón en azul claro con puntos de control en rosa y una línea verde.')
         .row(titulo="21")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 #[b 21. ] Para marcar la pinza, en el grupo de herramientas de insertar tome la herramienta #[b pinza, opción añadir y girar pinza. ] Para marcar la pinza en relación con la separación de busto, se debe tener en cuenta la medida del primer lado de la pinza, marque en absoluto la medida del primer lado de la pinza; marque la medida de la amplitud de la pinza.
+            p.ps-5 21. Para marcar la pinza, en el grupo de herramientas de insertar tome la herramienta pinza, opción añadir y girar pinza. Para marcar la pinza en relación con la separación de busto, se debe tener en cuenta la medida del primer lado de la pinza, marque en absoluto la medida del primer lado de la pinza; marque la medida de la amplitud de la pinza.
           .col-md-7
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta4/imagen21.svg", alt='La imagen presenta el menú desplegable “Añadir y girar pinza” en un software de diseño de patrones, con opciones como “Agregar Aflojo,” “Crear pinza por puntos pivotes,” y “Cortar pinza por arco.” A la derecha, se encuentra un cuadro de diálogo de “Atributos de Punto” con opciones para ajustar el tipo de punto (Curva o Escalado), las coordenadas X e Y, distancia y ángulo. Los valores presentados  en el cuadro son: Absoluto 2.75 y 1.95, Proporcional 0.833 y 0.167. ')
         .row(titulo="22")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 #[b 22. ] En la pestaña #[b propiedades, opción profundidad], asigne la medida de #[b profundidad o largo de la pinza. ] 
+            p.ps-5 22. En la pestaña propiedades, opción profundidad, asigne la medida de profundidad o largo de la pinza.
           .col-md-7
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta4/imagen22.svg", alt='La imagen expone el panel “Propiedades” de un software de diseño de patrones a la izquierda, con atributos de la pieza seleccionada como “Profundidad” (11.1 cm), “Ancho” (3 cm), y “Sobrepuesta” (CCW). A la derecha, se presenta la pieza de patrón en azul claro etiquetada como “FALDA POSTERIOR” con una pinza o pliegue delineado y un símbolo de guía en el centro.')
         .row(titulo="23")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 #[b 23. ] Para modificar los hilos de tela, en la caja de #[b herramientas, opción movimiento, mover pieza interna. ] Tome el hilo de tela de la pieza delantera y arrastrarlo hacia la pieza posterior. 
+            p.ps-5 23. Para modificar los hilos de tela, en la caja de herramientas, opción movimiento, mover pieza interna. Tome el hilo de tela de la pieza delantera y arrastrarlo hacia la pieza posterior. 
           .col-md-7
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta4/imagen23.svg", alt='La imagen presenta el panel “Caja herramientas” de un software de diseño de patrones, destacando la opción “Mover” con sub opciones como “Mover punto (M)” y “Mover línea (B).” A la derecha, se exponen cuatro piezas de patrón en azul claro, etiquetadas como “FALDA POSTERIOR” con puntos de control en rosa y líneas de guía. Cada pieza detalla diferentes detalles de ajuste y configuración.')
 
@@ -467,7 +467,7 @@
           img.p-5(src="@/assets/curso/temas/tema1/tarjeta5/imagen5.svg", alt='La imagen presenta un patrón de costura con una línea central vertical. Una flecha horizontal señala dos puntos en el patrón, con el texto “Medimos la distancia entre estos puntos para deducir la medida de mitad de ancho espalda.” Esta instrucción indica cómo determinar la medida de la mitad del ancho de la espalda utilizando los puntos indicados.')
       .row.borde-redondo-tmorada(titulo="Paso 6")
         .col-md-4.mb-4.mb-md-0
-          p.p-5 Mida  la distancia señalada en la gráfica y a esta réstele el valor de la mitad del ancho de espalda para saber cuánto debe #[b mover el punto ] de la sisa, con el fin de darle la forma a la misma; con la herramienta mover punto, mueva en X el valor que se debe restar para darle la medida de ancho de espalda, y en Y debe quedar 0.
+          p.p-5 Mida  la distancia señalada en la gráfica y a esta, réstele el valor de la mitad del ancho de espalda para saber cuánto debe #[b mover el punto ] de la sisa, con el fin de darle la forma a la misma; con la herramienta mover punto, mueva en X el valor que se debe restar para darle la medida de ancho de espalda, y en Y debe quedar 0.
         .col-md-8
           img.p-5(src="@/assets/curso/temas/tema1/tarjeta5/imagen6.svg", alt='La imagen presenta un patrón de costura con una línea central vertical y una nueva línea en verde en la parte superior izquierda del patrón. Debajo del patrón, hay un cuadro de diálogo titulado “Mover Punto,” que permite ajustar la posición de un punto utilizando coordenadas específicas. Los valores en los campos de entrada son: 3.2 y 3.2 para las coordenadas, y 0° para el ángulo. Hay opciones para aceptar o cancelar la acción.')
       .row.borde-redondo-tmorada(titulo="Paso 7")
@@ -477,7 +477,7 @@
           img.p-5(src="@/assets/curso/temas/tema1/tarjeta5/imagen7.svg", alt='La imagen expone tres etapas en la modificación de un patrón de costura. Primero, se presenta el patrón original. Luego, se añade una línea verde curva al patrón, utilizando un cuadro de diálogo titulado “Crear arco” con campos para el número de puntos y el radio. Finalmente, el patrón modificado detalla la curva aplicada, indicando que el punto seleccionado tiene atributos tanto de escalado como de curva, según el texto que dice: “Doble clic sobre este punto y además de atributo de escalado, le damos también de curva.” ')
       .row.borde-redondo-tmorada(titulo="Paso 8")
         .col-md-4.mb-4.mb-md-0
-          p.p-5 Con la herramienta mover punto entalle la medida de cintura correspondiente a la talla. Fije un punto con atributo de escalado a 9 cm, que corresponde a la medida de la mitad de separación del busto. Según el método de patronaje utilizado, el costado posterior es igual a la medida A-B más 1 cm. Se edita el largo del segmento de costado, siguiendo las indicaciones de la imagen.
+          p.p-5 Con la herramienta mover punto, entalle la medida de cintura correspondiente a la talla. Fije un punto con atributo de escalado a 9 cm, que corresponde a la medida de la mitad de separación del busto. Según el método de patronaje utilizado, el costado posterior es igual a la medida A-B más 1 cm. Se edita el largo del segmento de costado, siguiendo las indicaciones de la imagen.
         .col-md-8
           img.p-5(src="@/assets/curso/temas/tema1/tarjeta5/imagen8.svg", alt='La imagen expone dos patrones de costura y dos cuadros de diálogo. El primer patrón está etiquetado con puntos A y B, indicando que “A ponemos punto a mitad de separación de hombro”. El segundo patrón refleja una modificación con una curva añadida. Los cuadros de diálogo muestran la “Ventana de medidas” con opciones para editar la longitud del segmento y el cuadro “Largo del segmento” con opciones para ajustar la longitud y posición del segmento, resaltando “Largo” y “Primera posición”. ')
 
@@ -490,7 +490,7 @@
             .col-sm-12.col-lg-10
               .row.justify-content-between.align-items-center
                 .col-sm-12.col-lg-8.mb-sm-0
-                  p.mb-0.text-white Para una mejor comprensión revisar el siguiente video de “trazado de corpiño básico”.
+                  p.mb-0.text-white Para una mejor comprensión, revisar el siguiente video de “trazado de corpiño básico”.
                 .col-sm-12.col-lg-4
                   a.boton.color-boton(href=" https://youtu.be/yUYtfsOZoSg" target="_blank")
                     span.texto-negro Ir al sitio
@@ -530,24 +530,27 @@
         .row(titulo="1")
           .col-md-5.mb-4.mb-md-0
             p.ps-5.mb-4 #[b 1. ] Se parte de un rectángulo, cuyas dimensiones son:
-            ul.lista-ul--color.fa-ul.color-primario.ps-1
+            ul.lista-ul--color.fa-ul.color-primario.ps-5
               li 
                 i.fas.fa-plus
                 span.mb-0 #[b Largo del rectángulo=] medida de talle delantero.
               li
                 i.fas.fa-plus
                 span.mb-0 #[b Ancho=] ¼ de la medida de contorno de busto.
-            p.ps-5.mt-5.mb-5 Sobre el rectángulo se ubican los puntos de:
-            ul.lista-ul--color.fa-ul.color-primario.ps-1
+            p.ps-5.mt-4.mb-4 Sobre el rectángulo se ubican los puntos de:
+            ul.lista-ul--color.fa-ul.color-primario.ps-5
               li 
                 i.fas.fa-plus
-                span.mb-0 #[b Centro frente (punto A). ]
+                span.mb-0 #[b Centro frente (punto A).]
               li
                 i.fas.fa-plus
-                span.mb-0 #[b ½ de la medida de talle (punto B). Este punto se ubica utilizando la ventana de punto proporcional 0,5. ]
+                span.mb-0 #[b ½ de la medida de talle (punto B).] 
+              li
+                i.fas.fa-plus  
+                span.mb-0 #[b Este punto se ubica utilizando la ventana de punto proporcional 0,5.]
               li
                 i.fas.fa-plus
-                | #[b El punto B corresponde a la altura de sisa. ]
+                span.mb-0 #[b El punto B corresponde a la altura de sisa.]
           .col-md-7
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta7/imagen1.svg", alt='La imagen presenta cómo ubicar un punto en un patrón de costura usando un software de diseño. Se expone un rectángulo con dos puntos, Punto A y Punto B, conectados por una línea horizontal. A la derecha, una ventana de “Atributos de Punto” detalla las configuraciones, destacando la opción “Proporcional” en 0.5. Esta configuración posiciona el punto de manera proporcional respecto a otros puntos en el patrón.')
         .row(titulo="2")
@@ -567,7 +570,7 @@
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta7/imagen4.svg", alt='La imagen expone un software de diseño de patrones de costura, enfocado en la configuración del largo de un segmento. En la parte superior izquierda, hay una ventana titulada “Largo del segmento” donde se introduce la medida de 12 en el campo “Largo”, resaltada en un círculo rojo. Abajo, otra ventana titulada “Editar largo del segmento” también tiene el campo “Largo” con el valor 12.05, igualmente resaltado. A la derecha, el patrón de costura presenta las modificaciones aplicadas, con líneas y guías punteadas azules que ayudan a ajustar y verificar las dimensiones del segmento en el diseño de la prenda. ')
         .row(titulo="5")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 #[b 5. ] Para editar la medida de hombro utilice la herramienta #[b medida].
+            p.ps-5 #[b 5. ] Para editar la medida de hombro, utilice la herramienta #[b medida].
           .col-md-7
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta7/imagen5.svg", alt='La imagen detalla una barra de herramientas del software de diseño de patrones de costura, específicamente la sección llamada “Pieza”. Entre los íconos disponibles, uno está resaltado con un círculo rojo, aunque parece estar deshabilitado (en gris). Los íconos incluyen herramientas para manipular y ajustar piezas del patrón, como medir, cortar, y seleccionar diferentes tipos de prendas.')
         .row(titulo="6")
@@ -587,7 +590,7 @@
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta7/imagen8.svg", alt='La imagen presnta un patrón de costura con instrucciones para trazar la curva de la sisa y ubicar el punto de separación del busto. En la parte superior, se indica “Trazar la curva de sisa con ayuda de líneas guías”, utilizando líneas punteadas azules como referencia. En la parte inferior, una flecha roja señala “Ubicar el punto de separación de busto”, marcando su posición en el patrón.')
         .row(titulo="9")
           .col-md-5.mb-4.mb-md-0
-            p.ps-5 #[b 9. ] Para editar el largo de medida de costado seleccione los puntos en el #[b sentido de las manecillas del reloj]. De acuerdo con la figura se debe editar el último punto en forma diagonal. La medida de costado del patrón delantero #[b debe ser igual al costado del posterior. ]
+            p.ps-5 #[b 9. ] Para editar el largo de medida de costado, seleccione, los puntos en el #[b sentido de las manecillas del reloj]. De acuerdo con la figura se debe editar el último punto en forma diagonal. La medida de costado del patrón delantero #[b debe ser igual al costado del posterior. ]
           .col-md-7
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta7/imagen9.svg", alt='La imagen presenta una ventana de "Largo del segmento" del software de diseño de patrones de costura. A la izquierda, la "Ventana de medidas"  detalla como la distancia, ángulo, y largo del segmento seleccionado, con un valor base de 22.25. En el centro, se ve el patrón de una prenda con líneas que indican las medidas ajustadas. A la derecha, otra ventana de "Largo del segmento" presenta un valor de 18.25 y opciones para extender el segmento en dirección vertical, horizontal o diagonal. Estas ventanas permiten ajustar y medir segmentos específicos del patrón.')
         .row(titulo="10")
@@ -643,7 +646,7 @@
             img.p-3(src="@/assets/curso/temas/tema1/tarjeta8/imagen1.svg", alt='La imagen detalla dos patrones de costura para la parte delantera y trasera de una prenda, como una camisa o blusa. El patrón de la izquierda, marcado como “Base SUPERIOR FRENTE”, corresponde a la parte delantera, mientras que el de la derecha, “Base SUPERIOR ESPALDA”, corresponde a la parte trasera. Ambos patrones incluyen puntos de referencia en rosa que indican lugares clave para la construcción de la prenda. Las líneas de contorno definen los bordes de cada pieza, incluyendo el escote, la sisa, el costado y el dobladillo. Las flechas indican la dirección de la base y sirven como guía para la alineación y corte de la tela.')
         .row.justify-content-center.my-lg-4
           .col-md-4.mb-4.mb-md-0
-            p.p-5 #[b 2. ] Traiga  una línea guía de la regla vertical y llévela hasta el ángulo #[b cintura costado.] Con la herramienta #[b mover punto] lleve el ángulo cintura costado a la intersección de las dos líneas guías.
+            p.p-5 #[b 2. ] Traiga  una línea guía de la regla vertical y llévela hasta el ángulo #[b cintura costado.] Con la herramienta #[b mover punto,] lleve el ángulo cintura costado a la intersección de las dos líneas guías.
           .col-md-8
             img.p-3(src="@/assets/curso/temas/tema1/tarjeta8/imagen2.svg", alt='La imagen detalla dos patrones de costura para la parte delantera de una prenda, etiquetados como “Base SUPERIOR FRENTE”. Ambos patrones son azules y tienen puntos de referencia en rosa para la construcción. Las líneas de contorno definen los bordes de la pieza, y las flechas indican la dirección de la base para guiar el corte de la tela.')
         .row.justify-content-center.my-lg-4
@@ -658,12 +661,12 @@
               li 
                 i.fas.fa-plus
                 span.mb-0 #[b Cintura:] ¼ contorno de cintura + pinza.
-            p.ps-5 Al tomar como punto de partida los 9 cm, marque un punto a 12 cm para que quede exactamente la medida ¼ contorno de cintura, 17 cm + 4 cm de pinza, para un total de 21 cm. Con la herramienta #[b puntos sobre ] (tecla rápida O) a partir de los 9 cm ubicar un punto a 12 cm o el restante para la medida de cintura.
+            p.ps-5 Al tomar como punto de partida los 9 cm, marque un punto a 12 cm para que quede exactamente la medida ¼ contorno de cintura, 17 cm + 4 cm de pinza, para un total de 21 cm. Con la herramienta #[b puntos sobre ] (tecla rápida O) a partir de los 9 cm, ubicar un punto a 12 cm o el restante para la medida de cintura.
           .col-md-8
             img.p-3(src="@/assets/curso/temas/tema1/tarjeta8/imagen4.svg", alt='La imagen expone una ventana de configuración de atributos de punto en un software de diseño de patrones de costura, junto a un patrón para la parte delantera de una prenda etiquetado como “Base SUPERIOR FRENTE”. En la ventana de configuración, se pueden ajustar las coordenadas (X e Y), la distancia, el ángulo, y si el punto es una curva o escalado. También se detalla la posición relativa y absoluta del punto en relación con otros puntos del patrón.')
         .row.justify-content-center.my-lg-4
           .col-md-4.mb-4.mb-md-0
-            p.p-5 #[b 5. ] Dé clic derecho, escoja la herramienta #[b selección], señale el punto del costado y suprimir. Para verificar nuevamente las medidas oprimir la #[b tecla F8].
+            p.p-5 #[b 5. ] Dé clic derecho, escoja la herramienta #[b selección], señale el punto del costado y suprimir. Para verificar nuevamente las medidas, oprimir la #[b tecla F8].
           .col-md-8
             img.p-3(src="@/assets/curso/temas/tema1/tarjeta8/imagen5.svg", alt='La imagen presenta tres vistas de patrones de costura en un software de diseño. En la vista izquierda, se detalla el patrón de la parte delantera de una prenda etiquetado como “Base SUPERIOR FRENTE”. En el centro, hay un menú contextual del software con opciones como “Seleccionar Herramienta”, “Líneas guía”, “Nueva pieza”, “Insertar”, “Herramientas”, “Segmento”, “Zoom”, y “Deshacer Agregar un punto”. En la parte derecha, se expone el mismo patrón delantero con medidas específicas entre puntos clave. Los patrones están en azul y tienen puntos de referencia en rosa, con líneas de contorno que definen los bordes y flechas que indican la dirección de la base.')
         .row.justify-content-center.my-lg-4
@@ -678,7 +681,7 @@
             img.p-3(src="@/assets/curso/temas/tema1/tarjeta8/imagen7.svg", alt='La imagen detallan dos versiones del patrón de costura para la parte delantera de una prenda, etiquetados como “Base SUPERIOR FRENTE”. Ambos patrones son azules y tienen puntos de referencia en rosa. Las líneas de contorno definen los bordes de cada pieza, y las flechas indican la dirección de la base. La diferencia entre los dos patrones es que el de la derecha tiene una línea adicional horizontal y vertical, posiblemente para ajustes o modificaciones específicas del diseño. ')
         .row.justify-content-center.my-lg-4
           .col-md-4.mb-4.mb-md-0
-            p.p-5 #[b 8. ] Para verificar el largo de los costados oprima la #[b tecla F8]. Para validar el largo del costado delantero tome la medida con la herramienta #[b medir], del grupo de herramientas de pieza, o sume los dos segmentos que aparecen.
+            p.p-5 #[b 8. ] Para verificar el largo de los costados, oprima la #[b tecla F8]. Para validar el largo del costado delantero, tome la medida con la herramienta #[b medir], del grupo de herramientas de pieza, o sume los dos segmentos que aparecen.
           .col-md-8
             img.p-3(src="@/assets/curso/temas/tema1/tarjeta8/imagen8.svg", alt='La imagen expone dos patrones de costura, uno delantero y otro trasero, ambos etiquetados como “Base SUPERIOR FRENTE” y “Base SUPERIOR ESPALDA”. Cada patrón está en azul con puntos de referencia en rosa y medidas entre puntos clave. También se ve una herramienta de medición del software de diseño, que permite ajustar ángulos y longitudes de los segmentos del patrón.')
         .row.justify-content-center.my-lg-4
@@ -703,17 +706,17 @@
             img.p-3(src="@/assets/curso/temas/tema1/tarjeta8/imagen12.svg", alt='La imagen expone tres capturas de pantalla de un software de diseño de patrones de costura. La primera captura presenta la “Caja de herramientas” con varias opciones para mover puntos y piezas, resaltando “Mover Interno (I)”. La segunda y tercera capturas detallan el patrón delantero de una prenda, etiquetado como “Base SUPERIOR FRENTE”, con líneas y puntos ajustados utilizando las herramientas seleccionadas.')
         .row.justify-content-center.my-lg-4
           .col-md-4.mb-4.mb-md-0
-            p.p-5 #[b 13. ] Como ya se identifican las pinzas y para poder actualizarlas pulse #[b clic derecho, opción limpiar pieza, actualizar pieza. Eliminar o suprimir la pieza posterior.]
+            p.p-5 #[b 13. ] Como ya se identifican las pinzas y para poder actualizarlas pulse #[b clic derecho, opción, limpiar pieza, actualizar pieza. Eliminar o suprimir la pieza posterior.]
           .col-md-8
             img.p-3(src="@/assets/curso/temas/tema1/tarjeta8/imagen13.svg", alt='La imagen expone tres capturas de pantalla de un software de diseño de patrones de costura. La primera captura presenta la “Caja de herramientas” con varias opciones para mover puntos y piezas, resaltando “Mover Interno (I)”. La segunda y tercera capturas detallan el patrón delantero de una prenda, etiquetado como “Base SUPERIOR FRENTE”, con líneas y puntos ajustados utilizando las herramientas seleccionadas.')
         .row.justify-content-center.my-lg-4
           .col-md-4.mb-4.mb-md-0
-            p.p-5 #[b 14. ] Para poder realizar los diferentes tipos de traslados de pinza copie la pieza actual del delantero. Para copiar la pieza, en la ventana pieza dé clic #[b derecho en pieza - crear como nueva]. Cree las copias que considere necesarias de acuerdo con la cantidad de traslados de pinza que se vayan a realizar.
+            p.p-5 #[b 14. ] Para poder realizar los diferentes tipos de traslados de pinza, copie la pieza actual del delantero. Para copiar la pieza, en la ventana pieza dé clic #[b derecho en pieza - crear como nueva]. Cree las copias que considere necesarias de acuerdo con la cantidad de traslados de pinza que se vayan a realizar.
           .col-md-8
             img.p-3(src="@/assets/curso/temas/tema1/tarjeta8/imagen14.svg", alt='La imagen expone una captura de pantalla de un software de diseño de patrones de costura con una ventana emergente de opciones para editar piezas. La opción seleccionada es “Crear copia nueva”. En el fondo, hay varios patrones delanteros de una prenda etiquetados como “Base SUPERIOR FRENTE”, uno de ellos en azul y los demás en blanco. Cada patrón tiene líneas y puntos de referencia ajustados. ')
         .row.justify-content-center.my-lg-4
           .col-md-4.mb-4.mb-md-0
-            p.p-5 #[b 15. ] Para empezar los traslados de pinza inicie con un traslado de hombro, tome #[b herramienta pinza], opción #[b añadir y girar pinza]. Al acercarse al vértice de pinza, de la pinza correctiva de talle se identifica un cambio de color, señalando qué se puede modificar o trasladar.
+            p.p-5 #[b 15. ] Para empezar los traslados de pinza inicie con un traslado de hombro, tome #[b herramienta pinza], opción #[b añadir y girar pinza]. Al acercarse al vértice de pinza, de la pinza correctiva de talle, se identifica un cambio de color, señalando qué se puede modificar o trasladar.
           .col-md-8
             img.p-3(src="@/assets/curso/temas/tema1/tarjeta8/imagen15.svg", alt='La imagen expone un menú del software de diseño de patrones con la opción “Añadir y girar pinza” seleccionada. A la derecha, un patrón delantero de una prenda (“Base SUPERIOR FRENTE”) tiene una pinza añadida y ajustada.')
         .row.justify-content-center.my-lg-4
@@ -824,7 +827,7 @@
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta9/imagen5.svg", alt='La imagen detalla dos patrones de costura para la parte delantera de una prenda, etiquetados como “Base SUPERIOR FRENTE”. Cada patrón presenta variaciones en las líneas de construcción y puntos de referencia, indicando diferentes ajustes y modificaciones. Los patrones están en azul con puntos de referencia en rosa, y las líneas de construcción exponen cómo se pueden alterar los patrones para adaptar la prenda.')
         .row(titulo="6")
           .col-md-4.mb-4.mb-md-0
-            p.ps-5 #[b 6. ] Para eliminar los excedentes de pinza del corte siguiente se debe tomar la herramienta #[b cortar a pieza] (tecla rápida C), fijar punto desde el hombro hacia sisa, hasta punto de vértice de pinza, #[b cancelar ventana emergente y separar pieza.]
+            p.ps-5 #[b 6. ] Para eliminar los excedentes de pinza del corte siguiente se debe tomar la herramienta, #[b cortar a pieza] (tecla rápida C), fijar punto desde el hombro hacia sisa, hasta punto de vértice de pinza, #[b cancelar ventana emergente y separar pieza.]
           .col-md-8
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta9/imagen6.svg", alt='La imagen detalla tres capturas de pantalla de un software de diseño de patrones de costura. A la izquierda, se presenta el menú de la herramienta “Pieza” con la opción “Cortar a pieza” seleccionada. En el centro, se expone un patrón delantero de una prenda etiquetado como “Base SUPERIOR FRENTE” con líneas de construcción adicionales que indican un corte. A la derecha, el patrón cortado en dos piezas separadas, reflejando el ajuste realizado.')
         .row(titulo="7")
@@ -834,12 +837,12 @@
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta9/imagen7.svg", alt='La imagen detalla dos capturas de pantalla de un software de diseño de patrones de costura. A la izquierda, se presenta un patrón delantero de prenda etiquetado como “Base SUPERIOR FRENTE” cortado en dos partes. A la derecha, el patrón se ha dividido en tres piezas separadas: la parte superior, una pieza intermedia, y una pieza pequeña adicional, todas etiquetadas y ajustadas según las líneas de construcción y puntos de referencia.')
         .row(titulo="8")
           .col-md-4.mb-4.mb-md-0
-            p.ps-5 #[b 8. ] Separe la pieza hasta obtener piezas entre frente, pieza acostado y sobrantes de pinza. Para eliminar los sobrantes de las pinzas haga #[b clic sobre la pieza] para identificar el nombre o la pieza en la #[b ventana de piezas]. Luego de identificar la pieza en la ventana de piezas dé clic sobre la ventana, opción #[b editar - borrar pieza desde modelo.]
+            p.ps-5 #[b 8. ] Separe la pieza hasta obtener piezas entre frente, pieza acostado y sobrantes de pinza. Para eliminar los sobrantes de las pinzas, haga #[b clic sobre la pieza] para identificar el nombre o la pieza en la #[b ventana de piezas]. Luego de identificar la pieza en la ventana de piezas, dé clic sobre la ventana, opción #[b editar - borrar pieza desde modelo.]
           .col-md-8
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta9/imagen8.svg", alt='La imagen presenta dos capturas de pantalla de un software de diseño de patrones de costura. En la captura de la izquierda, se presenta la ventana “Ventana piezas” con varias piezas de patrones, destacando la “Base SUPERIOR FRENTE” que se ha dividido en varias partes. En la captura de la derecha, un menú contextual indica las opciones para editar, cortar, copiar y borrar piezas, con la opción “Borrar Pieza desde modelo” resaltada. Las piezas del patrón se presentan separadas y etiquetadas, listas para ser ajustadas o eliminadas según sea necesario.')
         .row(titulo="9")
           .col-md-4.mb-4.mb-md-0
-            p.ps-5 #[b 9. ] Repita el ejercicio hasta eliminar todos los sobrantes y dejar únicamente las piezas correspondientes al corte. Con el fin de suavizar las puntas generadas en cada uno de los cortes, lo primero que debe hacer es limpiar la pieza, para ello, #[b haga clic sobre el corte], una vez se seleccione indica que quedó el segmento de la pinza anterior, oprimir la tecla #[b suprimir] para eliminar dicho segmento.
+            p.ps-5 #[b 9. ] Repita el ejercicio hasta eliminar todos los sobrantes y dejar únicamente las piezas correspondientes al corte. Con el fin de suavizar las puntas generadas en cada uno de los cortes, lo primero que debe hacer es limpiar la pieza, para ello, #[b haga clic sobre el corte], una vez se seleccione indica, que quedó el segmento de la pinza anterior, oprimir la tecla #[b suprimir] para eliminar dicho segmento.
           .col-md-8
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta9/imagen9.svg", alt='La imagen expone tres capturas de pantalla de un software de diseño de patrones de costura. En la primera captura, se detalla la ventana "Ventana piezas" con varias piezas de patrones, destacando la "Base SUPERIOR FRENTE" que se ha dividido en varias partes. En la segunda captura, se presenta un patrón delantero de prenda con una pinza añadida y líneas de construcción adicionales, representado como varias piezas etiquetadas. En la tercera captura, las piezas del patrón se exponen separadas y etiquetadas, destacando la "Base SUPERIOR FRENTE" dividida en tres partes, listas para ser ajustadas o ensambladas.')
         .row(titulo="10")
@@ -864,7 +867,7 @@
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta9/imagen13.svg", alt='La imagen expone dos partes de una interfaz de software de diseño de patrones de costura. La parte izquierda detalla la interfaz completa con dos piezas de patrón, una recta y otra curva (coloreada en azul), y un panel de propiedades con opciones como “Principal”, “Escalado”, “Curva”, entre otras. La parte derecha representa una ampliación de la pieza curva en azul, detallando los puntos y líneas de ajuste. ')
         .row(titulo="14")
           .col-md-4.mb-4.mb-md-0
-            p.ps-5 #[b 14. ] Para modificar o actualizar el nombre de la pieza, seleccionar la pieza en la ventana propiedades, pestaña cambiar nombre, haga doble clic y escribir el nombre deseado.
+            p.ps-5 #[b 14. ] Para modificar o actualizar el nombre de la pieza, seleccionar la pieza en la ventana, propiedades, pestaña cambiar nombre, haga doble clic y escribir el nombre deseado.
           .col-md-8
             img.p-2(src="@/assets/curso/temas/tema1/tarjeta9/imagen14.svg", alt='La imagen expone dos partes de una interfaz de software de diseño de patrones de costura. A la izquierda, se presenta la interfaz completa con una pieza de patrón curva (coloreada en azul) y un panel de propiedades con opciones como “Principal”, “Nombre”, “Escalado”, entre otras. A la derecha, representa una ampliación de la misma pieza curva en azul, detallando los puntos y líneas de ajuste.')
         .row(titulo="15")
@@ -882,7 +885,7 @@
             .col-sm-12.col-lg-10
               .row.justify-content-between.align-items-center
                 .col-sm-12.col-lg-8.mb-sm-0
-                  p.mb-0.text-white Para una mejor comprensión del tema revisar el siguiente video sobre “cortes de base superior femenina”.
+                  p.mb-0.text-white Para una mejor comprensión del tema, revisar el siguiente video sobre “cortes de base superior femenina”.
                 .col-sm-12.col-lg-4
                   a.boton.color-boton(href="https://www.youtube.com/watch?v=5IFOw9kqvGw" target="_blank")
                     span.texto-negro Ir al sitio
@@ -916,12 +919,12 @@
             img.p-3(src="@/assets/curso/temas/tema1/tarjeta10/imagen2.svg", alt='La imagen expone tres vistas de una pieza de patrón titulada “Base Sup FRENTE” (coloreada en azul) en una interfaz de software de diseño de patrones de costura. Las tres imágenes presentan la misma pieza, pero con diferentes líneas y puntos de ajuste, exponiendo variaciones en los detalles de costura y ajustes. Cada vista incluye líneas punteadas y sólidas que indican diferentes secciones y posibles ajustes de la pieza del patrón. ')
         .row.justify-content-center.my-lg-4
           .col-md-4.mb-4.mb-md-0
-            p.p-5 #[b 3. ] En la ventana emergente #[b movimiento paralelo del tramo], marque el largo deseado, teniendo en cuenta el eje X y el eje Y, posteriormente haga clic en el botón #[b aceptar. ]
+            p.p-5 #[b 3. ] En la ventana emergente, #[b movimiento paralelo del tramo], marque el largo deseado, teniendo en cuenta el eje X y el eje Y, posteriormente haga clic en el botón #[b aceptar. ]
           .col-md-8
             img.p-3(src="@/assets/curso/temas/tema1/tarjeta10/imagen3.svg", alt='La imagen detalla dos partes de una interfaz de software de diseño de patrones de costura. A la izquierda, se presenta una ventana emergente titulada “Movimiento paralelo del tramo”, donde se pueden ingresar valores numéricos y direcciones para ajustar el movimiento de los puntos del patrón. A la derecha, se expone una pieza de patrón titulada “Base Sup FRENTE” (coloreada en azul) con líneas y puntos de ajuste, indicando las modificaciones realizadas. ')
         .row.justify-content-center.my-lg-4
           .col-md-4.mb-4.mb-md-0
-            p.p-5 #[b 4. ] Al modificar el largo se identifica la variación en la pinza, es decir, se ve la pinza anclada al largo. Para eliminar la pinza dé #[b clic derecho] en la #[b herramienta selección], seleccione el trayecto o la pinza y suprimir, de igual manera, se debe suprimir todos y cada uno de los puntos de la pinza.
+            p.p-5 #[b 4. ] Al modificar el largo se identifica la variación en la pinza, es decir, se ve la pinza anclada al largo. Para eliminar la pinza, dé #[b clic derecho] en la #[b herramienta selección], seleccione el trayecto o la pinza y suprimir, de igual manera, se debe suprimir todos y cada uno de los puntos de la pinza.
           .col-md-8
             img.p-3(src="@/assets/curso/temas/tema1/tarjeta10/imagen4.svg", alt='La imagen detallan tres vistas de una pieza de patrón titulada “Base Sup FRENTE” (coloreada en azul) en una interfaz de software de diseño de patrones de costura. En la imagen izquierda, se expone un menú desplegable con opciones como “Seleccionar Herramienta”, “Líneas guía”, “Nueva pieza”, “Herramientas”, “Segmento”, y “Zoom”. Las imagenes central y derecha presentan la misma pieza de patrón con diferentes detalles de líneas y puntos de ajuste, indicando posibles modificaciones en la costura. ')
         .row.justify-content-center.my-lg-4
