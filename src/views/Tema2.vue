@@ -1264,21 +1264,7 @@
     AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--purple")(data-aos="zoom-in-left")
       .row.borde-redondo-tmorada(titulo="Fusionado")
         .col-md-12.mb-4.mb-md-0
-          p.p-5 Una vez se corta la tela y la entretela, para entretelar se utiliza una máquina fusionadora, que a través de presión y calor adhiere la entretela a la tela. Es importante el control de temperatura según el textil, ya que puede generar encogimiento. En el siguiente video puede apreciar la operación.
-          .row.justify-content-around.align-items-center
-            .col-8
-              .tarjeta.borde-redondo.p-4.mb-5(style='background-color: #673AB7')
-                .row.justify-content-around.align-items-center
-                  .col-sm-12.col-lg-2.d-none.d-lg-block
-                    img(src="@/assets/template/icono-video.svg")
-                  .col-sm-12.col-lg-10
-                    .row.justify-content-between.align-items-center
-                      .col-sm-12.col-lg-9.mb-sm-0
-                        p.mb-0.text-white Para una mejor comprensión del tema revisar el siguiente video.
-                      .col-sm-12.col-lg-3
-                        a.boton.color-boton(href="https://youtu.be/2DkN1Ur5Dw0" target="_blank")
-                          span.texto- Ir al sitio
-                          i.fas.fa-video.
+          p.p-5 Una vez se corta la tela y la entretela, para entretelar se utiliza una máquina fusionadora, que a través de presión y calor adhiere la entretela a la tela. Es importante el control de temperatura según el textil, ya que puede generar encogimiento.
       .row.borde-redondo-tmorada(titulo="Paqueteo")
         .col-md-12.mb-4.mb-md-0
           p.p-5 Consiste en separar por bloques las piezas cortadas, paqueteando la cantidad definida de todas las piezas que conforman la prenda, amarrando y conformando paquetes de 10 a 20 unidades; para así facilitar el control de producción y de calidad. Una vez se paquetee es importante el almacenamiento, utilizando la técnica de Kanban para entregarlas a ensamble.
