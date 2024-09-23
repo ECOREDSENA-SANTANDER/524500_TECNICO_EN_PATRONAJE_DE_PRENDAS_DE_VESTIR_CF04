@@ -400,7 +400,7 @@
             .col-sm-12.col-lg-10
               .row.justify-content-between.align-items-center
                 .col-sm-12.col-lg-8.mb-sm-0
-                  p.mb-0.text-white Para una mejor comprensión revisar el siguiente video de “trazo de falda en Optitex”.
+                  p.mb-0.text-white Para una mejor comprensión, revisar el siguiente video de “trazo de falda básica”.
                 .col-sm-12.col-lg-4
                   a.boton.color-boton(href="https://www.youtube.com/watch?v=Bm8tEpqKDtI" target="_blank")
                     span.texto-negro Ir al sitio
@@ -613,7 +613,7 @@
             .col-sm-12.col-lg-10
               .row.justify-content-between.align-items-center
                 .col-sm-12.col-lg-8.mb-sm-0
-                  p.mb-4.mt-4.text-white A continuación, le invito a revisar el siguiente video sobre el "trazo de la base superior femenina”.
+                  p.mb-2.mt-3.text-white A continuación, le invito a revisar el siguiente video sobre el "trazo de la base superior femenina”.
                 .col-sm-12.col-lg-4
                   a.boton.color-boton(href="https://www.youtube.com/watch?v=X4KNcAe4-FA" target="_blank")
                     span.texto-negro Ir al sitio
@@ -626,7 +626,7 @@
             .col-sm-12.col-lg-10
               .row.justify-content-between.align-items-center
                 .col-sm-12.col-lg-8.mb-sm-0
-                  p.mb-0.text-white También se recomienda revisar el siguiente video para una mejor compresión sobre cómo “crear, modificar y trasladar los diferentes estilos de pinza en Optitex”.
+                  p.mb-0.text-white También se recomienda revisar el siguiente video para una mejor compresión sobre “Optitex - Cómo crear pinzas.”.
                 .col-sm-12.col-lg-4
                   a.boton.color-boton(href="https://youtu.be/DX9-gvA37e4" target="_blank")
                     span Ir al sitio
@@ -769,7 +769,7 @@
             .col-sm-12.col-lg-10
               .row.justify-content-between.align-items-center
                 .col-sm-12.col-lg-8.mb-sm-0
-                  p.mb-0.text-white Para una mejor comprensión del tema le invito a revisar el siguiente video sobre “traslados de pinzas”.
+                  p.mb-0.text-white Para una mejor comprensión del tema le invito a revisar el siguiente video sobre “traslados de pinza”.
                 .col-sm-12.col-lg-4
                   a.boton.color-boton(href="https://www.youtube.com/watch?v=5MttEL044vw" target="_blank")
                     span.texto-negro Ir al sitio
@@ -885,7 +885,7 @@
             .col-sm-12.col-lg-10
               .row.justify-content-between.align-items-center
                 .col-sm-12.col-lg-8.mb-sm-0
-                  p.mb-0.text-white Para una mejor comprensión del tema, revisar el siguiente video sobre “cortes de base superior femenina”.
+                  p.mb-0.text-white Para una mejor comprensión del tema, revisar el siguiente video sobre “cortes base superior femenina”.
                 .col-sm-12.col-lg-4
                   a.boton.color-boton(href="https://www.youtube.com/watch?v=5IFOw9kqvGw" target="_blank")
                     span.texto-negro Ir al sitio
@@ -1029,7 +1029,7 @@
             .col-sm-12.col-lg-10
               .row.justify-content-between.align-items-center
                 .col-sm-12.col-lg-8.mb-sm-0
-                  p.mb-0.text-white Para una mejor comprensión del tema revisar el siguiente video de “blusa hasta cadera delantero”. 
+                  p.mb-0.text-white Para una mejor comprensión del tema revisar el siguiente video de “blusa hasta la cadera delantero”. 
                 .col-sm-12.col-lg-4
                   a.boton.color-boton(href="https://www.youtube.com/watch?v=nK68BdFTM6Y" target="_blank")
                     span.texto-negro Ir al sitio
@@ -1042,7 +1042,7 @@
             .col-sm-12.col-lg-10
               .row.justify-content-between.align-items-center
                 .col-sm-12.col-lg-8.mb-sm-0
-                  p.mb-0.text-white Para una mejor comprensión del tema revisar el siguiente video de “blusa hasta cadera posterior”. 
+                  p.mb-0.text-white Para una mejor comprensión del tema revisar el siguiente video de “blusa hasta la cadera posterior”. 
                 .col-sm-12.col-lg-4
                   a.boton.color-boton(href="https://www.youtube.com/watch?v=SGyBgw1NNlk" target="_blank")
                     span.texto-negro Ir al sitio
@@ -1145,7 +1145,7 @@
             .col-sm-12.col-lg-10
               .row.justify-content-between.align-items-center
                 .col-sm-12.col-lg-8.mb-sm-0
-                  p.mb-0.text-white Para una mejor comprensión del tema revisar el siguiente video de “corte princesa y francés”. 
+                  p.mb-0.text-white Para una mejor comprensión del tema revisar el siguiente video de “cortes princesa y francés”. 
                 .col-sm-12.col-lg-4
                   a.boton.color-boton(href="https://www.youtube.com/watch?v=FV13Ljc1TxM" target="_blank")
                     span.texto-negro Ir al sitio
@@ -1263,7 +1263,7 @@
             .col-sm-12.col-lg-10
               .row.justify-content-between.align-items-center
                 .col-sm-12.col-lg-8.mb-sm-0
-                  p.mb-0.text-white Para una mejor comprensión del tema le invito a revisar el video “modelos de faldas en Optitex”.
+                  p.mb-0.text-white Para una mejor comprensión del tema le invito a revisar el video “modelos de faldas”.
                 .col-sm-12.col-lg-4
                   a.boton.color-boton(href="https://www.youtube.com/watch?v=oNEVi41jzMk" target="_blank")
                     span.texto-negro Ir al sitio
